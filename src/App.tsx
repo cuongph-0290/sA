@@ -1,9 +1,4 @@
-import {
-  BrowserRouter as Router,
-  Route,
-  Link,
-  Routes,
-} from "react-router-dom";
+import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 import Home from "./pages/home";
 import Analyst from "./pages/analyst";
 import React from "react";
