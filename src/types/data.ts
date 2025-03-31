@@ -7,4 +7,6 @@ export enum StockExchangeName {
 export interface CompanyStockInfo {
   name: string;
   href: string;
+  businessSector?: string;
+  businessSectorIds: Array<string>;
 }

@@ -1,2582 +1,5130 @@
 [
   {
     "name": "A32",
-    "href": "/du-lieu/upcom/A32-cong-ty-co-phan-32.chn"
+    "href": "/du-lieu/upcom/A32-cong-ty-co-phan-32.chn",
+    "businessSectorIds": [
+      "5",
+      "136"
+    ]
   },
   {
     "name": "AAH",
-    "href": "/du-lieu/upcom/AAH-cong-ty-co-phan-hop-nhat.chn"
+    "href": "/du-lieu/upcom/AAH-cong-ty-co-phan-hop-nhat.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "AAS",
-    "href": "/du-lieu/upcom/AAS-cong-ty-co-phan-chung-khoan-smartinvest.chn"
+    "href": "/du-lieu/upcom/AAS-cong-ty-co-phan-chung-khoan-smartinvest.chn",
+    "businessSectorIds": [
+      "19",
+      "20"
+    ]
   },
   {
     "name": "ABB",
-    "href": "/du-lieu/upcom/ABB-ngan-hang-thuong-mai-co-phan-an-binh.chn"
+    "href": "/du-lieu/upcom/ABB-ngan-hang-thuong-mai-co-phan-an-binh.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "ABC",
-    "href": "/du-lieu/upcom/ABC-cong-ty-co-phan-truyen-thong-vmg.chn"
+    "href": "/du-lieu/upcom/ABC-cong-ty-co-phan-truyen-thong-vmg.chn",
+    "businessSectorIds": [
+      "55",
+      "55"
+    ]
   },
   {
     "name": "ABI",
-    "href": "/du-lieu/upcom/ABI-cong-ty-co-phan-bao-hiem-ngan-hang-nong-nghiep.chn"
+    "href": "/du-lieu/upcom/ABI-cong-ty-co-phan-bao-hiem-ngan-hang-nong-nghiep.chn",
+    "businessSectorIds": [
+      "19",
+      "34"
+    ]
   },
   {
     "name": "ABW",
-    "href": "/du-lieu/upcom/ABW-ctcp-chung-khoan-an-binh.chn"
+    "href": "/du-lieu/upcom/ABW-ctcp-chung-khoan-an-binh.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "ACE",
-    "href": "/du-lieu/upcom/ACE-cong-ty-co-phan-be-tong-ly-tam-an-giang.chn"
+    "href": "/du-lieu/upcom/ACE-cong-ty-co-phan-be-tong-ly-tam-an-giang.chn",
+    "businessSectorIds": [
+      "22",
+      "127"
+    ]
   },
   {
     "name": "ACM",
-    "href": "/du-lieu/upcom/ACM-cong-ty-co-phan-tap-doan-khoang-san-a-cuong.chn"
+    "href": "/du-lieu/upcom/ACM-cong-ty-co-phan-tap-doan-khoang-san-a-cuong.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "ACS",
-    "href": "/du-lieu/upcom/ACS-cong-ty-co-phan-xay-lap-thuong-mai-2.chn"
+    "href": "/du-lieu/upcom/ACS-cong-ty-co-phan-xay-lap-thuong-mai-2.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "ACV",
-    "href": "/du-lieu/upcom/ACV-tong-cong-ty-cang-hang-khong-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/ACV-tong-cong-ty-cang-hang-khong-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "22",
+      "26"
+    ]
   },
   {
     "name": "AFX",
-    "href": "/du-lieu/upcom/AFX-cong-ty-co-phan-xuat-nhap-khau-nong-san-thuc-pham-an-giang.chn"
+    "href": "/du-lieu/upcom/AFX-cong-ty-co-phan-xuat-nhap-khau-nong-san-thuc-pham-an-giang.chn",
+    "businessSectorIds": [
+      "3",
+      "27"
+    ]
   },
   {
     "name": "AG1",
-    "href": "/du-lieu/upcom/AG1-cong-ty-co-phan-281.chn"
+    "href": "/du-lieu/upcom/AG1-cong-ty-co-phan-281.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "AGF",
-    "href": "/du-lieu/upcom/AGF-cong-ty-co-phan-xuat-nhap-khau-thuy-san-an-giang.chn"
+    "href": "/du-lieu/upcom/AGF-cong-ty-co-phan-xuat-nhap-khau-thuy-san-an-giang.chn",
+    "businessSectorIds": [
+      "3",
+      "4"
+    ]
   },
   {
     "name": "AGP",
-    "href": "/du-lieu/upcom/AGP-cong-ty-co-phan-duoc-pham-agimexpharm.chn"
+    "href": "/du-lieu/upcom/AGP-cong-ty-co-phan-duoc-pham-agimexpharm.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "AGX",
-    "href": "/du-lieu/upcom/AGX-cong-ty-co-phan-thuc-pham-nong-san-xuat-khau-sai-gon.chn"
+    "href": "/du-lieu/upcom/AGX-cong-ty-co-phan-thuc-pham-nong-san-xuat-khau-sai-gon.chn",
+    "businessSectorIds": [
+      "5",
+      "134"
+    ]
   },
   {
     "name": "AIC",
-    "href": "/du-lieu/upcom/AIC-tong-cong-ty-co-phan-bao-hiem-hang-khong.chn"
+    "href": "/du-lieu/upcom/AIC-tong-cong-ty-co-phan-bao-hiem-hang-khong.chn",
+    "businessSectorIds": [
+      "19",
+      "90"
+    ]
   },
   {
     "name": "AIG",
-    "href": "/du-lieu/upcom/AIG-cong-ty-co-phan-nguyen-lieu-a-chau-aig.chn"
+    "href": "/du-lieu/upcom/AIG-cong-ty-co-phan-nguyen-lieu-a-chau-aig.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "ALV",
-    "href": "/du-lieu/upcom/ALV-cong-ty-co-phan-xay-dung-alvico.chn"
+    "href": "/du-lieu/upcom/ALV-cong-ty-co-phan-xay-dung-alvico.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "AMP",
-    "href": "/du-lieu/upcom/AMP-cong-ty-co-phan-armephaco.chn"
+    "href": "/du-lieu/upcom/AMP-cong-ty-co-phan-armephaco.chn",
+    "businessSectorIds": [
+      "60",
+      "85"
+    ]
   },
   {
     "name": "AMS",
-    "href": "/du-lieu/upcom/AMS-cong-ty-co-phan-co-khi-xay-dung-amecc.chn"
+    "href": "/du-lieu/upcom/AMS-cong-ty-co-phan-co-khi-xay-dung-amecc.chn",
+    "businessSectorIds": [
+      "22",
+      "127"
+    ]
   },
   {
     "name": "ANT",
-    "href": "/du-lieu/upcom/ANT-cong-ty-co-phan-rau-qua-thuc-pham-an-giang.chn"
+    "href": "/du-lieu/upcom/ANT-cong-ty-co-phan-rau-qua-thuc-pham-an-giang.chn",
+    "businessSectorIds": [
+      "3",
+      "92"
+    ]
   },
   {
     "name": "APC",
-    "href": "/du-lieu/upcom/APC-cong-ty-co-phan-chieu-xa-an-phu.chn"
+    "href": "/du-lieu/upcom/APC-cong-ty-co-phan-chieu-xa-an-phu.chn",
+    "businessSectorIds": [
+      "3",
+      "92"
+    ]
   },
   {
     "name": "APF",
-    "href": "/du-lieu/upcom/APF-cong-ty-co-phan-nong-san-thuc-pham-quang-ngai.chn"
+    "href": "/du-lieu/upcom/APF-cong-ty-co-phan-nong-san-thuc-pham-quang-ngai.chn",
+    "businessSectorIds": [
+      "3",
+      "27"
+    ]
   },
   {
     "name": "APL",
-    "href": "/du-lieu/upcom/APL-ctcp-co-khi-va-thiet-bi-ap-luc-vvmi.chn"
+    "href": "/du-lieu/upcom/APL-ctcp-co-khi-va-thiet-bi-ap-luc-vvmi.chn",
+    "businessSectorIds": [
+      "22",
+      "127"
+    ]
   },
   {
     "name": "APP",
-    "href": "/du-lieu/upcom/APP-cong-ty-co-phan-phat-trien-phu-gia-va-san-pham-dau-mo.chn"
+    "href": "/du-lieu/upcom/APP-cong-ty-co-phan-phat-trien-phu-gia-va-san-pham-dau-mo.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "ATA",
-    "href": "/du-lieu/upcom/ATA-cong-ty-co-phan-ntaco.chn"
+    "href": "/du-lieu/upcom/ATA-cong-ty-co-phan-ntaco.chn",
+    "businessSectorIds": [
+      "3",
+      "4"
+    ]
   },
   {
     "name": "ATB",
-    "href": "/du-lieu/upcom/ATB-cong-ty-co-phan-an-thinh.chn"
+    "href": "/du-lieu/upcom/ATB-cong-ty-co-phan-an-thinh.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "ATG",
-    "href": "/du-lieu/upcom/ATG-cong-ty-co-phan-an-truong-an.chn"
+    "href": "/du-lieu/upcom/ATG-cong-ty-co-phan-an-truong-an.chn",
+    "businessSectorIds": [
+      "1",
+      "115"
+    ]
   },
   {
     "name": "AVC",
-    "href": "/du-lieu/upcom/AVC-cong-ty-co-phan-thuy-dien-a-vuong.chn"
+    "href": "/du-lieu/upcom/AVC-cong-ty-co-phan-thuy-dien-a-vuong.chn",
+    "businessSectorIds": [
+      "24",
+      "86"
+    ]
   },
   {
     "name": "AVG",
-    "href": "/du-lieu/upcom/AVG-ctcp-phan-bon-quoc-te-au-viet.chn"
+    "href": "/du-lieu/upcom/AVG-ctcp-phan-bon-quoc-te-au-viet.chn",
+    "businessSectorIds": [
+      "14",
+      "137"
+    ]
   },
   {
     "name": "BAL",
-    "href": "/du-lieu/upcom/BAL-cong-ty-co-phan-bao-bi-bia-ruou-nuoc-giai-khat.chn"
+    "href": "/du-lieu/upcom/BAL-cong-ty-co-phan-bao-bi-bia-ruou-nuoc-giai-khat.chn",
+    "businessSectorIds": [
+      "5",
+      "138"
+    ]
   },
   {
     "name": "BBH",
-    "href": "/du-lieu/upcom/BBH-ctcp-bao-bi-hoang-thach.chn"
+    "href": "/du-lieu/upcom/BBH-ctcp-bao-bi-hoang-thach.chn",
+    "businessSectorIds": [
+      "1",
+      "63"
+    ]
   },
   {
     "name": "BBM",
-    "href": "/du-lieu/upcom/BBM-cong-ty-co-phan-bia-ha-noi-nam-dinh.chn"
+    "href": "/du-lieu/upcom/BBM-cong-ty-co-phan-bia-ha-noi-nam-dinh.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BBT",
-    "href": "/du-lieu/upcom/BBT-cong-ty-co-phan-bong-bach-tuyet.chn"
+    "href": "/du-lieu/upcom/BBT-cong-ty-co-phan-bong-bach-tuyet.chn",
+    "businessSectorIds": [
+      "60",
+      "85"
+    ]
   },
   {
     "name": "BCA",
-    "href": "/du-lieu/upcom/BCA-cong-ty-co-phan-bch.chn"
+    "href": "/du-lieu/upcom/BCA-cong-ty-co-phan-bch.chn",
+    "businessSectorIds": [
+      "1",
+      "115"
+    ]
   },
   {
     "name": "BCP",
-    "href": "/du-lieu/upcom/BCP-cong-ty-co-phan-duoc-enlie.chn"
+    "href": "/du-lieu/upcom/BCP-cong-ty-co-phan-duoc-enlie.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "BCR",
-    "href": "/du-lieu/upcom/BCR-cong-ty-co-phan-bcg-land.chn"
+    "href": "/du-lieu/upcom/BCR-cong-ty-co-phan-bcg-land.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "BDG",
-    "href": "/du-lieu/upcom/BDG-cong-ty-co-phan-may-mac-binh-duong.chn"
+    "href": "/du-lieu/upcom/BDG-cong-ty-co-phan-may-mac-binh-duong.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "BDT",
-    "href": "/du-lieu/upcom/BDT-cong-ty-co-phan-xay-lap-va-vat-lieu-xay-dung-dong-thap.chn"
+    "href": "/du-lieu/upcom/BDT-cong-ty-co-phan-xay-lap-va-vat-lieu-xay-dung-dong-thap.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "BDW",
-    "href": "/du-lieu/upcom/BDW-cong-ty-co-phan-cap-thoat-nuoc-binh-dinh.chn"
+    "href": "/du-lieu/upcom/BDW-cong-ty-co-phan-cap-thoat-nuoc-binh-dinh.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "BGE",
-    "href": "/du-lieu/upcom/BGE-cong-ty-co-phan-bcg-energy.chn"
+    "href": "/du-lieu/upcom/BGE-cong-ty-co-phan-bcg-energy.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "BHA",
-    "href": "/du-lieu/upcom/BHA-cong-ty-co-phan-thuy-dien-bac-ha.chn"
+    "href": "/du-lieu/upcom/BHA-cong-ty-co-phan-thuy-dien-bac-ha.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "BHC",
-    "href": "/du-lieu/upcom/BHC-cong-ty-co-phan-be-tong-bien-hoa.chn"
+    "href": "/du-lieu/upcom/BHC-cong-ty-co-phan-be-tong-bien-hoa.chn",
+    "businessSectorIds": [
+      "11",
+      "12"
+    ]
   },
   {
     "name": "BHI",
-    "href": "/du-lieu/upcom/BHI-tong-cong-ty-co-phan-bao-hiem-sai-gon-ha-noi.chn"
+    "href": "/du-lieu/upcom/BHI-tong-cong-ty-co-phan-bao-hiem-sai-gon-ha-noi.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "BHP",
-    "href": "/du-lieu/upcom/BHP-cong-ty-co-phan-bia-ha-noi-hai-phong.chn"
+    "href": "/du-lieu/upcom/BHP-cong-ty-co-phan-bia-ha-noi-hai-phong.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BIG",
-    "href": "/du-lieu/upcom/BIG-ctcp-big-invest-group.chn"
+    "href": "/du-lieu/upcom/BIG-ctcp-big-invest-group.chn",
+    "businessSectorIds": [
+      "11",
+      "77"
+    ]
   },
   {
     "name": "BII",
-    "href": "/du-lieu/upcom/BII-cong-ty-co-phan-dau-tu-va-phat-trien-cong-nghiep-bao-thu.chn"
+    "href": "/du-lieu/upcom/BII-cong-ty-co-phan-dau-tu-va-phat-trien-cong-nghiep-bao-thu.chn",
+    "businessSectorIds": [
+      "11",
+      "31"
+    ]
   },
   {
     "name": "BIO",
-    "href": "/du-lieu/upcom/BIO-cong-ty-co-phan-vac-xin-va-sinh-pham-nha-trang.chn"
+    "href": "/du-lieu/upcom/BIO-cong-ty-co-phan-vac-xin-va-sinh-pham-nha-trang.chn",
+    "businessSectorIds": [
+      "60",
+      "139"
+    ]
   },
   {
     "name": "BLF",
-    "href": "/du-lieu/upcom/BLF-cong-ty-co-phan-thuy-san-bac-lieu.chn"
+    "href": "/du-lieu/upcom/BLF-cong-ty-co-phan-thuy-san-bac-lieu.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "BLI",
-    "href": "/du-lieu/upcom/BLI-tong-cong-ty-co-phan-bao-hiem-bao-long.chn"
+    "href": "/du-lieu/upcom/BLI-tong-cong-ty-co-phan-bao-hiem-bao-long.chn",
+    "businessSectorIds": [
+      "19",
+      "34"
+    ]
   },
   {
     "name": "BLT",
-    "href": "/du-lieu/upcom/BLT-cong-ty-co-phan-luong-thuc-binh-dinh.chn"
+    "href": "/du-lieu/upcom/BLT-cong-ty-co-phan-luong-thuc-binh-dinh.chn",
+    "businessSectorIds": [
+      "3",
+      "18"
+    ]
   },
   {
     "name": "BMD",
-    "href": "/du-lieu/upcom/BMD-cong-ty-co-phan-moi-truong-va-dich-vu-do-thi-binh-thuan.chn"
+    "href": "/du-lieu/upcom/BMD-cong-ty-co-phan-moi-truong-va-dich-vu-do-thi-binh-thuan.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "BMF",
-    "href": "/du-lieu/upcom/BMF-cong-ty-co-phan-vat-lieu-xay-dung-va-chat-dot-dong-nai.chn"
+    "href": "/du-lieu/upcom/BMF-cong-ty-co-phan-vat-lieu-xay-dung-va-chat-dot-dong-nai.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "BMG",
-    "href": "/du-lieu/upcom/BMG-cong-ty-co-phan-may-binh-minh.chn"
+    "href": "/du-lieu/upcom/BMG-cong-ty-co-phan-may-binh-minh.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "BMJ",
-    "href": "/du-lieu/upcom/BMJ-cong-ty-co-phan-khoang-san-mien-dong-ahp.chn"
+    "href": "/du-lieu/upcom/BMJ-cong-ty-co-phan-khoang-san-mien-dong-ahp.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "BMK",
-    "href": "/du-lieu/upcom/BMK-cong-ty-co-phan-ky-thuat-nhiet-meo-den.chn"
+    "href": "/du-lieu/upcom/BMK-cong-ty-co-phan-ky-thuat-nhiet-meo-den.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "BMN",
-    "href": "/du-lieu/upcom/BMN-cong-ty-co-phan-715.chn"
+    "href": "/du-lieu/upcom/BMN-cong-ty-co-phan-715.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "BMS",
-    "href": "/du-lieu/upcom/BMS-cong-ty-co-phan-chung-khoan-bao-minh.chn"
+    "href": "/du-lieu/upcom/BMS-cong-ty-co-phan-chung-khoan-bao-minh.chn",
+    "businessSectorIds": [
+      "19",
+      "20"
+    ]
   },
   {
     "name": "BMV",
-    "href": "/du-lieu/upcom/BMV-cong-ty-co-phan-bot-my-vinafood-1.chn"
+    "href": "/du-lieu/upcom/BMV-cong-ty-co-phan-bot-my-vinafood-1.chn",
+    "businessSectorIds": [
+      "3",
+      "18"
+    ]
   },
   {
     "name": "BOT",
-    "href": "/du-lieu/upcom/BOT-cong-ty-co-phan-bot-cau-thai-ha.chn"
+    "href": "/du-lieu/upcom/BOT-cong-ty-co-phan-bot-cau-thai-ha.chn",
+    "businessSectorIds": [
+      "22",
+      "44"
+    ]
   },
   {
     "name": "BQB",
-    "href": "/du-lieu/upcom/BQB-cong-ty-co-phan-bia-ha-noi-quang-binh.chn"
+    "href": "/du-lieu/upcom/BQB-cong-ty-co-phan-bia-ha-noi-quang-binh.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BRR",
-    "href": "/du-lieu/upcom/BRR-cong-ty-co-phan-cao-su-ba-ria.chn"
+    "href": "/du-lieu/upcom/BRR-cong-ty-co-phan-cao-su-ba-ria.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "BRS",
-    "href": "/du-lieu/upcom/BRS-cong-ty-co-phan-dich-vu-do-thi-ba-ria.chn"
+    "href": "/du-lieu/upcom/BRS-cong-ty-co-phan-dich-vu-do-thi-ba-ria.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "BSA",
-    "href": "/du-lieu/upcom/BSA-cong-ty-co-phan-thuy-dien-buon-don.chn"
+    "href": "/du-lieu/upcom/BSA-cong-ty-co-phan-thuy-dien-buon-don.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "BSD",
-    "href": "/du-lieu/upcom/BSD-cong-ty-co-phan-bia-ruou-sai-gon-dong-xuan.chn"
+    "href": "/du-lieu/upcom/BSD-cong-ty-co-phan-bia-ruou-sai-gon-dong-xuan.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BSG",
-    "href": "/du-lieu/upcom/BSG-cong-ty-co-phan-xe-khach-sai-gon.chn"
+    "href": "/du-lieu/upcom/BSG-cong-ty-co-phan-xe-khach-sai-gon.chn",
+    "businessSectorIds": [
+      "22",
+      "141"
+    ]
   },
   {
     "name": "BSH",
-    "href": "/du-lieu/upcom/BSH-cong-ty-co-phan-bia-sai-gon-ha-noi.chn"
+    "href": "/du-lieu/upcom/BSH-cong-ty-co-phan-bia-sai-gon-ha-noi.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BSL",
-    "href": "/du-lieu/upcom/BSL-cong-ty-co-phan-bia-sai-gon-song-lam.chn"
+    "href": "/du-lieu/upcom/BSL-cong-ty-co-phan-bia-sai-gon-song-lam.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BSP",
-    "href": "/du-lieu/upcom/BSP-cong-ty-co-phan-bia-sai-gon-phu-tho.chn"
+    "href": "/du-lieu/upcom/BSP-cong-ty-co-phan-bia-sai-gon-phu-tho.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BSQ",
-    "href": "/du-lieu/upcom/BSQ-cong-ty-co-phan-bia-sai-gon-quang-ngai.chn"
+    "href": "/du-lieu/upcom/BSQ-cong-ty-co-phan-bia-sai-gon-quang-ngai.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BT1",
-    "href": "/du-lieu/upcom/BT1-cong-ty-co-phan-bao-ve-thuc-vat-1-trung-uong.chn"
+    "href": "/du-lieu/upcom/BT1-cong-ty-co-phan-bao-ve-thuc-vat-1-trung-uong.chn",
+    "businessSectorIds": [
+      "3",
+      "8"
+    ]
   },
   {
     "name": "BTB",
-    "href": "/du-lieu/upcom/BTB-cong-ty-co-phan-bia-ha-noi-thai-binh.chn"
+    "href": "/du-lieu/upcom/BTB-cong-ty-co-phan-bia-ha-noi-thai-binh.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "BTD",
-    "href": "/du-lieu/upcom/BTD-cong-ty-co-phan-be-tong-ly-tam-thu-duc.chn"
+    "href": "/du-lieu/upcom/BTD-cong-ty-co-phan-be-tong-ly-tam-thu-duc.chn",
+    "businessSectorIds": [
+      "11",
+      "12"
+    ]
   },
   {
     "name": "BTG",
-    "href": "/du-lieu/upcom/BTG-cong-ty-co-phan-bao-bi-tien-giang.chn"
+    "href": "/du-lieu/upcom/BTG-cong-ty-co-phan-bao-bi-tien-giang.chn",
+    "businessSectorIds": [
+      "1",
+      "63"
+    ]
   },
   {
     "name": "BTH",
-    "href": "/du-lieu/upcom/BTH-cong-ty-co-phan-che-tao-bien-the-va-vat-lieu-dien-ha-noi.chn"
+    "href": "/du-lieu/upcom/BTH-cong-ty-co-phan-che-tao-bien-the-va-vat-lieu-dien-ha-noi.chn",
+    "businessSectorIds": [
+      "22",
+      "50"
+    ]
   },
   {
     "name": "BTN",
-    "href": "/du-lieu/upcom/BTN-cong-ty-co-phan-gach-tuy-nen-binh-dinh.chn"
+    "href": "/du-lieu/upcom/BTN-cong-ty-co-phan-gach-tuy-nen-binh-dinh.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "BTU",
-    "href": "/du-lieu/upcom/BTU-ctcp-cong-trinh-do-thi-ben-tre.chn"
+    "href": "/du-lieu/upcom/BTU-ctcp-cong-trinh-do-thi-ben-tre.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "BTV",
-    "href": "/du-lieu/upcom/BTV-cong-ty-co-phan-dich-vu-du-lich-ben-thanh.chn"
+    "href": "/du-lieu/upcom/BTV-cong-ty-co-phan-dich-vu-du-lich-ben-thanh.chn",
+    "businessSectorIds": [
+      "14",
+      "58"
+    ]
   },
   {
     "name": "BVB",
-    "href": "/du-lieu/upcom/BVB-ngan-hang-thuong-mai-co-phan-ban-viet.chn"
+    "href": "/du-lieu/upcom/BVB-ngan-hang-thuong-mai-co-phan-ban-viet.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "BVG",
-    "href": "/du-lieu/upcom/BVG-cong-ty-co-phan-group-bac-viet.chn"
+    "href": "/du-lieu/upcom/BVG-cong-ty-co-phan-group-bac-viet.chn",
+    "businessSectorIds": [
+      "22",
+      "131"
+    ]
   },
   {
     "name": "BVL",
-    "href": "/du-lieu/upcom/BVL-cong-ty-co-phan-bv-land.chn"
+    "href": "/du-lieu/upcom/BVL-cong-ty-co-phan-bv-land.chn",
+    "businessSectorIds": [
+      "11",
+      "77"
+    ]
   },
   {
     "name": "BVN",
-    "href": "/du-lieu/upcom/BVN-cong-ty-co-phan-bong-viet-nam.chn"
+    "href": "/du-lieu/upcom/BVN-cong-ty-co-phan-bong-viet-nam.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "BWS",
-    "href": "/du-lieu/upcom/BWS-cong-ty-co-phan-cap-nuoc-ba-ria-vung-tau.chn"
+    "href": "/du-lieu/upcom/BWS-cong-ty-co-phan-cap-nuoc-ba-ria-vung-tau.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "C21",
-    "href": "/du-lieu/upcom/C21-cong-ty-co-phan-the-ky-21.chn"
+    "href": "/du-lieu/upcom/C21-cong-ty-co-phan-the-ky-21.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "C22",
-    "href": "/du-lieu/upcom/C22-cong-ty-co-phan-22.chn"
+    "href": "/du-lieu/upcom/C22-cong-ty-co-phan-22.chn",
+    "businessSectorIds": [
+      "3",
+      "3"
+    ]
   },
   {
     "name": "C4G",
-    "href": "/du-lieu/upcom/C4G-cong-ty-co-phan-tap-doan-cienco4.chn"
+    "href": "/du-lieu/upcom/C4G-cong-ty-co-phan-tap-doan-cienco4.chn",
+    "businessSectorIds": [
+      "11",
+      "102"
+    ]
   },
   {
     "name": "C92",
-    "href": "/du-lieu/upcom/C92-cong-ty-co-phan-xay-dung-va-dau-tu-492.chn"
+    "href": "/du-lieu/upcom/C92-cong-ty-co-phan-xay-dung-va-dau-tu-492.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CAD",
-    "href": "/du-lieu/upcom/CAD-cong-ty-co-phan-che-bien-va-xuat-nhap-khau-thuy-san-cadovimex.chn"
+    "href": "/du-lieu/upcom/CAD-cong-ty-co-phan-che-bien-va-xuat-nhap-khau-thuy-san-cadovimex.chn",
+    "businessSectorIds": [
+      "3",
+      "49"
+    ]
   },
   {
     "name": "CAT",
-    "href": "/du-lieu/upcom/CAT-cong-ty-co-phan-thuy-san-ca-mau.chn"
+    "href": "/du-lieu/upcom/CAT-cong-ty-co-phan-thuy-san-ca-mau.chn",
+    "businessSectorIds": [
+      "3",
+      "123"
+    ]
   },
   {
     "name": "CBI",
-    "href": "/du-lieu/upcom/CBI-cong-ty-co-phan-gang-thep-cao-bang.chn"
+    "href": "/du-lieu/upcom/CBI-cong-ty-co-phan-gang-thep-cao-bang.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "CBS",
-    "href": "/du-lieu/upcom/CBS-cong-ty-co-phan-mia-duong-cao-bang.chn"
+    "href": "/du-lieu/upcom/CBS-cong-ty-co-phan-mia-duong-cao-bang.chn",
+    "businessSectorIds": [
+      "3",
+      "88"
+    ]
   },
   {
     "name": "CC1",
-    "href": "/du-lieu/upcom/CC1-tong-cong-ty-xay-dung-so-1-ctcp.chn"
+    "href": "/du-lieu/upcom/CC1-tong-cong-ty-xay-dung-so-1-ctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "CC4",
-    "href": "/du-lieu/upcom/CC4-cong-ty-co-phan-dau-tu-va-xay-dung-so-4.chn"
+    "href": "/du-lieu/upcom/CC4-cong-ty-co-phan-dau-tu-va-xay-dung-so-4.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CCM",
-    "href": "/du-lieu/upcom/CCM-cong-ty-co-phan-khoang-san--xi-mang-can-tho.chn"
+    "href": "/du-lieu/upcom/CCM-cong-ty-co-phan-khoang-san--xi-mang-can-tho.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "CCP",
-    "href": "/du-lieu/upcom/CCP-cong-ty-co-phan-cang-cua-cam-hai-phong.chn"
+    "href": "/du-lieu/upcom/CCP-cong-ty-co-phan-cang-cua-cam-hai-phong.chn",
+    "businessSectorIds": [
+      "24",
+      "74"
+    ]
   },
   {
     "name": "CCT",
-    "href": "/du-lieu/upcom/CCT-cong-ty-co-phan-cang-can-tho.chn"
+    "href": "/du-lieu/upcom/CCT-cong-ty-co-phan-cang-can-tho.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "CDH",
-    "href": "/du-lieu/upcom/CDH-ctcp-cong-trinh-cong-cong-dich-vu-du-lich-hai-phong.chn"
+    "href": "/du-lieu/upcom/CDH-ctcp-cong-trinh-cong-cong-dich-vu-du-lich-hai-phong.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "CDO",
-    "href": "/du-lieu/upcom/CDO-cong-ty-co-phan-tu-van-thiet-ke-va-phat-trien-do-thi.chn"
+    "href": "/du-lieu/upcom/CDO-cong-ty-co-phan-tu-van-thiet-ke-va-phat-trien-do-thi.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CDP",
-    "href": "/du-lieu/upcom/CDP-cong-ty-co-phan-duoc-pham-trung-uong-codupha.chn"
+    "href": "/du-lieu/upcom/CDP-cong-ty-co-phan-duoc-pham-trung-uong-codupha.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "CDR",
-    "href": "/du-lieu/upcom/CDR-cong-ty-co-phan-xay-dung-cao-su-dong-nai.chn"
+    "href": "/du-lieu/upcom/CDR-cong-ty-co-phan-xay-dung-cao-su-dong-nai.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CEN",
-    "href": "/du-lieu/upcom/CEN-cong-ty-co-phan-cencon-viet-nam.chn"
+    "href": "/du-lieu/upcom/CEN-cong-ty-co-phan-cencon-viet-nam.chn",
+    "businessSectorIds": [
+      "142",
+      "142"
+    ]
   },
   {
     "name": "CFM",
-    "href": "/du-lieu/upcom/CFM-ctcp-dau-tu-cfm.chn"
+    "href": "/du-lieu/upcom/CFM-ctcp-dau-tu-cfm.chn",
+    "businessSectorIds": [
+      "14",
+      "143"
+    ]
   },
   {
     "name": "CFV",
-    "href": "/du-lieu/upcom/CFV-cong-ty-co-phan-ca-phe-thang-loi.chn"
+    "href": "/du-lieu/upcom/CFV-cong-ty-co-phan-ca-phe-thang-loi.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "CGV",
-    "href": "/du-lieu/upcom/CGV-cong-ty-co-phan-sanh-su-thuy-tinh-viet-nam.chn"
+    "href": "/du-lieu/upcom/CGV-cong-ty-co-phan-sanh-su-thuy-tinh-viet-nam.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "CHC",
-    "href": "/du-lieu/upcom/CHC-cong-ty-co-phan-cam-ha.chn"
+    "href": "/du-lieu/upcom/CHC-cong-ty-co-phan-cam-ha.chn",
+    "businessSectorIds": [
+      "5",
+      "66"
+    ]
   },
   {
     "name": "CHS",
-    "href": "/du-lieu/upcom/CHS-cong-ty-co-phan-chieu-sang-cong-cong-thanh-pho-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/CHS-cong-ty-co-phan-chieu-sang-cong-cong-thanh-pho-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "CI5",
-    "href": "/du-lieu/upcom/CI5-cong-ty-co-phan-dau-tu-xay-dung-so-5.chn"
+    "href": "/du-lieu/upcom/CI5-cong-ty-co-phan-dau-tu-xay-dung-so-5.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CID",
-    "href": "/du-lieu/upcom/CID-cong-ty-co-phan-xay-dung-va-phat-trien-co-so-ha-tang.chn"
+    "href": "/du-lieu/upcom/CID-cong-ty-co-phan-xay-dung-va-phat-trien-co-so-ha-tang.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CIP",
-    "href": "/du-lieu/upcom/CIP-cong-ty-co-phan-xay-lap-va-san-xuat-cong-nghiep.chn"
+    "href": "/du-lieu/upcom/CIP-cong-ty-co-phan-xay-lap-va-san-xuat-cong-nghiep.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CKA",
-    "href": "/du-lieu/upcom/CKA-cong-ty-co-phan-co-khi-an-giang.chn"
+    "href": "/du-lieu/upcom/CKA-cong-ty-co-phan-co-khi-an-giang.chn",
+    "businessSectorIds": [
+      "22",
+      "127"
+    ]
   },
   {
     "name": "CKD",
-    "href": "/du-lieu/upcom/CKD-cong-ty-co-phan-co-khi-dong-anh-licogi.chn"
+    "href": "/du-lieu/upcom/CKD-cong-ty-co-phan-co-khi-dong-anh-licogi.chn",
+    "businessSectorIds": [
+      "1",
+      "115"
+    ]
   },
   {
     "name": "CLX",
-    "href": "/du-lieu/upcom/CLX-cong-ty-co-phan-xuat-nhap-khau-va-dau-tu-cho-lon-cholimex.chn"
+    "href": "/du-lieu/upcom/CLX-cong-ty-co-phan-xuat-nhap-khau-va-dau-tu-cho-lon-cholimex.chn",
+    "businessSectorIds": [
+      "14",
+      "130"
+    ]
   },
   {
     "name": "CMD",
-    "href": "/du-lieu/upcom/CMD-ctcp-vat-lieu-xay-dung-va-trang-tri-noi-that-thanh-pho-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/CMD-ctcp-vat-lieu-xay-dung-va-trang-tri-noi-that-thanh-pho-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "CMF",
-    "href": "/du-lieu/upcom/CMF-cong-ty-co-phan-thuc-pham-cholimex.chn"
+    "href": "/du-lieu/upcom/CMF-cong-ty-co-phan-thuc-pham-cholimex.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "CMI",
-    "href": "/du-lieu/upcom/CMI-cong-ty-co-phan-cmistone-viet-nam.chn"
+    "href": "/du-lieu/upcom/CMI-cong-ty-co-phan-cmistone-viet-nam.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "CMM",
-    "href": "/du-lieu/upcom/CMM-cong-ty-co-phan-camimex.chn"
+    "href": "/du-lieu/upcom/CMM-cong-ty-co-phan-camimex.chn",
+    "businessSectorIds": [
+      "3",
+      "123"
+    ]
   },
   {
     "name": "CMN",
-    "href": "/du-lieu/upcom/CMN-cong-ty-co-phan-luong-thuc-thuc-pham-colusamiliket.chn"
+    "href": "/du-lieu/upcom/CMN-cong-ty-co-phan-luong-thuc-thuc-pham-colusamiliket.chn",
+    "businessSectorIds": [
+      "3",
+      "18"
+    ]
   },
   {
     "name": "CMT",
-    "href": "/du-lieu/upcom/CMT-cong-ty-co-phan-cong-nghe-mang-va-truyen-thong.chn"
+    "href": "/du-lieu/upcom/CMT-cong-ty-co-phan-cong-nghe-mang-va-truyen-thong.chn",
+    "businessSectorIds": [
+      "46",
+      "47"
+    ]
   },
   {
     "name": "CMW",
-    "href": "/du-lieu/upcom/CMW-cong-ty-co-phan-cap-nuoc-ca-mau.chn"
+    "href": "/du-lieu/upcom/CMW-cong-ty-co-phan-cap-nuoc-ca-mau.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "CNC",
-    "href": "/du-lieu/upcom/CNC-cong-ty-co-phan-cong-nghe-cao-traphaco.chn"
+    "href": "/du-lieu/upcom/CNC-cong-ty-co-phan-cong-nghe-cao-traphaco.chn",
+    "businessSectorIds": [
+      "60",
+      "144"
+    ]
   },
   {
     "name": "CNT",
-    "href": "/du-lieu/upcom/CNT-cong-ty-co-phan-tap-doan-cnt.chn"
+    "href": "/du-lieu/upcom/CNT-cong-ty-co-phan-tap-doan-cnt.chn",
+    "businessSectorIds": [
+      "11",
+      "80"
+    ]
   },
   {
     "name": "CPA",
-    "href": "/du-lieu/upcom/CPA-cong-ty-co-phan-ca-phe-phuoc-an.chn"
+    "href": "/du-lieu/upcom/CPA-cong-ty-co-phan-ca-phe-phuoc-an.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "CPI",
-    "href": "/du-lieu/upcom/CPI-cong-ty-co-phan-dau-tu-cang-cai-lan.chn"
+    "href": "/du-lieu/upcom/CPI-cong-ty-co-phan-dau-tu-cang-cai-lan.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "CQN",
-    "href": "/du-lieu/upcom/CQN-cong-ty-co-phan-cang-quang-ninh.chn"
+    "href": "/du-lieu/upcom/CQN-cong-ty-co-phan-cang-quang-ninh.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "CQT",
-    "href": "/du-lieu/upcom/CQT-cong-ty-co-phan-xi-mang-quan-trieu-vvmi.chn"
+    "href": "/du-lieu/upcom/CQT-cong-ty-co-phan-xi-mang-quan-trieu-vvmi.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "CSI",
-    "href": "/du-lieu/upcom/CSI-cong-ty-co-phan-chung-khoan-kien-thiet-viet-nam.chn"
+    "href": "/du-lieu/upcom/CSI-cong-ty-co-phan-chung-khoan-kien-thiet-viet-nam.chn",
+    "businessSectorIds": [
+      "19",
+      "20"
+    ]
   },
   {
     "name": "CT3",
-    "href": "/du-lieu/upcom/CT3-cong-ty-co-phan-dau-tu-va-xay-dung-cong-trinh-3.chn"
+    "href": "/du-lieu/upcom/CT3-cong-ty-co-phan-dau-tu-va-xay-dung-cong-trinh-3.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "CT6",
-    "href": "/du-lieu/upcom/CT6-cong-ty-co-phan-cong-trinh-6.chn"
+    "href": "/du-lieu/upcom/CT6-cong-ty-co-phan-cong-trinh-6.chn",
+    "businessSectorIds": [
+      "11",
+      "102"
+    ]
   },
   {
     "name": "CTW",
-    "href": "/du-lieu/upcom/CTW-ctcp-cap-thoat-nuoc-can-tho.chn"
+    "href": "/du-lieu/upcom/CTW-ctcp-cap-thoat-nuoc-can-tho.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "DAN",
-    "href": "/du-lieu/upcom/DAN-cong-ty-co-phan-duoc-danapha.chn"
+    "href": "/du-lieu/upcom/DAN-cong-ty-co-phan-duoc-danapha.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DBM",
-    "href": "/du-lieu/upcom/DBM-cong-ty-co-phan-duoc-vat-tu-y-te-dak-lak.chn"
+    "href": "/du-lieu/upcom/DBM-cong-ty-co-phan-duoc-vat-tu-y-te-dak-lak.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "DC1",
-    "href": "/du-lieu/upcom/DC1-cong-ty-co-phan-dau-tu-phat-trien-xay-dung-so-1.chn"
+    "href": "/du-lieu/upcom/DC1-cong-ty-co-phan-dau-tu-phat-trien-xay-dung-so-1.chn",
+    "businessSectorIds": [
+      "11",
+      "102"
+    ]
   },
   {
     "name": "DCF",
-    "href": "/du-lieu/upcom/DCF-cong-ty-co-phan-xay-dung-va-thiet-ke-so-1.chn"
+    "href": "/du-lieu/upcom/DCF-cong-ty-co-phan-xay-dung-va-thiet-ke-so-1.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "DCG",
-    "href": "/du-lieu/upcom/DCG-cong-ty-co-phan-tong-cong-ty-may-dap-cau.chn"
+    "href": "/du-lieu/upcom/DCG-cong-ty-co-phan-tong-cong-ty-may-dap-cau.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "DCR",
-    "href": "/du-lieu/upcom/DCR-cong-ty-co-phan-gach-men-cosevco.chn"
+    "href": "/du-lieu/upcom/DCR-cong-ty-co-phan-gach-men-cosevco.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "DCS",
-    "href": "/du-lieu/upcom/DCS-cong-ty-co-phan-tap-doan-dai-chau.chn"
+    "href": "/du-lieu/upcom/DCS-cong-ty-co-phan-tap-doan-dai-chau.chn",
+    "businessSectorIds": [
+      "5",
+      "13"
+    ]
   },
   {
     "name": "DCT",
-    "href": "/du-lieu/upcom/DCT-cong-ty-co-phan-tam-lop-vat-lieu-xay-dung-dong-nai.chn"
+    "href": "/du-lieu/upcom/DCT-cong-ty-co-phan-tam-lop-vat-lieu-xay-dung-dong-nai.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "DDB",
-    "href": "/du-lieu/upcom/DDB-cong-ty-co-phan-thuong-mai-va-xay-dung-dong-duong.chn"
+    "href": "/du-lieu/upcom/DDB-cong-ty-co-phan-thuong-mai-va-xay-dung-dong-duong.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "DDM",
-    "href": "/du-lieu/upcom/DDM-cong-ty-co-phan-hang-hai-dong-do.chn"
+    "href": "/du-lieu/upcom/DDM-cong-ty-co-phan-hang-hai-dong-do.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "DDN",
-    "href": "/du-lieu/upcom/DDN-cong-ty-co-phan-duoc-thiet-bi-y-te-da-nang.chn"
+    "href": "/du-lieu/upcom/DDN-cong-ty-co-phan-duoc-thiet-bi-y-te-da-nang.chn",
+    "businessSectorIds": [
+      "60",
+      "111"
+    ]
   },
   {
     "name": "DDV",
-    "href": "/du-lieu/upcom/DDV-cong-ty-co-phan-dap-vinachem.chn"
+    "href": "/du-lieu/upcom/DDV-cong-ty-co-phan-dap-vinachem.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "DFC",
-    "href": "/du-lieu/upcom/DFC-cong-ty-co-phan-xich-lip-dong-anh.chn"
+    "href": "/du-lieu/upcom/DFC-cong-ty-co-phan-xich-lip-dong-anh.chn",
+    "businessSectorIds": [
+      "22",
+      "125"
+    ]
   },
   {
     "name": "DFF",
-    "href": "/du-lieu/upcom/DFF-cong-ty-co-phan-tap-doan-dua-fat.chn"
+    "href": "/du-lieu/upcom/DFF-cong-ty-co-phan-tap-doan-dua-fat.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "DGT",
-    "href": "/du-lieu/upcom/DGT-cong-ty-co-phan-cong-trinh-giao-thong-dong-nai.chn"
+    "href": "/du-lieu/upcom/DGT-cong-ty-co-phan-cong-trinh-giao-thong-dong-nai.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "DHB",
-    "href": "/du-lieu/upcom/DHB-cong-ty-co-phan-phan-dam-va-hoa-chat-ha-bac.chn"
+    "href": "/du-lieu/upcom/DHB-cong-ty-co-phan-phan-dam-va-hoa-chat-ha-bac.chn",
+    "businessSectorIds": [
+      "3",
+      "32"
+    ]
   },
   {
     "name": "DHD",
-    "href": "/du-lieu/upcom/DHD-cong-ty-co-phan-duoc-vat-tu-y-te-hai-duong.chn"
+    "href": "/du-lieu/upcom/DHD-cong-ty-co-phan-duoc-vat-tu-y-te-hai-duong.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DHN",
-    "href": "/du-lieu/upcom/DHN-cong-ty-co-phan-duoc-pham-ha-noi.chn"
+    "href": "/du-lieu/upcom/DHN-cong-ty-co-phan-duoc-pham-ha-noi.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DIC",
-    "href": "/du-lieu/upcom/DIC-cong-ty-co-phan-dau-tu-va-thuong-mai-dic.chn"
+    "href": "/du-lieu/upcom/DIC-cong-ty-co-phan-dau-tu-va-thuong-mai-dic.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "DID",
-    "href": "/du-lieu/upcom/DID-cong-ty-co-phan-dic-dong-tien.chn"
+    "href": "/du-lieu/upcom/DID-cong-ty-co-phan-dic-dong-tien.chn",
+    "businessSectorIds": [
+      "11",
+      "12"
+    ]
   },
   {
     "name": "DLR",
-    "href": "/du-lieu/upcom/DLR-cong-ty-co-phan-dia-oc-da-lat.chn"
+    "href": "/du-lieu/upcom/DLR-cong-ty-co-phan-dia-oc-da-lat.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "DMN",
-    "href": "/du-lieu/upcom/DMN-cong-ty-co-phan-domenal.chn"
+    "href": "/du-lieu/upcom/DMN-cong-ty-co-phan-domenal.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "DMS",
-    "href": "/du-lieu/upcom/DMS-cong-ty-co-phan-hoa-pham-dau-khi-dmc-mien-nam.chn"
+    "href": "/du-lieu/upcom/DMS-cong-ty-co-phan-hoa-pham-dau-khi-dmc-mien-nam.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "DNA",
-    "href": "/du-lieu/upcom/DNA-cong-ty-co-phan-dien-nuoc-an-giang.chn"
+    "href": "/du-lieu/upcom/DNA-cong-ty-co-phan-dien-nuoc-an-giang.chn",
+    "businessSectorIds": [
+      "24",
+      "86"
+    ]
   },
   {
     "name": "DNE",
-    "href": "/du-lieu/upcom/DNE-cong-ty-co-phan-moi-truong-do-thi-da-nang.chn"
+    "href": "/du-lieu/upcom/DNE-cong-ty-co-phan-moi-truong-do-thi-da-nang.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "DNH",
-    "href": "/du-lieu/upcom/DNH-cong-ty-co-phan-thuy-dien-da-nhim-ham-thuan-da-mi.chn"
+    "href": "/du-lieu/upcom/DNH-cong-ty-co-phan-thuy-dien-da-nhim-ham-thuan-da-mi.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "DNL",
-    "href": "/du-lieu/upcom/DNL-cong-ty-co-phan-logistic-cang-da-nang.chn"
+    "href": "/du-lieu/upcom/DNL-cong-ty-co-phan-logistic-cang-da-nang.chn",
+    "businessSectorIds": [
+      "22",
+      "141"
+    ]
   },
   {
     "name": "DNM",
-    "href": "/du-lieu/upcom/DNM-tong-cong-ty-co-phan-y-te-danameco.chn"
+    "href": "/du-lieu/upcom/DNM-tong-cong-ty-co-phan-y-te-danameco.chn",
+    "businessSectorIds": [
+      "60",
+      "85"
+    ]
   },
   {
     "name": "DNW",
-    "href": "/du-lieu/upcom/DNW-cong-ty-co-phan-cap-nuoc-dong-nai.chn"
+    "href": "/du-lieu/upcom/DNW-cong-ty-co-phan-cap-nuoc-dong-nai.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "DOC",
-    "href": "/du-lieu/upcom/DOC-cong-ty-co-phan-vat-tu-nong-nghiep-dong-nai.chn"
+    "href": "/du-lieu/upcom/DOC-cong-ty-co-phan-vat-tu-nong-nghiep-dong-nai.chn",
+    "businessSectorIds": [
+      "3",
+      "92"
+    ]
   },
   {
     "name": "DP1",
-    "href": "/du-lieu/upcom/DP1-cong-ty-co-phan-duoc-pham-trung-uong-cpc1.chn"
+    "href": "/du-lieu/upcom/DP1-cong-ty-co-phan-duoc-pham-trung-uong-cpc1.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DP2",
-    "href": "/du-lieu/upcom/DP2-cong-ty-co-phan-duoc-pham-trung-uong-2.chn"
+    "href": "/du-lieu/upcom/DP2-cong-ty-co-phan-duoc-pham-trung-uong-2.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DPC",
-    "href": "/du-lieu/upcom/DPC-cong-ty-co-phan-nhua-da-nang.chn"
+    "href": "/du-lieu/upcom/DPC-cong-ty-co-phan-nhua-da-nang.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "DPH",
-    "href": "/du-lieu/upcom/DPH-cong-ty-co-phan-duoc-pham-hai-phong.chn"
+    "href": "/du-lieu/upcom/DPH-cong-ty-co-phan-duoc-pham-hai-phong.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DPP",
-    "href": "/du-lieu/upcom/DPP-cong-ty-co-phan-duoc-dong-nai.chn"
+    "href": "/du-lieu/upcom/DPP-cong-ty-co-phan-duoc-dong-nai.chn",
+    "businessSectorIds": [
+      "60",
+      "111"
+    ]
   },
   {
     "name": "DRG",
-    "href": "/du-lieu/upcom/DRG-cong-ty-co-phan-cao-su-dak-lak.chn"
+    "href": "/du-lieu/upcom/DRG-cong-ty-co-phan-cao-su-dak-lak.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "DRI",
-    "href": "/du-lieu/upcom/DRI-cong-ty-co-phan-dau-tu-cao-su-dak-lak.chn"
+    "href": "/du-lieu/upcom/DRI-cong-ty-co-phan-dau-tu-cao-su-dak-lak.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "DSG",
-    "href": "/du-lieu/upcom/DSG-cong-ty-co-phan-kinh-viglacera-dap-cau.chn"
+    "href": "/du-lieu/upcom/DSG-cong-ty-co-phan-kinh-viglacera-dap-cau.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "DSP",
-    "href": "/du-lieu/upcom/DSP-cong-ty-co-phan-dich-vu-du-lich-phu-tho.chn"
+    "href": "/du-lieu/upcom/DSP-cong-ty-co-phan-dich-vu-du-lich-phu-tho.chn",
+    "businessSectorIds": [
+      "14",
+      "105"
+    ]
   },
   {
     "name": "DTB",
-    "href": "/du-lieu/upcom/DTB-cong-ty-co-phan-cong-trinh-do-thi-bao-loc.chn"
+    "href": "/du-lieu/upcom/DTB-cong-ty-co-phan-cong-trinh-do-thi-bao-loc.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "DTE",
-    "href": "/du-lieu/upcom/DTE-ctcp-dau-tu-nang-luong-dai-truong-thanh-holdings.chn"
+    "href": "/du-lieu/upcom/DTE-ctcp-dau-tu-nang-luong-dai-truong-thanh-holdings.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "DTI",
-    "href": "/du-lieu/upcom/DTI-cong-ty-co-phan-dau-tu-duc-trung.chn"
+    "href": "/du-lieu/upcom/DTI-cong-ty-co-phan-dau-tu-duc-trung.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "DTP",
-    "href": "/du-lieu/upcom/DTP-cong-ty-co-phan-duoc-pham-cpc1-ha-noi.chn"
+    "href": "/du-lieu/upcom/DTP-cong-ty-co-phan-duoc-pham-cpc1-ha-noi.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DVC",
-    "href": "/du-lieu/upcom/DVC-cong-ty-co-phan-thuong-mai-dich-vu-tong-hop-cang-hai-phong.chn"
+    "href": "/du-lieu/upcom/DVC-cong-ty-co-phan-thuong-mai-dich-vu-tong-hop-cang-hai-phong.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "DVG",
-    "href": "/du-lieu/upcom/DVG-cong-ty-co-phan-dai-viet-group-dvg.chn"
+    "href": "/du-lieu/upcom/DVG-cong-ty-co-phan-dai-viet-group-dvg.chn",
+    "businessSectorIds": [
+      "1",
+      "37"
+    ]
   },
   {
     "name": "DVN",
-    "href": "/du-lieu/upcom/DVN-tong-cong-ty-duoc-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/DVN-tong-cong-ty-duoc-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "DWC",
-    "href": "/du-lieu/upcom/DWC-ctcp-cap-nuoc-dak-lak.chn"
+    "href": "/du-lieu/upcom/DWC-ctcp-cap-nuoc-dak-lak.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "E12",
-    "href": "/du-lieu/upcom/E12-ctcp-xay-dung-dien-vneco12.chn"
+    "href": "/du-lieu/upcom/E12-ctcp-xay-dung-dien-vneco12.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "E29",
-    "href": "/du-lieu/upcom/E29-ctcp-dau-tu-xay-dung-va-ky-thuat-29.chn"
+    "href": "/du-lieu/upcom/E29-ctcp-dau-tu-xay-dung-va-ky-thuat-29.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "ECO",
-    "href": "/du-lieu/upcom/ECO-cong-ty-co-phan-nhua-sinh-thai-viet-nam.chn"
+    "href": "/du-lieu/upcom/ECO-cong-ty-co-phan-nhua-sinh-thai-viet-nam.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "EFI",
-    "href": "/du-lieu/upcom/EFI-cong-ty-co-phan-dau-tu-tai-chinh-giao-duc.chn"
+    "href": "/du-lieu/upcom/EFI-cong-ty-co-phan-dau-tu-tai-chinh-giao-duc.chn",
+    "businessSectorIds": [
+      "19",
+      "30"
+    ]
   },
   {
     "name": "EIC",
-    "href": "/du-lieu/upcom/EIC-cong-ty-co-phan-evn-quoc-te.chn"
+    "href": "/du-lieu/upcom/EIC-cong-ty-co-phan-evn-quoc-te.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "EIN",
-    "href": "/du-lieu/upcom/EIN-cong-ty-co-phan-dau-tu-thuong-mai-dich-vu-dien-luc.chn"
+    "href": "/du-lieu/upcom/EIN-cong-ty-co-phan-dau-tu-thuong-mai-dich-vu-dien-luc.chn",
+    "businessSectorIds": [
+      "11",
+      "93"
+    ]
   },
   {
     "name": "EME",
-    "href": "/du-lieu/upcom/EME-cong-ty-co-phan-dien-co.chn"
+    "href": "/du-lieu/upcom/EME-cong-ty-co-phan-dien-co.chn",
+    "businessSectorIds": [
+      "46",
+      "71"
+    ]
   },
   {
     "name": "EMS",
-    "href": "/du-lieu/upcom/EMS-tong-cong-ty-chuyen-phat-nhanh-buu-dien-ctcp.chn"
+    "href": "/du-lieu/upcom/EMS-tong-cong-ty-chuyen-phat-nhanh-buu-dien-ctcp.chn",
+    "businessSectorIds": [
+      "14",
+      "114"
+    ]
   },
   {
     "name": "EPC",
-    "href": "/du-lieu/upcom/EPC-cong-ty-tnhh-mot-thanh-vien-ca-phe-ea-pok.chn"
+    "href": "/du-lieu/upcom/EPC-cong-ty-tnhh-mot-thanh-vien-ca-phe-ea-pok.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "EPH",
-    "href": "/du-lieu/upcom/EPH-cong-ty-co-phan-dich-vu-xuat-ban-giao-duc-ha-noi.chn"
+    "href": "/du-lieu/upcom/EPH-cong-ty-co-phan-dich-vu-xuat-ban-giao-duc-ha-noi.chn",
+    "businessSectorIds": [
+      "14",
+      "143"
+    ]
   },
   {
     "name": "FCS",
-    "href": "/du-lieu/upcom/FCS-cong-ty-co-phan-luong-thuc-thanh-pho-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/FCS-cong-ty-co-phan-luong-thuc-thanh-pho-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "3",
+      "18"
+    ]
   },
   {
     "name": "FHS",
-    "href": "/du-lieu/upcom/FHS-cong-ty-co-phan-phat-hanh-sach-tp-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/FHS-cong-ty-co-phan-phat-hanh-sach-tp-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "14",
+      "117"
+    ]
   },
   {
     "name": "FIC",
-    "href": "/du-lieu/upcom/FIC-tong-cong-ty-vat-lieu-xay-dung-so-1-ctcp.chn"
+    "href": "/du-lieu/upcom/FIC-tong-cong-ty-vat-lieu-xay-dung-so-1-ctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "FOC",
-    "href": "/du-lieu/upcom/FOC-cong-ty-co-phan-dich-vu-truc-tuyen-fpt.chn"
+    "href": "/du-lieu/upcom/FOC-cong-ty-co-phan-dich-vu-truc-tuyen-fpt.chn",
+    "businessSectorIds": [
+      "46",
+      "145"
+    ]
   },
   {
     "name": "FOX",
-    "href": "/du-lieu/upcom/FOX-cong-ty-co-phan-vien-thong-fpt.chn"
+    "href": "/du-lieu/upcom/FOX-cong-ty-co-phan-vien-thong-fpt.chn",
+    "businessSectorIds": [
+      "46",
+      "71"
+    ]
   },
   {
     "name": "FRC",
-    "href": "/du-lieu/upcom/FRC-cong-ty-co-phan-lam-dac-san-xuat-khau-quang-nam.chn"
+    "href": "/du-lieu/upcom/FRC-cong-ty-co-phan-lam-dac-san-xuat-khau-quang-nam.chn",
+    "businessSectorIds": [
+      "1",
+      "133"
+    ]
   },
   {
     "name": "FSO",
-    "href": "/du-lieu/upcom/FSO-cong-ty-co-phan-co-khi-dong-tau-thuy-san-viet-nam.chn"
+    "href": "/du-lieu/upcom/FSO-cong-ty-co-phan-co-khi-dong-tau-thuy-san-viet-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "146"
+    ]
   },
   {
     "name": "FT1",
-    "href": "/du-lieu/upcom/FT1-cong-ty-co-phan-phu-tung-may-so-1.chn"
+    "href": "/du-lieu/upcom/FT1-cong-ty-co-phan-phu-tung-may-so-1.chn",
+    "businessSectorIds": [
+      "22",
+      "91"
+    ]
   },
   {
     "name": "FTM",
-    "href": "/du-lieu/upcom/FTM-cong-ty-co-phan-dau-tu-va-phat-trien-duc-quan.chn"
+    "href": "/du-lieu/upcom/FTM-cong-ty-co-phan-dau-tu-va-phat-trien-duc-quan.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "G20",
-    "href": "/du-lieu/upcom/G20-cong-ty-co-phan-dau-tu-det-may-ghome.chn"
+    "href": "/du-lieu/upcom/G20-cong-ty-co-phan-dau-tu-det-may-ghome.chn",
+    "businessSectorIds": [
+      "5",
+      "5"
+    ]
   },
   {
     "name": "G36",
-    "href": "/du-lieu/upcom/G36-tong-cong-ty-36-ctcp.chn"
+    "href": "/du-lieu/upcom/G36-tong-cong-ty-36-ctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "GCF",
-    "href": "/du-lieu/upcom/GCF-cong-ty-co-phan-thuc-pham-gc.chn"
+    "href": "/du-lieu/upcom/GCF-cong-ty-co-phan-thuc-pham-gc.chn",
+    "businessSectorIds": [
+      "5",
+      "110"
+    ]
   },
   {
     "name": "GDA",
-    "href": "/du-lieu/upcom/GDA-cong-ty-co-phan-ton-dong-a.chn"
+    "href": "/du-lieu/upcom/GDA-cong-ty-co-phan-ton-dong-a.chn",
+    "businessSectorIds": [
+      "1",
+      "37"
+    ]
   },
   {
     "name": "GGG",
-    "href": "/du-lieu/upcom/GGG-cong-ty-co-phan-o-to-giai-phong.chn"
+    "href": "/du-lieu/upcom/GGG-cong-ty-co-phan-o-to-giai-phong.chn",
+    "businessSectorIds": [
+      "22",
+      "107"
+    ]
   },
   {
     "name": "GHC",
-    "href": "/du-lieu/upcom/GHC-cong-ty-co-phan-thuy-dien-gia-lai.chn"
+    "href": "/du-lieu/upcom/GHC-cong-ty-co-phan-thuy-dien-gia-lai.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "GMC",
-    "href": "/du-lieu/upcom/GMC-cong-ty-co-phan-garmex-sai-gon.chn"
+    "href": "/du-lieu/upcom/GMC-cong-ty-co-phan-garmex-sai-gon.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "GND",
-    "href": "/du-lieu/upcom/GND-cong-ty-co-phan-gach-ngoi-dong-nai.chn"
+    "href": "/du-lieu/upcom/GND-cong-ty-co-phan-gach-ngoi-dong-nai.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "GPC",
-    "href": "/du-lieu/upcom/GPC-ctcp-tap-doan-green.chn"
+    "href": "/du-lieu/upcom/GPC-ctcp-tap-doan-green.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "GSM",
-    "href": "/du-lieu/upcom/GSM-cong-ty-co-phan-thuy-dien-huong-son.chn"
+    "href": "/du-lieu/upcom/GSM-cong-ty-co-phan-thuy-dien-huong-son.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "GTD",
-    "href": "/du-lieu/upcom/GTD-cong-ty-co-phan-giay-thuong-dinh.chn"
+    "href": "/du-lieu/upcom/GTD-cong-ty-co-phan-giay-thuong-dinh.chn",
+    "businessSectorIds": [
+      "5",
+      "136"
+    ]
   },
   {
     "name": "GTS",
-    "href": "/du-lieu/upcom/GTS-cong-ty-co-phan-cong-trinh-giao-thong-sai-gon.chn"
+    "href": "/du-lieu/upcom/GTS-cong-ty-co-phan-cong-trinh-giao-thong-sai-gon.chn",
+    "businessSectorIds": [
+      "11",
+      "102"
+    ]
   },
   {
     "name": "GVT",
-    "href": "/du-lieu/upcom/GVT-cong-ty-co-phan-giay-viet-tri.chn"
+    "href": "/du-lieu/upcom/GVT-cong-ty-co-phan-giay-viet-tri.chn",
+    "businessSectorIds": [
+      "1",
+      "76"
+    ]
   },
   {
     "name": "H11",
-    "href": "/du-lieu/upcom/H11-cong-ty-co-phan-xay-dung-hud101.chn"
+    "href": "/du-lieu/upcom/H11-cong-ty-co-phan-xay-dung-hud101.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HAC",
-    "href": "/du-lieu/upcom/HAC-cong-ty-co-phan-chung-khoan-hai-phong.chn"
+    "href": "/du-lieu/upcom/HAC-cong-ty-co-phan-chung-khoan-hai-phong.chn",
+    "businessSectorIds": [
+      "19",
+      "147"
+    ]
   },
   {
     "name": "HAF",
-    "href": "/du-lieu/upcom/HAF-cong-ty-co-phan-thuc-pham-ha-noi.chn"
+    "href": "/du-lieu/upcom/HAF-cong-ty-co-phan-thuc-pham-ha-noi.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "HAM",
-    "href": "/du-lieu/upcom/HAM-cong-ty-co-phan-vat-tu-hau-giang.chn"
+    "href": "/du-lieu/upcom/HAM-cong-ty-co-phan-vat-tu-hau-giang.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "HAN",
-    "href": "/du-lieu/upcom/HAN-tong-cong-ty-xay-dung-ha-noi-ctcp.chn"
+    "href": "/du-lieu/upcom/HAN-tong-cong-ty-xay-dung-ha-noi-ctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HAV",
-    "href": "/du-lieu/upcom/HAV-cong-ty-co-phan-ruou-hapro.chn"
+    "href": "/du-lieu/upcom/HAV-cong-ty-co-phan-ruou-hapro.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "HBC",
-    "href": "/du-lieu/upcom/HBC-cong-ty-co-phan-tap-doan-xay-dung-hoa-binh.chn"
+    "href": "/du-lieu/upcom/HBC-cong-ty-co-phan-tap-doan-xay-dung-hoa-binh.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HBD",
-    "href": "/du-lieu/upcom/HBD-cong-ty-co-phan-bao-bi-pp-binh-duong.chn"
+    "href": "/du-lieu/upcom/HBD-cong-ty-co-phan-bao-bi-pp-binh-duong.chn",
+    "businessSectorIds": [
+      "1",
+      "2"
+    ]
   },
   {
     "name": "HBH",
-    "href": "/du-lieu/upcom/HBH-cong-ty-co-phan-habeco-hai-phong.chn"
+    "href": "/du-lieu/upcom/HBH-cong-ty-co-phan-habeco-hai-phong.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "HC1",
-    "href": "/du-lieu/upcom/HC1-ctcp-xay-dung-so-1-ha-noi.chn"
+    "href": "/du-lieu/upcom/HC1-ctcp-xay-dung-so-1-ha-noi.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HC3",
-    "href": "/du-lieu/upcom/HC3-cong-ty-co-phan-xay-dung-so-3-hai-phong.chn"
+    "href": "/du-lieu/upcom/HC3-cong-ty-co-phan-xay-dung-so-3-hai-phong.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HD2",
-    "href": "/du-lieu/upcom/HD2-cong-ty-co-phan-dau-tu-phat-trien-nha-hud2.chn"
+    "href": "/du-lieu/upcom/HD2-cong-ty-co-phan-dau-tu-phat-trien-nha-hud2.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "HD6",
-    "href": "/du-lieu/upcom/HD6-cong-ty-co-phan-dau-tu-va-phat-trien-nha-so-6-ha-noi.chn"
+    "href": "/du-lieu/upcom/HD6-cong-ty-co-phan-dau-tu-va-phat-trien-nha-so-6-ha-noi.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "HD8",
-    "href": "/du-lieu/upcom/HD8-ctcp-dau-tu-phat-trien-nha-va-do-thi-hud8.chn"
+    "href": "/du-lieu/upcom/HD8-ctcp-dau-tu-phat-trien-nha-va-do-thi-hud8.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "HDM",
-    "href": "/du-lieu/upcom/HDM-cong-ty-co-phan-det-may-hue.chn"
+    "href": "/du-lieu/upcom/HDM-cong-ty-co-phan-det-may-hue.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "HDP",
-    "href": "/du-lieu/upcom/HDP-cong-ty-co-phan-duoc-ha-tinh.chn"
+    "href": "/du-lieu/upcom/HDP-cong-ty-co-phan-duoc-ha-tinh.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "HEC",
-    "href": "/du-lieu/upcom/HEC-cong-ty-co-phan-tu-van-xay-dung-thuy-loi-ii.chn"
+    "href": "/du-lieu/upcom/HEC-cong-ty-co-phan-tu-van-xay-dung-thuy-loi-ii.chn",
+    "businessSectorIds": [
+      "11",
+      "79"
+    ]
   },
   {
     "name": "HEJ",
-    "href": "/du-lieu/upcom/HEJ-tong-cong-ty-tu-van-xay-dung-thuy-loi-viet-namctcp.chn"
+    "href": "/du-lieu/upcom/HEJ-tong-cong-ty-tu-van-xay-dung-thuy-loi-viet-namctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "79"
+    ]
   },
   {
     "name": "HES",
-    "href": "/du-lieu/upcom/HES-cong-ty-co-phan-dich-vu-giai-tri-ha-noi.chn"
+    "href": "/du-lieu/upcom/HES-cong-ty-co-phan-dich-vu-giai-tri-ha-noi.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "HFB",
-    "href": "/du-lieu/upcom/HFB-cong-ty-co-phan-cong-trinh-cau-pha-thanh-pho-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/HFB-cong-ty-co-phan-cong-trinh-cau-pha-thanh-pho-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HFC",
-    "href": "/du-lieu/upcom/HFC-cong-ty-co-phan-xang-dau-hfc.chn"
+    "href": "/du-lieu/upcom/HFC-cong-ty-co-phan-xang-dau-hfc.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "HFX",
-    "href": "/du-lieu/upcom/HFX-cong-ty-co-phan-san-xuat-xuat-nhap-khau-thanh-ha.chn"
+    "href": "/du-lieu/upcom/HFX-cong-ty-co-phan-san-xuat-xuat-nhap-khau-thanh-ha.chn",
+    "businessSectorIds": [
+      "3",
+      "27"
+    ]
   },
   {
     "name": "HHG",
-    "href": "/du-lieu/upcom/HHG-cong-ty-co-phan-hoang-ha.chn"
+    "href": "/du-lieu/upcom/HHG-cong-ty-co-phan-hoang-ha.chn",
+    "businessSectorIds": [
+      "22",
+      "112"
+    ]
   },
   {
     "name": "HIG",
-    "href": "/du-lieu/upcom/HIG-cong-ty-co-phan-tap-doan-hipt.chn"
+    "href": "/du-lieu/upcom/HIG-cong-ty-co-phan-tap-doan-hipt.chn",
+    "businessSectorIds": [
+      "46",
+      "46"
+    ]
   },
   {
     "name": "HIO",
-    "href": "/du-lieu/upcom/HIO-cong-ty-co-phan-helio-energy.chn"
+    "href": "/du-lieu/upcom/HIO-cong-ty-co-phan-helio-energy.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "HJC",
-    "href": "/du-lieu/upcom/HJC-cong-ty-co-phan-hoa-viet.chn"
+    "href": "/du-lieu/upcom/HJC-cong-ty-co-phan-hoa-viet.chn",
+    "businessSectorIds": [
+      "5",
+      "134"
+    ]
   },
   {
     "name": "HKB",
-    "href": "/du-lieu/upcom/HKB-cong-ty-co-phan-nong-nghiep-va-thuc-pham-ha-noi-kinh-bac.chn"
+    "href": "/du-lieu/upcom/HKB-cong-ty-co-phan-nong-nghiep-va-thuc-pham-ha-noi-kinh-bac.chn",
+    "businessSectorIds": [
+      "3",
+      "3"
+    ]
   },
   {
     "name": "HLB",
-    "href": "/du-lieu/upcom/HLB-cong-ty-co-phan-bia-va-nuoc-giai-khat-ha-long.chn"
+    "href": "/du-lieu/upcom/HLB-cong-ty-co-phan-bia-va-nuoc-giai-khat-ha-long.chn",
+    "businessSectorIds": [
+      "5",
+      "138"
+    ]
   },
   {
     "name": "HLY",
-    "href": "/du-lieu/upcom/HLY-cong-ty-co-phan-gom-xay-dung-hung-yen.chn"
+    "href": "/du-lieu/upcom/HLY-cong-ty-co-phan-gom-xay-dung-hung-yen.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "HMS",
-    "href": "/du-lieu/upcom/HMS-cong-ty-co-phan-xay-dung-bao-tang-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/HMS-cong-ty-co-phan-xay-dung-bao-tang-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "HNB",
-    "href": "/du-lieu/upcom/HNB-cong-ty-co-phan-ben-xe-ha-noi.chn"
+    "href": "/du-lieu/upcom/HNB-cong-ty-co-phan-ben-xe-ha-noi.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "HND",
-    "href": "/du-lieu/upcom/HND-ctcp-nhiet-dien-hai-phong.chn"
+    "href": "/du-lieu/upcom/HND-ctcp-nhiet-dien-hai-phong.chn",
+    "businessSectorIds": [
+      "24",
+      "39"
+    ]
   },
   {
     "name": "HNF",
-    "href": "/du-lieu/upcom/HNF-cong-ty-co-phan-thuc-pham-huu-nghi.chn"
+    "href": "/du-lieu/upcom/HNF-cong-ty-co-phan-thuc-pham-huu-nghi.chn",
+    "businessSectorIds": [
+      "5",
+      "28"
+    ]
   },
   {
     "name": "HNG",
-    "href": "/du-lieu/upcom/HNG-cong-ty-co-phan-nong-nghiep-quoc-te-hoang-anh-gia-lai.chn"
+    "href": "/du-lieu/upcom/HNG-cong-ty-co-phan-nong-nghiep-quoc-te-hoang-anh-gia-lai.chn",
+    "businessSectorIds": [
+      "3",
+      "148"
+    ]
   },
   {
     "name": "HNI",
-    "href": "/du-lieu/upcom/HNI-cong-ty-co-phan-may-huu-nghi.chn"
+    "href": "/du-lieu/upcom/HNI-cong-ty-co-phan-may-huu-nghi.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "HNM",
-    "href": "/du-lieu/upcom/HNM-cong-ty-co-phan-sua-ha-noi.chn"
+    "href": "/du-lieu/upcom/HNM-cong-ty-co-phan-sua-ha-noi.chn",
+    "businessSectorIds": [
+      "5",
+      "89"
+    ]
   },
   {
     "name": "HOT",
-    "href": "/du-lieu/upcom/HOT-cong-ty-co-phan-du-lich-dich-vu-hoi-an.chn"
+    "href": "/du-lieu/upcom/HOT-cong-ty-co-phan-du-lich-dich-vu-hoi-an.chn",
+    "businessSectorIds": [
+      "14",
+      "67"
+    ]
   },
   {
     "name": "HPB",
-    "href": "/du-lieu/upcom/HPB-cong-ty-co-phan-bao-bi-pp.chn"
+    "href": "/du-lieu/upcom/HPB-cong-ty-co-phan-bao-bi-pp.chn",
+    "businessSectorIds": [
+      "1",
+      "63"
+    ]
   },
   {
     "name": "HPD",
-    "href": "/du-lieu/upcom/HPD-cong-ty-cong-ty-co-phan-thuy-dien-dak-doa.chn"
+    "href": "/du-lieu/upcom/HPD-cong-ty-cong-ty-co-phan-thuy-dien-dak-doa.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "HPH",
-    "href": "/du-lieu/upcom/HPH-cong-ty-co-phan-hoa-chat-hung-phat-ha-bac.chn"
+    "href": "/du-lieu/upcom/HPH-cong-ty-co-phan-hoa-chat-hung-phat-ha-bac.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "HPI",
-    "href": "/du-lieu/upcom/HPI-cong-ty-co-phan-khu-cong-nghiep-hiep-phuoc.chn"
+    "href": "/du-lieu/upcom/HPI-cong-ty-co-phan-khu-cong-nghiep-hiep-phuoc.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "HPP",
-    "href": "/du-lieu/upcom/HPP-cong-ty-co-phan-son-hai-phong.chn"
+    "href": "/du-lieu/upcom/HPP-cong-ty-co-phan-son-hai-phong.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "HPT",
-    "href": "/du-lieu/upcom/HPT-cong-ty-co-phan-dich-vu-cong-nghe-tin-hoc-hpt.chn"
+    "href": "/du-lieu/upcom/HPT-cong-ty-co-phan-dich-vu-cong-nghe-tin-hoc-hpt.chn",
+    "businessSectorIds": [
+      "46",
+      "149"
+    ]
   },
   {
     "name": "HPW",
-    "href": "/du-lieu/upcom/HPW-cong-ty-co-phan-cap-nuoc-hai-phong.chn"
+    "href": "/du-lieu/upcom/HPW-cong-ty-co-phan-cap-nuoc-hai-phong.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "HSI",
-    "href": "/du-lieu/upcom/HSI-cong-ty-co-phan-vat-tu-tong-hop-va-phan-bon-hoa-sinh.chn"
+    "href": "/du-lieu/upcom/HSI-cong-ty-co-phan-vat-tu-tong-hop-va-phan-bon-hoa-sinh.chn",
+    "businessSectorIds": [
+      "3",
+      "32"
+    ]
   },
   {
     "name": "HSM",
-    "href": "/du-lieu/upcom/HSM-tong-cong-ty-co-phan-det-may-ha-noi.chn"
+    "href": "/du-lieu/upcom/HSM-tong-cong-ty-co-phan-det-may-ha-noi.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "HSP",
-    "href": "/du-lieu/upcom/HSP-ctcp-son-tong-hop-ha-noi.chn"
+    "href": "/du-lieu/upcom/HSP-ctcp-son-tong-hop-ha-noi.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "HSV",
-    "href": "/du-lieu/upcom/HSV-cong-ty-co-phan-tap-doan-hsv-viet-nam.chn"
+    "href": "/du-lieu/upcom/HSV-cong-ty-co-phan-tap-doan-hsv-viet-nam.chn",
+    "businessSectorIds": [
+      "1",
+      "115"
+    ]
   },
   {
     "name": "HTE",
-    "href": "/du-lieu/upcom/HTE-cong-ty-co-phan-dau-tu-kinh-doanh-dien-luc-thanh-pho-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/HTE-cong-ty-co-phan-dau-tu-kinh-doanh-dien-luc-thanh-pho-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HTM",
-    "href": "/du-lieu/upcom/HTM-tong-cong-ty-thuong-mai-ha-noi-ctcp.chn"
+    "href": "/du-lieu/upcom/HTM-tong-cong-ty-thuong-mai-ha-noi-ctcp.chn",
+    "businessSectorIds": [
+      "14",
+      "40"
+    ]
   },
   {
     "name": "HTP",
-    "href": "/du-lieu/upcom/HTP-cong-ty-co-phan-in-sach-giao-khoa-hoa-phat.chn"
+    "href": "/du-lieu/upcom/HTP-cong-ty-co-phan-in-sach-giao-khoa-hoa-phat.chn",
+    "businessSectorIds": [
+      "14",
+      "96"
+    ]
   },
   {
     "name": "HTT",
-    "href": "/du-lieu/upcom/HTT-cong-ty-co-phan-thuong-mai-ha-tay.chn"
+    "href": "/du-lieu/upcom/HTT-cong-ty-co-phan-thuong-mai-ha-tay.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "HU3",
-    "href": "/du-lieu/upcom/HU3-cong-ty-co-phan-dau-tu-va-xay-dung-hud3.chn"
+    "href": "/du-lieu/upcom/HU3-cong-ty-co-phan-dau-tu-va-xay-dung-hud3.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "HU4",
-    "href": "/du-lieu/upcom/HU4-cong-ty-co-phan-dau-tu-va-xay-dung-hud4.chn"
+    "href": "/du-lieu/upcom/HU4-cong-ty-co-phan-dau-tu-va-xay-dung-hud4.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "HU6",
-    "href": "/du-lieu/upcom/HU6-cong-ty-co-phan-dau-tu-phat-trien-nha-va-do-thi-hud-6.chn"
+    "href": "/du-lieu/upcom/HU6-cong-ty-co-phan-dau-tu-phat-trien-nha-va-do-thi-hud-6.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "HVA",
-    "href": "/du-lieu/upcom/HVA-cong-ty-co-phan-dau-tu-hva.chn"
+    "href": "/du-lieu/upcom/HVA-cong-ty-co-phan-dau-tu-hva.chn",
+    "businessSectorIds": [
+      "19",
+      "19"
+    ]
   },
   {
     "name": "HWS",
-    "href": "/du-lieu/upcom/HWS-cong-ty-co-phan-cap-nuoc-thua-thien-hue.chn"
+    "href": "/du-lieu/upcom/HWS-cong-ty-co-phan-cap-nuoc-thua-thien-hue.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "ICC",
-    "href": "/du-lieu/upcom/ICC-ctcp-xay-dung-cong-nghiep.chn"
+    "href": "/du-lieu/upcom/ICC-ctcp-xay-dung-cong-nghiep.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "ICF",
-    "href": "/du-lieu/upcom/ICF-cong-ty-co-phan-dau-tu-thuong-mai-thuy-san.chn"
+    "href": "/du-lieu/upcom/ICF-cong-ty-co-phan-dau-tu-thuong-mai-thuy-san.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "ICI",
-    "href": "/du-lieu/upcom/ICI-cong-ty-co-phan-dau-tu-va-xay-dung-cong-nghiep.chn"
+    "href": "/du-lieu/upcom/ICI-cong-ty-co-phan-dau-tu-va-xay-dung-cong-nghiep.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "ICN",
-    "href": "/du-lieu/upcom/ICN-cong-ty-co-phan-dau-tu-xay-dung-dau-khi-idico.chn"
+    "href": "/du-lieu/upcom/ICN-cong-ty-co-phan-dau-tu-xay-dung-dau-khi-idico.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "IDP",
-    "href": "/du-lieu/upcom/IDP-cong-ty-co-phan-sua-quoc-te-lof.chn"
+    "href": "/du-lieu/upcom/IDP-cong-ty-co-phan-sua-quoc-te-lof.chn",
+    "businessSectorIds": [
+      "5",
+      "89"
+    ]
   },
   {
     "name": "IFS",
-    "href": "/du-lieu/upcom/IFS-cong-ty-co-phan-thuc-pham-quoc-te.chn"
+    "href": "/du-lieu/upcom/IFS-cong-ty-co-phan-thuc-pham-quoc-te.chn",
+    "businessSectorIds": [
+      "5",
+      "150"
+    ]
   },
   {
     "name": "IHK",
-    "href": "/du-lieu/upcom/IHK-cong-ty-co-phan-in-hang-khong.chn"
+    "href": "/du-lieu/upcom/IHK-cong-ty-co-phan-in-hang-khong.chn",
+    "businessSectorIds": [
+      "5",
+      "151"
+    ]
   },
   {
     "name": "ILA",
-    "href": "/du-lieu/upcom/ILA-cong-ty-co-phan-ila.chn"
+    "href": "/du-lieu/upcom/ILA-cong-ty-co-phan-ila.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "ILC",
-    "href": "/du-lieu/upcom/ILC-cong-ty-co-phan-hop-tac-lao-dong-voi-nuoc-ngoai.chn"
+    "href": "/du-lieu/upcom/ILC-cong-ty-co-phan-hop-tac-lao-dong-voi-nuoc-ngoai.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "ILS",
-    "href": "/du-lieu/upcom/ILS-cong-ty-co-phan-dau-tu-thuong-mai-va-dich-vu-quoc-te.chn"
+    "href": "/du-lieu/upcom/ILS-cong-ty-co-phan-dau-tu-thuong-mai-va-dich-vu-quoc-te.chn",
+    "businessSectorIds": [
+      "22",
+      "103"
+    ]
   },
   {
     "name": "ING",
-    "href": "/du-lieu/upcom/ING-cong-ty-co-phan-dau-tu-va-phat-trien-xay-dung.chn"
+    "href": "/du-lieu/upcom/ING-cong-ty-co-phan-dau-tu-va-phat-trien-xay-dung.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "ISG",
-    "href": "/du-lieu/upcom/ISG-cong-ty-co-phan-van-tai-bien-va-hop-tac-quoc-te.chn"
+    "href": "/du-lieu/upcom/ISG-cong-ty-co-phan-van-tai-bien-va-hop-tac-quoc-te.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "ISH",
-    "href": "/du-lieu/upcom/ISH-cong-ty-co-phan-thuy-dien-srok-phu-mieng-idico.chn"
+    "href": "/du-lieu/upcom/ISH-cong-ty-co-phan-thuy-dien-srok-phu-mieng-idico.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "IST",
-    "href": "/du-lieu/upcom/IST-cong-ty-co-phan-icd-tan-cang-song-than.chn"
+    "href": "/du-lieu/upcom/IST-cong-ty-co-phan-icd-tan-cang-song-than.chn",
+    "businessSectorIds": [
+      "22",
+      "73"
+    ]
   },
   {
     "name": "ITS",
-    "href": "/du-lieu/upcom/ITS-cong-ty-co-phan-dau-tu-thuong-mai-va-dich-vu-vinacomin.chn"
+    "href": "/du-lieu/upcom/ITS-cong-ty-co-phan-dau-tu-thuong-mai-va-dich-vu-vinacomin.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "JOS",
-    "href": "/du-lieu/upcom/JOS-cong-ty-co-phan-che-bien-thuy-san-xuat-khau-minh-hai.chn"
+    "href": "/du-lieu/upcom/JOS-cong-ty-co-phan-che-bien-thuy-san-xuat-khau-minh-hai.chn",
+    "businessSectorIds": [
+      "3",
+      "123"
+    ]
   },
   {
     "name": "KCB",
-    "href": "/du-lieu/upcom/KCB-ctcp-khoang-san-va-luyen-kim-cao-bang.chn"
+    "href": "/du-lieu/upcom/KCB-ctcp-khoang-san-va-luyen-kim-cao-bang.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "KCE",
-    "href": "/du-lieu/upcom/KCE-cong-ty-co-phan-be-tong-ly-tam-dien-luc-khanh-hoa.chn"
+    "href": "/du-lieu/upcom/KCE-cong-ty-co-phan-be-tong-ly-tam-dien-luc-khanh-hoa.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "KGM",
-    "href": "/du-lieu/upcom/KGM-cong-ty-co-phan-xuat-nhap-khau-kien-giang.chn"
+    "href": "/du-lieu/upcom/KGM-cong-ty-co-phan-xuat-nhap-khau-kien-giang.chn",
+    "businessSectorIds": [
+      "3",
+      "152"
+    ]
   },
   {
     "name": "KHD",
-    "href": "/du-lieu/upcom/KHD-ctcp-khai-thac-che-bien-khoang-san-hai-duong.chn"
+    "href": "/du-lieu/upcom/KHD-ctcp-khai-thac-che-bien-khoang-san-hai-duong.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "KHW",
-    "href": "/du-lieu/upcom/KHW-cong-ty-co-phan-cap-nuoc-khanh-hoa.chn"
+    "href": "/du-lieu/upcom/KHW-cong-ty-co-phan-cap-nuoc-khanh-hoa.chn",
+    "businessSectorIds": [
+      "142",
+      "142"
+    ]
   },
   {
     "name": "KIP",
-    "href": "/du-lieu/upcom/KIP-cong-ty-co-phan-kip-viet-nam.chn"
+    "href": "/du-lieu/upcom/KIP-cong-ty-co-phan-kip-viet-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "50"
+    ]
   },
   {
     "name": "KLB",
-    "href": "/du-lieu/upcom/KLB-ngan-hang-thuong-mai-co-phan-kien-long.chn"
+    "href": "/du-lieu/upcom/KLB-ngan-hang-thuong-mai-co-phan-kien-long.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "KTC",
-    "href": "/du-lieu/upcom/KTC-cong-ty-co-phan-thuong-mai-kien-giang.chn"
+    "href": "/du-lieu/upcom/KTC-cong-ty-co-phan-thuong-mai-kien-giang.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "KTL",
-    "href": "/du-lieu/upcom/KTL-ctcp-kim-khi-thang-long.chn"
+    "href": "/du-lieu/upcom/KTL-ctcp-kim-khi-thang-long.chn",
+    "businessSectorIds": [
+      "22",
+      "127"
+    ]
   },
   {
     "name": "KVC",
-    "href": "/du-lieu/upcom/KVC-ctcp-san-xuat-xuat-nhap-khau-inox-kim-vi.chn"
+    "href": "/du-lieu/upcom/KVC-ctcp-san-xuat-xuat-nhap-khau-inox-kim-vi.chn",
+    "businessSectorIds": [
+      "22",
+      "91"
+    ]
   },
   {
     "name": "L12",
-    "href": "/du-lieu/upcom/L12-cong-ty-co-phan-licogi-12.chn"
+    "href": "/du-lieu/upcom/L12-cong-ty-co-phan-licogi-12.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "L35",
-    "href": "/du-lieu/upcom/L35-cong-ty-co-phan-co-khi-lap-may-lilama.chn"
+    "href": "/du-lieu/upcom/L35-cong-ty-co-phan-co-khi-lap-may-lilama.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "L43",
-    "href": "/du-lieu/upcom/L43-cong-ty-co-phan-lilama-453.chn"
+    "href": "/du-lieu/upcom/L43-cong-ty-co-phan-lilama-453.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "L44",
-    "href": "/du-lieu/upcom/L44-cong-ty-co-phan-lilama-454.chn"
+    "href": "/du-lieu/upcom/L44-cong-ty-co-phan-lilama-454.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "L45",
-    "href": "/du-lieu/upcom/L45-ctcp-lilama-451.chn"
+    "href": "/du-lieu/upcom/L45-ctcp-lilama-451.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "L61",
-    "href": "/du-lieu/upcom/L61-cong-ty-co-phan-lilama-691.chn"
+    "href": "/du-lieu/upcom/L61-cong-ty-co-phan-lilama-691.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "L62",
-    "href": "/du-lieu/upcom/L62-cong-ty-co-phan-lilama-692.chn"
+    "href": "/du-lieu/upcom/L62-cong-ty-co-phan-lilama-692.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "L63",
-    "href": "/du-lieu/upcom/L63-ctcp-lilama-693.chn"
+    "href": "/du-lieu/upcom/L63-ctcp-lilama-693.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "LAI",
-    "href": "/du-lieu/upcom/LAI-ctcp-dau-tu-xay-dung-long-an-idico.chn"
+    "href": "/du-lieu/upcom/LAI-ctcp-dau-tu-xay-dung-long-an-idico.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "LCM",
-    "href": "/du-lieu/upcom/LCM-cong-ty-co-phan-khai-thac-va-che-bien-khoang-san-lao-cai.chn"
+    "href": "/du-lieu/upcom/LCM-cong-ty-co-phan-khai-thac-va-che-bien-khoang-san-lao-cai.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "LCS",
-    "href": "/du-lieu/upcom/LCS-cong-ty-co-phan-licogi-166.chn"
+    "href": "/du-lieu/upcom/LCS-cong-ty-co-phan-licogi-166.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "LG9",
-    "href": "/du-lieu/upcom/LG9-cong-ty-co-phan-co-gioi-va-xay-lap-so-9.chn"
+    "href": "/du-lieu/upcom/LG9-cong-ty-co-phan-co-gioi-va-xay-lap-so-9.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "LGM",
-    "href": "/du-lieu/upcom/LGM-cong-ty-co-phan-giay-da-va-may-mac-xuat-khau.chn"
+    "href": "/du-lieu/upcom/LGM-cong-ty-co-phan-giay-da-va-may-mac-xuat-khau.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "LIC",
-    "href": "/du-lieu/upcom/LIC-tong-cong-ty-licogi-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/LIC-tong-cong-ty-licogi-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "LKW",
-    "href": "/du-lieu/upcom/LKW-ctcp-cap-nuoc-long-khanh.chn"
+    "href": "/du-lieu/upcom/LKW-ctcp-cap-nuoc-long-khanh.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "LLM",
-    "href": "/du-lieu/upcom/LLM-tong-cong-ty-lap-may-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/LLM-tong-cong-ty-lap-may-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "22",
+      "70"
+    ]
   },
   {
     "name": "LM7",
-    "href": "/du-lieu/upcom/LM7-cong-ty-co-phan-lilama-7.chn"
+    "href": "/du-lieu/upcom/LM7-cong-ty-co-phan-lilama-7.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "LMC",
-    "href": "/du-lieu/upcom/LMC-cong-ty-co-phan-khoang-san-latca.chn"
+    "href": "/du-lieu/upcom/LMC-cong-ty-co-phan-khoang-san-latca.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "LMH",
-    "href": "/du-lieu/upcom/LMH-cong-ty-co-phan-quoc-te-holding.chn"
+    "href": "/du-lieu/upcom/LMH-cong-ty-co-phan-quoc-te-holding.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "LMI",
-    "href": "/du-lieu/upcom/LMI-cong-ty-co-phan-dau-tu-xay-dung-lap-may-idico.chn"
+    "href": "/du-lieu/upcom/LMI-cong-ty-co-phan-dau-tu-xay-dung-lap-may-idico.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "LPT",
-    "href": "/du-lieu/upcom/LPT-cong-ty-co-phan-thuong-mai-va-san-xuat-lap-phuong-thanh.chn"
+    "href": "/du-lieu/upcom/LPT-cong-ty-co-phan-thuong-mai-va-san-xuat-lap-phuong-thanh.chn",
+    "businessSectorIds": [
+      "11",
+      "80"
+    ]
   },
   {
     "name": "LQN",
-    "href": "/du-lieu/upcom/LQN-cong-ty-co-phan-licogi-quang-ngai.chn"
+    "href": "/du-lieu/upcom/LQN-cong-ty-co-phan-licogi-quang-ngai.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "LSG",
-    "href": "/du-lieu/upcom/LSG-cong-ty-co-phan-bat-dong-san-sai-gon-vina.chn"
+    "href": "/du-lieu/upcom/LSG-cong-ty-co-phan-bat-dong-san-sai-gon-vina.chn",
+    "businessSectorIds": [
+      "11",
+      "77"
+    ]
   },
   {
     "name": "LTC",
-    "href": "/du-lieu/upcom/LTC-cong-ty-co-phan-dien-nhe-vien-thong.chn"
+    "href": "/du-lieu/upcom/LTC-cong-ty-co-phan-dien-nhe-vien-thong.chn",
+    "businessSectorIds": [
+      "55",
+      "56"
+    ]
   },
   {
     "name": "LTG",
-    "href": "/du-lieu/upcom/LTG-cong-ty-co-phan-tap-doan-loc-troi.chn"
+    "href": "/du-lieu/upcom/LTG-cong-ty-co-phan-tap-doan-loc-troi.chn",
+    "businessSectorIds": [
+      "3",
+      "8"
+    ]
   },
   {
     "name": "LUT",
-    "href": "/du-lieu/upcom/LUT-cong-ty-co-phan-dau-tu-xay-dung-luong-tai.chn"
+    "href": "/du-lieu/upcom/LUT-cong-ty-co-phan-dau-tu-xay-dung-luong-tai.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "M10",
-    "href": "/du-lieu/upcom/M10-tong-cong-ty-may-10-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/M10-tong-cong-ty-may-10-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "MA1",
-    "href": "/du-lieu/upcom/MA1-cong-ty-co-phan-thiet-bi.chn"
+    "href": "/du-lieu/upcom/MA1-cong-ty-co-phan-thiet-bi.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "MBT",
-    "href": "/du-lieu/upcom/MBT-cong-ty-co-phan-bat-dong-san-cho-thue-minh-bao-tin.chn"
+    "href": "/du-lieu/upcom/MBT-cong-ty-co-phan-bat-dong-san-cho-thue-minh-bao-tin.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "MCG",
-    "href": "/du-lieu/upcom/MCG-cong-ty-co-phan-nang-luong-va-bat-dong-san-mcg.chn"
+    "href": "/du-lieu/upcom/MCG-cong-ty-co-phan-nang-luong-va-bat-dong-san-mcg.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "MCH",
-    "href": "/du-lieu/upcom/MCH-cong-ty-co-phan-hang-tieu-dung-masan.chn"
+    "href": "/du-lieu/upcom/MCH-cong-ty-co-phan-hang-tieu-dung-masan.chn",
+    "businessSectorIds": [
+      "5",
+      "5"
+    ]
   },
   {
     "name": "MDF",
-    "href": "/du-lieu/upcom/MDF-cong-ty-co-phan-go-mdf-vrg-quang-tri.chn"
+    "href": "/du-lieu/upcom/MDF-cong-ty-co-phan-go-mdf-vrg-quang-tri.chn",
+    "businessSectorIds": [
+      "5",
+      "13"
+    ]
   },
   {
     "name": "MEC",
-    "href": "/du-lieu/upcom/MEC-cong-ty-co-phan-co-khi-lap-may-song-da.chn"
+    "href": "/du-lieu/upcom/MEC-cong-ty-co-phan-co-khi-lap-may-song-da.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "MFS",
-    "href": "/du-lieu/upcom/MFS-cong-ty-co-phan-dich-vu-ky-thuat-mobifone.chn"
+    "href": "/du-lieu/upcom/MFS-cong-ty-co-phan-dich-vu-ky-thuat-mobifone.chn",
+    "businessSectorIds": [
+      "55",
+      "56"
+    ]
   },
   {
     "name": "MGC",
-    "href": "/du-lieu/upcom/MGC-cong-ty-co-phan-dia-chat-mo-tkv.chn"
+    "href": "/du-lieu/upcom/MGC-cong-ty-co-phan-dia-chat-mo-tkv.chn",
+    "businessSectorIds": [
+      "24",
+      "121"
+    ]
   },
   {
     "name": "MGG",
-    "href": "/du-lieu/upcom/MGG-tong-cong-ty-duc-giang-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/MGG-tong-cong-ty-duc-giang-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "MGR",
-    "href": "/du-lieu/upcom/MGR-cong-ty-co-phan-tap-doan-mgroup.chn"
+    "href": "/du-lieu/upcom/MGR-cong-ty-co-phan-tap-doan-mgroup.chn",
+    "businessSectorIds": [
+      "11",
+      "51"
+    ]
   },
   {
     "name": "MH3",
-    "href": "/du-lieu/upcom/MH3-cong-ty-co-phan-khu-cong-nghiep-cao-su-binh-long.chn"
+    "href": "/du-lieu/upcom/MH3-cong-ty-co-phan-khu-cong-nghiep-cao-su-binh-long.chn",
+    "businessSectorIds": [
+      "11",
+      "31"
+    ]
   },
   {
     "name": "MIC",
-    "href": "/du-lieu/upcom/MIC-cong-ty-co-phan-ky-nghe-khoang-san-quang-nam.chn"
+    "href": "/du-lieu/upcom/MIC-cong-ty-co-phan-ky-nghe-khoang-san-quang-nam.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "MKP",
-    "href": "/du-lieu/upcom/MKP-cong-ty-co-phan-hoa-duoc-pham-mekophar.chn"
+    "href": "/du-lieu/upcom/MKP-cong-ty-co-phan-hoa-duoc-pham-mekophar.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "MLC",
-    "href": "/du-lieu/upcom/MLC-cong-ty-co-phan-moi-truong-do-thi-tinh-lao-cai.chn"
+    "href": "/du-lieu/upcom/MLC-cong-ty-co-phan-moi-truong-do-thi-tinh-lao-cai.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "MLS",
-    "href": "/du-lieu/upcom/MLS-cong-ty-co-phan-chan-nuoi-mitraco.chn"
+    "href": "/du-lieu/upcom/MLS-cong-ty-co-phan-chan-nuoi-mitraco.chn",
+    "businessSectorIds": [
+      "3",
+      "118"
+    ]
   },
   {
     "name": "MML",
-    "href": "/du-lieu/upcom/MML-cong-ty-co-phan-masan-meatlife.chn"
+    "href": "/du-lieu/upcom/MML-cong-ty-co-phan-masan-meatlife.chn",
+    "businessSectorIds": [
+      "5",
+      "110"
+    ]
   },
   {
     "name": "MNB",
-    "href": "/du-lieu/upcom/MNB-tong-cong-ty-may-nha-be-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/MNB-tong-cong-ty-may-nha-be-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "MND",
-    "href": "/du-lieu/upcom/MND-cong-ty-co-phan-moi-truong-nam-dinh.chn"
+    "href": "/du-lieu/upcom/MND-cong-ty-co-phan-moi-truong-nam-dinh.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "MPC",
-    "href": "/du-lieu/upcom/MPC-cong-ty-co-phan-tap-doan-thuy-san-minh-phu.chn"
+    "href": "/du-lieu/upcom/MPC-cong-ty-co-phan-tap-doan-thuy-san-minh-phu.chn",
+    "businessSectorIds": [
+      "3",
+      "49"
+    ]
   },
   {
     "name": "MPT",
-    "href": "/du-lieu/upcom/MPT-cong-ty-co-phan-tap-doan-truong-tien.chn"
+    "href": "/du-lieu/upcom/MPT-cong-ty-co-phan-tap-doan-truong-tien.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "MQN",
-    "href": "/du-lieu/upcom/MQN-cong-ty-co-phan-moi-truong-do-thi-quang-ngai.chn"
+    "href": "/du-lieu/upcom/MQN-cong-ty-co-phan-moi-truong-do-thi-quang-ngai.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "MRF",
-    "href": "/du-lieu/upcom/MRF-cong-ty-co-phan-merufa.chn"
+    "href": "/du-lieu/upcom/MRF-cong-ty-co-phan-merufa.chn",
+    "businessSectorIds": [
+      "60",
+      "85"
+    ]
   },
   {
     "name": "MSR",
-    "href": "/du-lieu/upcom/MSR-cong-ty-co-phan-masan-hightech-materials.chn"
+    "href": "/du-lieu/upcom/MSR-cong-ty-co-phan-masan-hightech-materials.chn",
+    "businessSectorIds": [
+      "1",
+      "115"
+    ]
   },
   {
     "name": "MTA",
-    "href": "/du-lieu/upcom/MTA-tong-cong-ty-khoang-san-va-thuong-mai-ha-tinh-ctcp.chn"
+    "href": "/du-lieu/upcom/MTA-tong-cong-ty-khoang-san-va-thuong-mai-ha-tinh-ctcp.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "MTH",
-    "href": "/du-lieu/upcom/MTH-cong-ty-co-phan-moi-truong-do-thi-ha-dong.chn"
+    "href": "/du-lieu/upcom/MTH-cong-ty-co-phan-moi-truong-do-thi-ha-dong.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "MTL",
-    "href": "/du-lieu/upcom/MTL-ctcp-dich-vu-moi-truong-do-thi-tu-liem.chn"
+    "href": "/du-lieu/upcom/MTL-ctcp-dich-vu-moi-truong-do-thi-tu-liem.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "MTP",
-    "href": "/du-lieu/upcom/MTP-cong-ty-co-phan-duoc-medipharco.chn"
+    "href": "/du-lieu/upcom/MTP-cong-ty-co-phan-duoc-medipharco.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "MTS",
-    "href": "/du-lieu/upcom/MTS-cong-ty-co-phan-vat-tu-tkv.chn"
+    "href": "/du-lieu/upcom/MTS-cong-ty-co-phan-vat-tu-tkv.chn",
+    "businessSectorIds": [
+      "1",
+      "37"
+    ]
   },
   {
     "name": "MTV",
-    "href": "/du-lieu/upcom/MTV-cong-ty-co-phan-dich-vu-moi-truong-va-cong-trinh-do-thi-vung-tau.chn"
+    "href": "/du-lieu/upcom/MTV-cong-ty-co-phan-dich-vu-moi-truong-va-cong-trinh-do-thi-vung-tau.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "MVC",
-    "href": "/du-lieu/upcom/MVC-cong-ty-co-phan-vat-lieu-va-xay-dung-binh-duong.chn"
+    "href": "/du-lieu/upcom/MVC-cong-ty-co-phan-vat-lieu-va-xay-dung-binh-duong.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "MVN",
-    "href": "/du-lieu/upcom/MVN-tong-cong-ty-hang-hai-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/MVN-tong-cong-ty-hang-hai-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "MZG",
-    "href": "/du-lieu/upcom/MZG-cong-ty-co-phan-miza.chn"
+    "href": "/du-lieu/upcom/MZG-cong-ty-co-phan-miza.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "NAC",
-    "href": "/du-lieu/upcom/NAC-cong-ty-co-phan-tu-van-xay-dung-tong-hop.chn"
+    "href": "/du-lieu/upcom/NAC-cong-ty-co-phan-tu-van-xay-dung-tong-hop.chn",
+    "businessSectorIds": [
+      "11",
+      "79"
+    ]
   },
   {
     "name": "NAS",
-    "href": "/du-lieu/upcom/NAS-cong-ty-co-phan-dich-vu-hang-khong-san-bay-noi-bai.chn"
+    "href": "/du-lieu/upcom/NAS-cong-ty-co-phan-dich-vu-hang-khong-san-bay-noi-bai.chn",
+    "businessSectorIds": [
+      "22",
+      "23"
+    ]
   },
   {
     "name": "NBE",
-    "href": "/du-lieu/upcom/NBE-cong-ty-co-phan-sach-va-thiet-bi-giao-duc-mien-bac.chn"
+    "href": "/du-lieu/upcom/NBE-cong-ty-co-phan-sach-va-thiet-bi-giao-duc-mien-bac.chn",
+    "businessSectorIds": [
+      "14",
+      "96"
+    ]
   },
   {
     "name": "NBT",
-    "href": "/du-lieu/upcom/NBT-ctcp-cap-thoat-nuoc-ben-tre.chn"
+    "href": "/du-lieu/upcom/NBT-ctcp-cap-thoat-nuoc-ben-tre.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "NCG",
-    "href": "/du-lieu/upcom/NCG-cong-ty-co-phan-tap-doan-nova-consumer.chn"
+    "href": "/du-lieu/upcom/NCG-cong-ty-co-phan-tap-doan-nova-consumer.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "NCS",
-    "href": "/du-lieu/upcom/NCS-cong-ty-co-phan-suat-an-hang-khong-noi-bai.chn"
+    "href": "/du-lieu/upcom/NCS-cong-ty-co-phan-suat-an-hang-khong-noi-bai.chn",
+    "businessSectorIds": [
+      "22",
+      "23"
+    ]
   },
   {
     "name": "ND2",
-    "href": "/du-lieu/upcom/ND2-cong-ty-co-phan-dau-tu-phat-trien-dien-mien-bac-2.chn"
+    "href": "/du-lieu/upcom/ND2-cong-ty-co-phan-dau-tu-phat-trien-dien-mien-bac-2.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "NDT",
-    "href": "/du-lieu/upcom/NDT-tong-cong-ty-co-phan-det-may-nam-dinh.chn"
+    "href": "/du-lieu/upcom/NDT-tong-cong-ty-co-phan-det-may-nam-dinh.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "NED",
-    "href": "/du-lieu/upcom/NED-cong-ty-co-phan-dau-tu-va-phat-trien-dien-tay-bac.chn"
+    "href": "/du-lieu/upcom/NED-cong-ty-co-phan-dau-tu-va-phat-trien-dien-tay-bac.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "NGC",
-    "href": "/du-lieu/upcom/NGC-cong-ty-co-phan-che-bien-thuy-san-xuat-khau-ngo-quyen.chn"
+    "href": "/du-lieu/upcom/NGC-cong-ty-co-phan-che-bien-thuy-san-xuat-khau-ngo-quyen.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "NHV",
-    "href": "/du-lieu/upcom/NHV-cong-ty-co-phan-dau-tu-nhv.chn"
+    "href": "/du-lieu/upcom/NHV-cong-ty-co-phan-dau-tu-nhv.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "NJC",
-    "href": "/du-lieu/upcom/NJC-cong-ty-co-phan-may-nam-dinh.chn"
+    "href": "/du-lieu/upcom/NJC-cong-ty-co-phan-may-nam-dinh.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "NNT",
-    "href": "/du-lieu/upcom/NNT-cong-ty-co-phan-cap-nuoc-ninh-thuan.chn"
+    "href": "/du-lieu/upcom/NNT-cong-ty-co-phan-cap-nuoc-ninh-thuan.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "NOS",
-    "href": "/du-lieu/upcom/NOS-cong-ty-co-phan-van-tai-bien-va-thuong-mai-phuong-dong.chn"
+    "href": "/du-lieu/upcom/NOS-cong-ty-co-phan-van-tai-bien-va-thuong-mai-phuong-dong.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "NQN",
-    "href": "/du-lieu/upcom/NQN-cong-ty-co-phan-nuoc-sach-quang-ninh.chn"
+    "href": "/du-lieu/upcom/NQN-cong-ty-co-phan-nuoc-sach-quang-ninh.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "NS2",
-    "href": "/du-lieu/upcom/NS2-cong-ty-co-phan-nuoc-sach-so-2-ha-noi.chn"
+    "href": "/du-lieu/upcom/NS2-cong-ty-co-phan-nuoc-sach-so-2-ha-noi.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "NTC",
-    "href": "/du-lieu/upcom/NTC-cong-ty-co-phan-khu-cong-nghiep-nam-tan-uyen.chn"
+    "href": "/du-lieu/upcom/NTC-cong-ty-co-phan-khu-cong-nghiep-nam-tan-uyen.chn",
+    "businessSectorIds": [
+      "11",
+      "31"
+    ]
   },
   {
     "name": "NTT",
-    "href": "/du-lieu/upcom/NTT-cong-ty-co-phan-det-may-nha-trang.chn"
+    "href": "/du-lieu/upcom/NTT-cong-ty-co-phan-det-may-nha-trang.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "NTW",
-    "href": "/du-lieu/upcom/NTW-cong-ty-co-phan-cap-nuoc-nhon-trach.chn"
+    "href": "/du-lieu/upcom/NTW-cong-ty-co-phan-cap-nuoc-nhon-trach.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "NUE",
-    "href": "/du-lieu/upcom/NUE-cong-ty-co-phan-moi-truong-do-thi-nha-trang.chn"
+    "href": "/du-lieu/upcom/NUE-cong-ty-co-phan-moi-truong-do-thi-nha-trang.chn",
+    "businessSectorIds": [
+      "142",
+      "142"
+    ]
   },
   {
     "name": "NWT",
-    "href": "/du-lieu/upcom/NWT-cong-ty-co-phan-van-tai-newway.chn"
+    "href": "/du-lieu/upcom/NWT-cong-ty-co-phan-van-tai-newway.chn",
+    "businessSectorIds": [
+      "14",
+      "105"
+    ]
   },
   {
     "name": "NXT",
-    "href": "/du-lieu/upcom/NXT-ctcp-san-xuat-va-cung-ung-vat-lieu-xay-dung-kon-tum.chn"
+    "href": "/du-lieu/upcom/NXT-ctcp-san-xuat-va-cung-ung-vat-lieu-xay-dung-kon-tum.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "ODE",
-    "href": "/du-lieu/upcom/ODE-cong-ty-co-phan-tap-doan-truyen-thong-va-giai-tri-ode.chn"
+    "href": "/du-lieu/upcom/ODE-cong-ty-co-phan-tap-doan-truyen-thong-va-giai-tri-ode.chn",
+    "businessSectorIds": [
+      "14",
+      "137"
+    ]
   },
   {
     "name": "OIL",
-    "href": "/du-lieu/upcom/OIL-tong-cong-ty-dau-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/OIL-tong-cong-ty-dau-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "PAP",
-    "href": "/du-lieu/upcom/PAP-cong-ty-co-phan-dau-khi-dau-tu-khai-thac-cang-phuoc-an.chn"
+    "href": "/du-lieu/upcom/PAP-cong-ty-co-phan-dau-khi-dau-tu-khai-thac-cang-phuoc-an.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "PAS",
-    "href": "/du-lieu/upcom/PAS-cong-ty-co-phan-quoc-te-phuong-anh.chn"
+    "href": "/du-lieu/upcom/PAS-cong-ty-co-phan-quoc-te-phuong-anh.chn",
+    "businessSectorIds": [
+      "1",
+      "68"
+    ]
   },
   {
     "name": "PAT",
-    "href": "/du-lieu/upcom/PAT-cong-ty-co-phan-phot-pho-apatit-viet-nam.chn"
+    "href": "/du-lieu/upcom/PAT-cong-ty-co-phan-phot-pho-apatit-viet-nam.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "PBC",
-    "href": "/du-lieu/upcom/PBC-ctcp-duoc-pham-trung-uong-i-pharbaco.chn"
+    "href": "/du-lieu/upcom/PBC-ctcp-duoc-pham-trung-uong-i-pharbaco.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "PBT",
-    "href": "/du-lieu/upcom/PBT-cong-ty-co-phan-nha-va-thuong-mai-dau-khi.chn"
+    "href": "/du-lieu/upcom/PBT-cong-ty-co-phan-nha-va-thuong-mai-dau-khi.chn",
+    "businessSectorIds": [
+      "1",
+      "63"
+    ]
   },
   {
     "name": "PCC",
-    "href": "/du-lieu/upcom/PCC-cong-ty-co-phan-tap-doan-xay-lap-1-petrolimex.chn"
+    "href": "/du-lieu/upcom/PCC-cong-ty-co-phan-tap-doan-xay-lap-1-petrolimex.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "PCF",
-    "href": "/du-lieu/upcom/PCF-cong-ty-co-phan-ca-phe-petec.chn"
+    "href": "/du-lieu/upcom/PCF-cong-ty-co-phan-ca-phe-petec.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "PCM",
-    "href": "/du-lieu/upcom/PCM-cong-ty-co-phan-vat-lieu-xay-dung-buu-dien.chn"
+    "href": "/du-lieu/upcom/PCM-cong-ty-co-phan-vat-lieu-xay-dung-buu-dien.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "PDC",
-    "href": "/du-lieu/upcom/PDC-cong-ty-co-phan-du-lich-dau-khi-phuong-dong.chn"
+    "href": "/du-lieu/upcom/PDC-cong-ty-co-phan-du-lich-dau-khi-phuong-dong.chn",
+    "businessSectorIds": [
+      "14",
+      "67"
+    ]
   },
   {
     "name": "PDV",
-    "href": "/du-lieu/upcom/PDV-cong-ty-co-phan-van-tai-va-tiep-van-phuong-dong-viet.chn"
+    "href": "/du-lieu/upcom/PDV-cong-ty-co-phan-van-tai-va-tiep-van-phuong-dong-viet.chn",
+    "businessSectorIds": [
+      "24",
+      "74"
+    ]
   },
   {
     "name": "PEG",
-    "href": "/du-lieu/upcom/PEG-tong-cong-ty-thuong-mai-ky-thuat-va-dau-tu-ctcp.chn"
+    "href": "/du-lieu/upcom/PEG-tong-cong-ty-thuong-mai-ky-thuat-va-dau-tu-ctcp.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "PEQ",
-    "href": "/du-lieu/upcom/PEQ-cong-ty-co-phan-thiet-bi-xang-dau-petrolimex.chn"
+    "href": "/du-lieu/upcom/PEQ-cong-ty-co-phan-thiet-bi-xang-dau-petrolimex.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "PFL",
-    "href": "/du-lieu/upcom/PFL-cong-ty-co-phan-dau-khi-dong-do.chn"
+    "href": "/du-lieu/upcom/PFL-cong-ty-co-phan-dau-khi-dong-do.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "PGB",
-    "href": "/du-lieu/upcom/PGB-ngan-hang-tmcp-thinh-vuong-va-phat-trien.chn"
+    "href": "/du-lieu/upcom/PGB-ngan-hang-tmcp-thinh-vuong-va-phat-trien.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "PHP",
-    "href": "/du-lieu/upcom/PHP-cong-ty-co-phan-cang-hai-phong.chn"
+    "href": "/du-lieu/upcom/PHP-cong-ty-co-phan-cang-hai-phong.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "PHS",
-    "href": "/du-lieu/upcom/PHS-cong-ty-co-phan-chung-khoan-phu-hung.chn"
+    "href": "/du-lieu/upcom/PHS-cong-ty-co-phan-chung-khoan-phu-hung.chn",
+    "businessSectorIds": [
+      "19",
+      "20"
+    ]
   },
   {
     "name": "PIS",
-    "href": "/du-lieu/upcom/PIS-tong-cong-ty-pisico-binh-dinh-ctcp.chn"
+    "href": "/du-lieu/upcom/PIS-tong-cong-ty-pisico-binh-dinh-ctcp.chn",
+    "businessSectorIds": [
+      "5",
+      "13"
+    ]
   },
   {
     "name": "PIV",
-    "href": "/du-lieu/upcom/PIV-cong-ty-co-phan-piv.chn"
+    "href": "/du-lieu/upcom/PIV-cong-ty-co-phan-piv.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "PJS",
-    "href": "/du-lieu/upcom/PJS-cong-ty-co-phan-cap-nuoc-phu-hoa-tan.chn"
+    "href": "/du-lieu/upcom/PJS-cong-ty-co-phan-cap-nuoc-phu-hoa-tan.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "PLA",
-    "href": "/du-lieu/upcom/PLA-cong-ty-co-phan-dau-tu-dich-vu-ha-tang-xang-dau.chn"
+    "href": "/du-lieu/upcom/PLA-cong-ty-co-phan-dau-tu-dich-vu-ha-tang-xang-dau.chn",
+    "businessSectorIds": [
+      "11",
+      "77"
+    ]
   },
   {
     "name": "PLO",
-    "href": "/du-lieu/upcom/PLO-cong-ty-co-phan-kho-van-petec.chn"
+    "href": "/du-lieu/upcom/PLO-cong-ty-co-phan-kho-van-petec.chn",
+    "businessSectorIds": [
+      "22",
+      "103"
+    ]
   },
   {
     "name": "PMJ",
-    "href": "/du-lieu/upcom/PMJ-cong-ty-co-phan-vat-tu-buu-dien.chn"
+    "href": "/du-lieu/upcom/PMJ-cong-ty-co-phan-vat-tu-buu-dien.chn",
+    "businessSectorIds": [
+      "46",
+      "153"
+    ]
   },
   {
     "name": "PMW",
-    "href": "/du-lieu/upcom/PMW-cong-ty-co-phan-cap-nuoc-phu-my.chn"
+    "href": "/du-lieu/upcom/PMW-cong-ty-co-phan-cap-nuoc-phu-my.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "PND",
-    "href": "/du-lieu/upcom/PND-cong-ty-co-phan-xang-dau-dau-khi-nam-dinh.chn"
+    "href": "/du-lieu/upcom/PND-cong-ty-co-phan-xang-dau-dau-khi-nam-dinh.chn",
+    "businessSectorIds": [
+      "24",
+      "106"
+    ]
   },
   {
     "name": "PNP",
-    "href": "/du-lieu/upcom/PNP-cong-ty-co-phan-tan-cang-phu-huu.chn"
+    "href": "/du-lieu/upcom/PNP-cong-ty-co-phan-tan-cang-phu-huu.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "PNT",
-    "href": "/du-lieu/upcom/PNT-cong-ty-co-phan-ky-thuat-xay-dung-phu-nhuan.chn"
+    "href": "/du-lieu/upcom/PNT-cong-ty-co-phan-ky-thuat-xay-dung-phu-nhuan.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "POB",
-    "href": "/du-lieu/upcom/POB-cong-ty-co-phan-xang-dau-dau-khi-thai-binh.chn"
+    "href": "/du-lieu/upcom/POB-cong-ty-co-phan-xang-dau-dau-khi-thai-binh.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "POM",
-    "href": "/du-lieu/upcom/POM-cong-ty-co-phan-thep-pomina.chn"
+    "href": "/du-lieu/upcom/POM-cong-ty-co-phan-thep-pomina.chn",
+    "businessSectorIds": [
+      "1",
+      "68"
+    ]
   },
   {
     "name": "POS",
-    "href": "/du-lieu/upcom/POS-cong-ty-co-phan-dich-vu-lap-dat-van-hanh-va-bao-duong-cong-trinh-dau-khi-bien-ptsc.chn"
+    "href": "/du-lieu/upcom/POS-cong-ty-co-phan-dich-vu-lap-dat-van-hanh-va-bao-duong-cong-trinh-dau-khi-bien-ptsc.chn",
+    "businessSectorIds": [
+      "24",
+      "99"
+    ]
   },
   {
     "name": "POV",
-    "href": "/du-lieu/upcom/POV-cong-ty-co-phan-xang-dau-dau-khi-vung-ang.chn"
+    "href": "/du-lieu/upcom/POV-cong-ty-co-phan-xang-dau-dau-khi-vung-ang.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "PPH",
-    "href": "/du-lieu/upcom/PPH-tong-cong-ty-co-phan-phong-phu.chn"
+    "href": "/du-lieu/upcom/PPH-tong-cong-ty-co-phan-phong-phu.chn",
+    "businessSectorIds": [
+      "5",
+      "154"
+    ]
   },
   {
     "name": "PRO",
-    "href": "/du-lieu/upcom/PRO-cong-ty-co-phan-procimex-viet-nam.chn"
+    "href": "/du-lieu/upcom/PRO-cong-ty-co-phan-procimex-viet-nam.chn",
+    "businessSectorIds": [
+      "3",
+      "152"
+    ]
   },
   {
     "name": "PRT",
-    "href": "/du-lieu/upcom/PRT-tong-cong-ty-san-xuat-xuat-nhap-khau-binh-duong-ctcp.chn"
+    "href": "/du-lieu/upcom/PRT-tong-cong-ty-san-xuat-xuat-nhap-khau-binh-duong-ctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "31"
+    ]
   },
   {
     "name": "PSB",
-    "href": "/du-lieu/upcom/PSB-cong-ty-co-phan-dau-tu-dau-khi-sao-mai-ben-dinh.chn"
+    "href": "/du-lieu/upcom/PSB-cong-ty-co-phan-dau-tu-dau-khi-sao-mai-ben-dinh.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "PSL",
-    "href": "/du-lieu/upcom/PSL-cong-ty-co-phan-chan-nuoi-phu-son.chn"
+    "href": "/du-lieu/upcom/PSL-cong-ty-co-phan-chan-nuoi-phu-son.chn",
+    "businessSectorIds": [
+      "3",
+      "118"
+    ]
   },
   {
     "name": "PSP",
-    "href": "/du-lieu/upcom/PSP-cong-ty-co-phan-cang-dich-vu-dau-khi-dinh-vu.chn"
+    "href": "/du-lieu/upcom/PSP-cong-ty-co-phan-cang-dich-vu-dau-khi-dinh-vu.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "PTE",
-    "href": "/du-lieu/upcom/PTE-cong-ty-co-phan-xi-mang-phu-tho.chn"
+    "href": "/du-lieu/upcom/PTE-cong-ty-co-phan-xi-mang-phu-tho.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "PTH",
-    "href": "/du-lieu/upcom/PTH-cong-ty-co-phan-van-tai-va-dich-vu-petrolimex-ha-tay.chn"
+    "href": "/du-lieu/upcom/PTH-cong-ty-co-phan-van-tai-va-dich-vu-petrolimex-ha-tay.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "PTO",
-    "href": "/du-lieu/upcom/PTO-cong-ty-co-phan-dich-vu-xay-dung-cong-trinh-buu-dien.chn"
+    "href": "/du-lieu/upcom/PTO-cong-ty-co-phan-dich-vu-xay-dung-cong-trinh-buu-dien.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "PTP",
-    "href": "/du-lieu/upcom/PTP-cong-ty-co-phan-dich-vu-vien-thong-va-in-buu-dien.chn"
+    "href": "/du-lieu/upcom/PTP-cong-ty-co-phan-dich-vu-vien-thong-va-in-buu-dien.chn",
+    "businessSectorIds": [
+      "5",
+      "134"
+    ]
   },
   {
     "name": "PTT",
-    "href": "/du-lieu/upcom/PTT-cong-ty-co-phan-van-tai-dau-khi-dong-duong.chn"
+    "href": "/du-lieu/upcom/PTT-cong-ty-co-phan-van-tai-dau-khi-dong-duong.chn",
+    "businessSectorIds": [
+      "24",
+      "74"
+    ]
   },
   {
     "name": "PTV",
-    "href": "/du-lieu/upcom/PTV-cong-ty-co-phan-thuong-mai-dau-khi.chn"
+    "href": "/du-lieu/upcom/PTV-cong-ty-co-phan-thuong-mai-dau-khi.chn",
+    "businessSectorIds": [
+      "24",
+      "106"
+    ]
   },
   {
     "name": "PVE",
-    "href": "/du-lieu/upcom/PVE-tong-cong-ty-tu-van-thiet-ke-dau-khictcp.chn"
+    "href": "/du-lieu/upcom/PVE-tong-cong-ty-tu-van-thiet-ke-dau-khictcp.chn",
+    "businessSectorIds": [
+      "11",
+      "79"
+    ]
   },
   {
     "name": "PVH",
-    "href": "/du-lieu/upcom/PVH-cong-ty-co-phan-xay-lap-dau-khi-thanh-hoa.chn"
+    "href": "/du-lieu/upcom/PVH-cong-ty-co-phan-xay-lap-dau-khi-thanh-hoa.chn",
+    "businessSectorIds": [
+      "1",
+      "129"
+    ]
   },
   {
     "name": "PVL",
-    "href": "/du-lieu/upcom/PVL-cong-ty-co-phan-dau-tu-nha-dat-viet.chn"
+    "href": "/du-lieu/upcom/PVL-cong-ty-co-phan-dau-tu-nha-dat-viet.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "PVM",
-    "href": "/du-lieu/upcom/PVM-cong-ty-co-phan-may-thiet-bi-dau-khi.chn"
+    "href": "/du-lieu/upcom/PVM-cong-ty-co-phan-may-thiet-bi-dau-khi.chn",
+    "businessSectorIds": [
+      "24",
+      "106"
+    ]
   },
   {
     "name": "PVO",
-    "href": "/du-lieu/upcom/PVO-ctcp-dau-nhon-pv-oil.chn"
+    "href": "/du-lieu/upcom/PVO-ctcp-dau-nhon-pv-oil.chn",
+    "businessSectorIds": [
+      "1",
+      "53"
+    ]
   },
   {
     "name": "PVR",
-    "href": "/du-lieu/upcom/PVR-cong-ty-co-phan-dau-tu-pvr-ha-noi.chn"
+    "href": "/du-lieu/upcom/PVR-cong-ty-co-phan-dau-tu-pvr-ha-noi.chn",
+    "businessSectorIds": [
+      "11",
+      "93"
+    ]
   },
   {
     "name": "PVV",
-    "href": "/du-lieu/upcom/PVV-cong-ty-co-phan-vinaconex-39.chn"
+    "href": "/du-lieu/upcom/PVV-cong-ty-co-phan-vinaconex-39.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "PVX",
-    "href": "/du-lieu/upcom/PVX-tong-cong-ty-co-phan-xay-lap-dau-khi-viet-nam.chn"
+    "href": "/du-lieu/upcom/PVX-tong-cong-ty-co-phan-xay-lap-dau-khi-viet-nam.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "PVY",
-    "href": "/du-lieu/upcom/PVY-cong-ty-co-phan-che-tao-gian-khoan-dau-khi.chn"
+    "href": "/du-lieu/upcom/PVY-cong-ty-co-phan-che-tao-gian-khoan-dau-khi.chn",
+    "businessSectorIds": [
+      "22",
+      "100"
+    ]
   },
   {
     "name": "PWA",
-    "href": "/du-lieu/upcom/PWA-cong-ty-co-phan-bat-dong-san-dau-khi.chn"
+    "href": "/du-lieu/upcom/PWA-cong-ty-co-phan-bat-dong-san-dau-khi.chn",
+    "businessSectorIds": [
+      "11",
+      "77"
+    ]
   },
   {
     "name": "PWS",
-    "href": "/du-lieu/upcom/PWS-cong-ty-co-phan-cap-thoat-nuoc-phu-yen.chn"
+    "href": "/du-lieu/upcom/PWS-cong-ty-co-phan-cap-thoat-nuoc-phu-yen.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "PXA",
-    "href": "/du-lieu/upcom/PXA-cong-ty-co-phan-dau-tu--thuong-mai-dau-khi-nghe-a.chn"
+    "href": "/du-lieu/upcom/PXA-cong-ty-co-phan-dau-tu--thuong-mai-dau-khi-nghe-a.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "PXI",
-    "href": "/du-lieu/upcom/PXI-cong-ty-co-phan-xay-dung-cong-nghiep-va-dan-dung-dau-khi.chn"
+    "href": "/du-lieu/upcom/PXI-cong-ty-co-phan-xay-dung-cong-nghiep-va-dan-dung-dau-khi.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "PXL",
-    "href": "/du-lieu/upcom/PXL-tong-cong-ty-co-phan-dau-tu-va-phat-trien-kcn-dau-khilong-son.chn"
+    "href": "/du-lieu/upcom/PXL-tong-cong-ty-co-phan-dau-tu-va-phat-trien-kcn-dau-khilong-son.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "PXM",
-    "href": "/du-lieu/upcom/PXM-cong-ty-co-phan-xay-lap-dau-khi-mien-trung.chn"
+    "href": "/du-lieu/upcom/PXM-cong-ty-co-phan-xay-lap-dau-khi-mien-trung.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "PXS",
-    "href": "/du-lieu/upcom/PXS-cong-ty-co-phan-ket-cau-kim-loai-va-lap-may-dau-khi.chn"
+    "href": "/du-lieu/upcom/PXS-cong-ty-co-phan-ket-cau-kim-loai-va-lap-may-dau-khi.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "PXT",
-    "href": "/du-lieu/upcom/PXT-cong-ty-co-phan-xay-lap-duong-ong-be-chua-dau-khi.chn"
+    "href": "/du-lieu/upcom/PXT-cong-ty-co-phan-xay-lap-duong-ong-be-chua-dau-khi.chn",
+    "businessSectorIds": [
+      "11",
+      "87"
+    ]
   },
   {
     "name": "QBS",
-    "href": "/du-lieu/upcom/QBS-cong-ty-co-phan-xuat-nhap-khau-quang-binh.chn"
+    "href": "/du-lieu/upcom/QBS-cong-ty-co-phan-xuat-nhap-khau-quang-binh.chn",
+    "businessSectorIds": [
+      "3",
+      "155"
+    ]
   },
   {
     "name": "QHW",
-    "href": "/du-lieu/upcom/QHW-ctcp-nuoc-khoang-quang-ninh.chn"
+    "href": "/du-lieu/upcom/QHW-ctcp-nuoc-khoang-quang-ninh.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "QNC",
-    "href": "/du-lieu/upcom/QNC-cong-ty-co-phan-xi-mang-va-xay-dung-quang-ninh.chn"
+    "href": "/du-lieu/upcom/QNC-cong-ty-co-phan-xi-mang-va-xay-dung-quang-ninh.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "QNS",
-    "href": "/du-lieu/upcom/QNS-cong-ty-co-phan-duong-quang-ngai.chn"
+    "href": "/du-lieu/upcom/QNS-cong-ty-co-phan-duong-quang-ngai.chn",
+    "businessSectorIds": [
+      "3",
+      "88"
+    ]
   },
   {
     "name": "QPH",
-    "href": "/du-lieu/upcom/QPH-cong-ty-co-phan-thuy-dien-que-phong.chn"
+    "href": "/du-lieu/upcom/QPH-cong-ty-co-phan-thuy-dien-que-phong.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "QSP",
-    "href": "/du-lieu/upcom/QSP-cong-ty-co-phan-tan-cang-quy-nhon.chn"
+    "href": "/du-lieu/upcom/QSP-cong-ty-co-phan-tan-cang-quy-nhon.chn",
+    "businessSectorIds": [
+      "22",
+      "103"
+    ]
   },
   {
     "name": "QTP",
-    "href": "/du-lieu/upcom/QTP-cong-ty-co-phan-nhiet-dien-quang-ninh.chn"
+    "href": "/du-lieu/upcom/QTP-cong-ty-co-phan-nhiet-dien-quang-ninh.chn",
+    "businessSectorIds": [
+      "24",
+      "86"
+    ]
   },
   {
     "name": "RAT",
-    "href": "/du-lieu/upcom/RAT-ctcp-van-tai-va-thuong-mai-duong-sat.chn"
+    "href": "/du-lieu/upcom/RAT-ctcp-van-tai-va-thuong-mai-duong-sat.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "RBC",
-    "href": "/du-lieu/upcom/RBC-ctcp-cong-nghiep-va-xuat-nhap-khau-cao-su.chn"
+    "href": "/du-lieu/upcom/RBC-ctcp-cong-nghiep-va-xuat-nhap-khau-cao-su.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "RCC",
-    "href": "/du-lieu/upcom/RCC-cong-ty-co-phan-tong-cong-ty-cong-trinh-duong-sat.chn"
+    "href": "/du-lieu/upcom/RCC-cong-ty-co-phan-tong-cong-ty-cong-trinh-duong-sat.chn",
+    "businessSectorIds": [
+      "22",
+      "156"
+    ]
   },
   {
     "name": "RCD",
-    "href": "/du-lieu/upcom/RCD-cong-ty-co-phan-xay-dung-dia-oc-cao-su.chn"
+    "href": "/du-lieu/upcom/RCD-cong-ty-co-phan-xay-dung-dia-oc-cao-su.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "RIC",
-    "href": "/du-lieu/upcom/RIC-cong-ty-co-phan-quoc-te-hoang-gia.chn"
+    "href": "/du-lieu/upcom/RIC-cong-ty-co-phan-quoc-te-hoang-gia.chn",
+    "businessSectorIds": [
+      "14",
+      "157"
+    ]
   },
   {
     "name": "RTB",
-    "href": "/du-lieu/upcom/RTB-cong-ty-co-phan-cao-su-tan-bien.chn"
+    "href": "/du-lieu/upcom/RTB-cong-ty-co-phan-cao-su-tan-bien.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "S72",
-    "href": "/du-lieu/upcom/S72-cong-ty-co-phan-song-da-702.chn"
+    "href": "/du-lieu/upcom/S72-cong-ty-co-phan-song-da-702.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "S74",
-    "href": "/du-lieu/upcom/S74-cong-ty-co-phan-song-da-704.chn"
+    "href": "/du-lieu/upcom/S74-cong-ty-co-phan-song-da-704.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SAC",
-    "href": "/du-lieu/upcom/SAC-cong-ty-co-phan-xep-do-va-dich-vu-cang-sai-gon.chn"
+    "href": "/du-lieu/upcom/SAC-cong-ty-co-phan-xep-do-va-dich-vu-cang-sai-gon.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "SAS",
-    "href": "/du-lieu/upcom/SAS-ctcp-dich-vu-hang-khong-san-bay-tan-son-nhat.chn"
+    "href": "/du-lieu/upcom/SAS-ctcp-dich-vu-hang-khong-san-bay-tan-son-nhat.chn",
+    "businessSectorIds": [
+      "22",
+      "22"
+    ]
   },
   {
     "name": "SB1",
-    "href": "/du-lieu/upcom/SB1-cong-ty-co-phan-bia-sai-gon-nghe-tinh.chn"
+    "href": "/du-lieu/upcom/SB1-cong-ty-co-phan-bia-sai-gon-nghe-tinh.chn",
+    "businessSectorIds": [
+      "5",
+      "134"
+    ]
   },
   {
     "name": "SBB",
-    "href": "/du-lieu/upcom/SBB-cong-ty-co-phan-tap-doan-bia-sai-gon-binh-tay.chn"
+    "href": "/du-lieu/upcom/SBB-cong-ty-co-phan-tap-doan-bia-sai-gon-binh-tay.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "SBD",
-    "href": "/du-lieu/upcom/SBD-cong-ty-co-phan-cong-nghe-sao-bac-dau.chn"
+    "href": "/du-lieu/upcom/SBD-cong-ty-co-phan-cong-nghe-sao-bac-dau.chn",
+    "businessSectorIds": [
+      "46",
+      "47"
+    ]
   },
   {
     "name": "SBH",
-    "href": "/du-lieu/upcom/SBH-cong-ty-co-phan-thuy-dien-song-ba-ha.chn"
+    "href": "/du-lieu/upcom/SBH-cong-ty-co-phan-thuy-dien-song-ba-ha.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "SBL",
-    "href": "/du-lieu/upcom/SBL-cong-ty-co-phan-bia-sai-gon-bac-lieu.chn"
+    "href": "/du-lieu/upcom/SBL-cong-ty-co-phan-bia-sai-gon-bac-lieu.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "SBM",
-    "href": "/du-lieu/upcom/SBM-cong-ty-co-phan-dau-tu-phat-trien-bac-minh.chn"
+    "href": "/du-lieu/upcom/SBM-cong-ty-co-phan-dau-tu-phat-trien-bac-minh.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "SBR",
-    "href": "/du-lieu/upcom/SBR-cong-ty-co-phan-cao-su-song-be.chn"
+    "href": "/du-lieu/upcom/SBR-cong-ty-co-phan-cao-su-song-be.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "SBS",
-    "href": "/du-lieu/upcom/SBS-cong-ty-co-phan-chung-khoan-sbs.chn"
+    "href": "/du-lieu/upcom/SBS-cong-ty-co-phan-chung-khoan-sbs.chn",
+    "businessSectorIds": [
+      "19",
+      "20"
+    ]
   },
   {
     "name": "SCD",
-    "href": "/du-lieu/upcom/SCD-cong-ty-co-phan-nuoc-giai-khat-chuong-duong.chn"
+    "href": "/du-lieu/upcom/SCD-cong-ty-co-phan-nuoc-giai-khat-chuong-duong.chn",
+    "businessSectorIds": [
+      "5",
+      "150"
+    ]
   },
   {
     "name": "SCJ",
-    "href": "/du-lieu/upcom/SCJ-cong-ty-co-phan-xi-mang-sai-son.chn"
+    "href": "/du-lieu/upcom/SCJ-cong-ty-co-phan-xi-mang-sai-son.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "SCL",
-    "href": "/du-lieu/upcom/SCL-cong-ty-co-phan-song-da-cao-cuong.chn"
+    "href": "/du-lieu/upcom/SCL-cong-ty-co-phan-song-da-cao-cuong.chn",
+    "businessSectorIds": [
+      "11",
+      "57"
+    ]
   },
   {
     "name": "SCY",
-    "href": "/du-lieu/upcom/SCY-cong-ty-co-phan-dong-tau-song-cam.chn"
+    "href": "/du-lieu/upcom/SCY-cong-ty-co-phan-dong-tau-song-cam.chn",
+    "businessSectorIds": [
+      "22",
+      "146"
+    ]
   },
   {
     "name": "SD2",
-    "href": "/du-lieu/upcom/SD2-cong-ty-co-phan-song-da-2.chn"
+    "href": "/du-lieu/upcom/SD2-cong-ty-co-phan-song-da-2.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SD3",
-    "href": "/du-lieu/upcom/SD3-cong-ty-co-phan-song-da-3.chn"
+    "href": "/du-lieu/upcom/SD3-cong-ty-co-phan-song-da-3.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SD4",
-    "href": "/du-lieu/upcom/SD4-cong-ty-co-phan-song-da-4.chn"
+    "href": "/du-lieu/upcom/SD4-cong-ty-co-phan-song-da-4.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SD6",
-    "href": "/du-lieu/upcom/SD6-cong-ty-co-phan-song-da-6.chn"
+    "href": "/du-lieu/upcom/SD6-cong-ty-co-phan-song-da-6.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SD7",
-    "href": "/du-lieu/upcom/SD7-cong-ty-co-phan-song-da-7.chn"
+    "href": "/du-lieu/upcom/SD7-cong-ty-co-phan-song-da-7.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SDD",
-    "href": "/du-lieu/upcom/SDD-cong-ty-co-phan-dau-tu-va-xay-lap-song-da.chn"
+    "href": "/du-lieu/upcom/SDD-cong-ty-co-phan-dau-tu-va-xay-lap-song-da.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SDK",
-    "href": "/du-lieu/upcom/SDK-cong-ty-co-phan-co-khi-luyen-kim.chn"
+    "href": "/du-lieu/upcom/SDK-cong-ty-co-phan-co-khi-luyen-kim.chn",
+    "businessSectorIds": [
+      "46",
+      "46"
+    ]
   },
   {
     "name": "SDP",
-    "href": "/du-lieu/upcom/SDP-cong-ty-co-phan-sdp.chn"
+    "href": "/du-lieu/upcom/SDP-cong-ty-co-phan-sdp.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SDT",
-    "href": "/du-lieu/upcom/SDT-cong-ty-co-phan-song-da-10.chn"
+    "href": "/du-lieu/upcom/SDT-cong-ty-co-phan-song-da-10.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SDV",
-    "href": "/du-lieu/upcom/SDV-cong-ty-co-phan-dich-vu-sonadezi.chn"
+    "href": "/du-lieu/upcom/SDV-cong-ty-co-phan-dich-vu-sonadezi.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "SDY",
-    "href": "/du-lieu/upcom/SDY-cong-ty-co-phan-xi-mang-song-da-yaly.chn"
+    "href": "/du-lieu/upcom/SDY-cong-ty-co-phan-xi-mang-song-da-yaly.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "SEA",
-    "href": "/du-lieu/upcom/SEA-tong-cong-ty-thuy-san-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/SEA-tong-cong-ty-thuy-san-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "SEP",
-    "href": "/du-lieu/upcom/SEP-cong-ty-co-phan-tong-cong-ty-thuong-mai-quang-tri.chn"
+    "href": "/du-lieu/upcom/SEP-cong-ty-co-phan-tong-cong-ty-thuong-mai-quang-tri.chn",
+    "businessSectorIds": [
+      "14",
+      "130"
+    ]
   },
   {
     "name": "SGB",
-    "href": "/du-lieu/upcom/SGB-ngan-hang-tmcp-sai-gon-cong-thuong.chn"
+    "href": "/du-lieu/upcom/SGB-ngan-hang-tmcp-sai-gon-cong-thuong.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "SGI",
-    "href": "/du-lieu/upcom/SGI-cong-ty-co-phan-dau-tu-phat-trien-sai-gon-3-group.chn"
+    "href": "/du-lieu/upcom/SGI-cong-ty-co-phan-dau-tu-phat-trien-sai-gon-3-group.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "SGP",
-    "href": "/du-lieu/upcom/SGP-cong-ty-co-phan-cang-sai-gon.chn"
+    "href": "/du-lieu/upcom/SGP-cong-ty-co-phan-cang-sai-gon.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "SGS",
-    "href": "/du-lieu/upcom/SGS-cong-ty-co-phan-van-tai-bien-sai-gon.chn"
+    "href": "/du-lieu/upcom/SGS-cong-ty-co-phan-van-tai-bien-sai-gon.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "SHC",
-    "href": "/du-lieu/upcom/SHC-cong-ty-co-phan-hang-hai-sai-gon.chn"
+    "href": "/du-lieu/upcom/SHC-cong-ty-co-phan-hang-hai-sai-gon.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "SHG",
-    "href": "/du-lieu/upcom/SHG-tong-cong-ty-co-phan-song-hong.chn"
+    "href": "/du-lieu/upcom/SHG-tong-cong-ty-co-phan-song-hong.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SID",
-    "href": "/du-lieu/upcom/SID-cong-ty-co-phan-dau-tu-phat-trien-sai-gon-coop.chn"
+    "href": "/du-lieu/upcom/SID-cong-ty-co-phan-dau-tu-phat-trien-sai-gon-coop.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "SIG",
-    "href": "/du-lieu/upcom/SIG-ctcp-dau-tu-va-thuong-mai-song-da.chn"
+    "href": "/du-lieu/upcom/SIG-ctcp-dau-tu-va-thuong-mai-song-da.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "SII",
-    "href": "/du-lieu/upcom/SII-cong-ty-co-phan-ha-tang-nuoc-sai-gon.chn"
+    "href": "/du-lieu/upcom/SII-cong-ty-co-phan-ha-tang-nuoc-sai-gon.chn",
+    "businessSectorIds": [
+      "11",
+      "31"
+    ]
   },
   {
     "name": "SIV",
-    "href": "/du-lieu/upcom/SIV-cong-ty-co-phan-sivico.chn"
+    "href": "/du-lieu/upcom/SIV-cong-ty-co-phan-sivico.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "SJG",
-    "href": "/du-lieu/upcom/SJG-tong-cong-ty-song-da-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/SJG-tong-cong-ty-song-da-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "SJM",
-    "href": "/du-lieu/upcom/SJM-cong-ty-co-phan-song-da-19.chn"
+    "href": "/du-lieu/upcom/SJM-cong-ty-co-phan-song-da-19.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "SKH",
-    "href": "/du-lieu/upcom/SKH-cong-ty-co-phan-nuoc-giai-khat-sanest-khanh-hoa.chn"
+    "href": "/du-lieu/upcom/SKH-cong-ty-co-phan-nuoc-giai-khat-sanest-khanh-hoa.chn",
+    "businessSectorIds": [
+      "5",
+      "150"
+    ]
   },
   {
     "name": "SKN",
-    "href": "/du-lieu/upcom/SKN-ctcp-nuoc-giai-khat-sanna-khanh-hoa.chn"
+    "href": "/du-lieu/upcom/SKN-ctcp-nuoc-giai-khat-sanna-khanh-hoa.chn",
+    "businessSectorIds": [
+      "5",
+      "150"
+    ]
   },
   {
     "name": "SKV",
-    "href": "/du-lieu/upcom/SKV-cong-ty-co-phan-nuoc-giai-khat-yen-sao-khanh-hoa.chn"
+    "href": "/du-lieu/upcom/SKV-cong-ty-co-phan-nuoc-giai-khat-yen-sao-khanh-hoa.chn",
+    "businessSectorIds": [
+      "5",
+      "150"
+    ]
   },
   {
     "name": "SNC",
-    "href": "/du-lieu/upcom/SNC-cong-ty-co-phan-xuat-nhap-khau-thuy-san-nam-can.chn"
+    "href": "/du-lieu/upcom/SNC-cong-ty-co-phan-xuat-nhap-khau-thuy-san-nam-can.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "SNZ",
-    "href": "/du-lieu/upcom/SNZ-tong-cong-ty-co-phan-phat-trien-khu-cong-nghiep.chn"
+    "href": "/du-lieu/upcom/SNZ-tong-cong-ty-co-phan-phat-trien-khu-cong-nghiep.chn",
+    "businessSectorIds": [
+      "11",
+      "31"
+    ]
   },
   {
     "name": "SP2",
-    "href": "/du-lieu/upcom/SP2-cong-ty-co-phan-thuy-dien-su-pan-2.chn"
+    "href": "/du-lieu/upcom/SP2-cong-ty-co-phan-thuy-dien-su-pan-2.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "SPB",
-    "href": "/du-lieu/upcom/SPB-cong-ty-co-phan-soi-phu-bai.chn"
+    "href": "/du-lieu/upcom/SPB-cong-ty-co-phan-soi-phu-bai.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "SPD",
-    "href": "/du-lieu/upcom/SPD-cong-ty-co-phan-xuat-nhap-khau-thuy-san-mien-trung.chn"
+    "href": "/du-lieu/upcom/SPD-cong-ty-co-phan-xuat-nhap-khau-thuy-san-mien-trung.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "SPV",
-    "href": "/du-lieu/upcom/SPV-cong-ty-co-phan-thuy-dac-san.chn"
+    "href": "/du-lieu/upcom/SPV-cong-ty-co-phan-thuy-dac-san.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "SQC",
-    "href": "/du-lieu/upcom/SQC-cong-ty-co-phan-khoang-san-sai-gon-quy-nhon.chn"
+    "href": "/du-lieu/upcom/SQC-cong-ty-co-phan-khoang-san-sai-gon-quy-nhon.chn",
+    "businessSectorIds": [
+      "1",
+      "36"
+    ]
   },
   {
     "name": "SRB",
-    "href": "/du-lieu/upcom/SRB-cong-ty-co-phan-tap-doan-sara.chn"
+    "href": "/du-lieu/upcom/SRB-cong-ty-co-phan-tap-doan-sara.chn",
+    "businessSectorIds": [
+      "46",
+      "71"
+    ]
   },
   {
     "name": "SSG",
-    "href": "/du-lieu/upcom/SSG-cong-ty-co-phan-van-tai-bien-hai-au.chn"
+    "href": "/du-lieu/upcom/SSG-cong-ty-co-phan-van-tai-bien-hai-au.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "SSH",
-    "href": "/du-lieu/upcom/SSH-cong-ty-co-phan-phat-trien-sunshine-homes.chn"
+    "href": "/du-lieu/upcom/SSH-cong-ty-co-phan-phat-trien-sunshine-homes.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "SSN",
-    "href": "/du-lieu/upcom/SSN-cong-ty-co-phan-xuat-nhap-khau-thuy-san-sai-gon.chn"
+    "href": "/du-lieu/upcom/SSN-cong-ty-co-phan-xuat-nhap-khau-thuy-san-sai-gon.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "STH",
-    "href": "/du-lieu/upcom/STH-ctcp-phat-hanh-sach-thai-nguyen.chn"
+    "href": "/du-lieu/upcom/STH-ctcp-phat-hanh-sach-thai-nguyen.chn",
+    "businessSectorIds": [
+      "14",
+      "117"
+    ]
   },
   {
     "name": "STT",
-    "href": "/du-lieu/upcom/STT-cong-ty-co-phan-van-chuyen-sai-gon-tourist.chn"
+    "href": "/du-lieu/upcom/STT-cong-ty-co-phan-van-chuyen-sai-gon-tourist.chn",
+    "businessSectorIds": [
+      "22",
+      "112"
+    ]
   },
   {
     "name": "SVG",
-    "href": "/du-lieu/upcom/SVG-ctcp-hoi-ky-nghe-que-han.chn"
+    "href": "/du-lieu/upcom/SVG-ctcp-hoi-ky-nghe-que-han.chn",
+    "businessSectorIds": [
+      "22",
+      "22"
+    ]
   },
   {
     "name": "SWC",
-    "href": "/du-lieu/upcom/SWC-tong-cong-ty-co-phan-duong-song-mien-nam.chn"
+    "href": "/du-lieu/upcom/SWC-tong-cong-ty-co-phan-duong-song-mien-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "SZE",
-    "href": "/du-lieu/upcom/SZE-cong-ty-co-phan-moi-truong-sonadezi.chn"
+    "href": "/du-lieu/upcom/SZE-cong-ty-co-phan-moi-truong-sonadezi.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "SZG",
-    "href": "/du-lieu/upcom/SZG-cong-ty-co-phan-sonadezi-giang-dien.chn"
+    "href": "/du-lieu/upcom/SZG-cong-ty-co-phan-sonadezi-giang-dien.chn",
+    "businessSectorIds": [
+      "11",
+      "77"
+    ]
   },
   {
     "name": "TA6",
-    "href": "/du-lieu/upcom/TA6-cong-ty-co-phan-dau-tu-va-xay-lap-thanh-an-665.chn"
+    "href": "/du-lieu/upcom/TA6-cong-ty-co-phan-dau-tu-va-xay-lap-thanh-an-665.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "TAB",
-    "href": "/du-lieu/upcom/TAB-cong-ty-co-phan-freco-viet-nam.chn"
+    "href": "/du-lieu/upcom/TAB-cong-ty-co-phan-freco-viet-nam.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "TAL",
-    "href": "/du-lieu/upcom/TAL-cong-ty-co-phan-dau-tu-bat-dong-san-taseco.chn"
+    "href": "/du-lieu/upcom/TAL-cong-ty-co-phan-dau-tu-bat-dong-san-taseco.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "TAN",
-    "href": "/du-lieu/upcom/TAN-cong-ty-co-phan-ca-phe-thuan-an.chn"
+    "href": "/du-lieu/upcom/TAN-cong-ty-co-phan-ca-phe-thuan-an.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "TAR",
-    "href": "/du-lieu/upcom/TAR-cong-ty-co-phan-nong-nghiep-cong-nghe-cao-trung-an.chn"
+    "href": "/du-lieu/upcom/TAR-cong-ty-co-phan-nong-nghiep-cong-nghe-cao-trung-an.chn",
+    "businessSectorIds": [
+      "3",
+      "27"
+    ]
   },
   {
     "name": "TBD",
-    "href": "/du-lieu/upcom/TBD-tong-cong-ty-thiet-bi-dien-dong-anh-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/TBD-tong-cong-ty-thiet-bi-dien-dong-anh-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "24",
+      "81"
+    ]
   },
   {
     "name": "TCW",
-    "href": "/du-lieu/upcom/TCW-cong-ty-co-phan-kho-van-tan-cang.chn"
+    "href": "/du-lieu/upcom/TCW-cong-ty-co-phan-kho-van-tan-cang.chn",
+    "businessSectorIds": [
+      "22",
+      "45"
+    ]
   },
   {
     "name": "TDB",
-    "href": "/du-lieu/upcom/TDB-cong-ty-co-phan-thuy-dien-dinh-binh.chn"
+    "href": "/du-lieu/upcom/TDB-cong-ty-co-phan-thuy-dien-dinh-binh.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "TDF",
-    "href": "/du-lieu/upcom/TDF-cong-ty-co-phan-trung-do.chn"
+    "href": "/du-lieu/upcom/TDF-cong-ty-co-phan-trung-do.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "TDS",
-    "href": "/du-lieu/upcom/TDS-cong-ty-co-phan-thep-thu-duc-vnsteel.chn"
+    "href": "/du-lieu/upcom/TDS-cong-ty-co-phan-thep-thu-duc-vnsteel.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "TEL",
-    "href": "/du-lieu/upcom/TEL-cong-ty-co-phan-phat-trien-cong-trinh-vien-thong.chn"
+    "href": "/du-lieu/upcom/TEL-cong-ty-co-phan-phat-trien-cong-trinh-vien-thong.chn",
+    "businessSectorIds": [
+      "55",
+      "55"
+    ]
   },
   {
     "name": "TGP",
-    "href": "/du-lieu/upcom/TGP-cong-ty-co-phan-truong-phu.chn"
+    "href": "/du-lieu/upcom/TGP-cong-ty-co-phan-truong-phu.chn",
+    "businessSectorIds": [
+      "46",
+      "46"
+    ]
   },
   {
     "name": "TH1",
-    "href": "/du-lieu/upcom/TH1-cong-ty-co-phan-xuat-nhap-khau-tong-hop-i-viet-nam.chn"
+    "href": "/du-lieu/upcom/TH1-cong-ty-co-phan-xuat-nhap-khau-tong-hop-i-viet-nam.chn",
+    "businessSectorIds": [
+      "14",
+      "40"
+    ]
   },
   {
     "name": "THM",
-    "href": "/du-lieu/upcom/THM-cong-ty-co-phan-tu-hai-ha-nam.chn"
+    "href": "/du-lieu/upcom/THM-cong-ty-co-phan-tu-hai-ha-nam.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "THP",
-    "href": "/du-lieu/upcom/THP-ctcp-thuy-san-va-thuong-mai-thuan-phuoc.chn"
+    "href": "/du-lieu/upcom/THP-ctcp-thuy-san-va-thuong-mai-thuan-phuoc.chn",
+    "businessSectorIds": [
+      "3",
+      "123"
+    ]
   },
   {
     "name": "THW",
-    "href": "/du-lieu/upcom/THW-cong-ty-co-phan-cap-nuoc-tan-hoa.chn"
+    "href": "/du-lieu/upcom/THW-cong-ty-co-phan-cap-nuoc-tan-hoa.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "TID",
-    "href": "/du-lieu/upcom/TID-cong-ty-co-phan-tong-cong-ty-tin-nghia.chn"
+    "href": "/du-lieu/upcom/TID-cong-ty-co-phan-tong-cong-ty-tin-nghia.chn",
+    "businessSectorIds": [
+      "3",
+      "122"
+    ]
   },
   {
     "name": "TIE",
-    "href": "/du-lieu/upcom/TIE-cong-ty-co-phan-tie.chn"
+    "href": "/du-lieu/upcom/TIE-cong-ty-co-phan-tie.chn",
+    "businessSectorIds": [
+      "14",
+      "101"
+    ]
   },
   {
     "name": "TIS",
-    "href": "/du-lieu/upcom/TIS-cong-ty-co-phan-gang-thep-thai-nguyen.chn"
+    "href": "/du-lieu/upcom/TIS-cong-ty-co-phan-gang-thep-thai-nguyen.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "TLI",
-    "href": "/du-lieu/upcom/TLI-cong-ty-co-phan-may-quoc-te-thang-loi.chn"
+    "href": "/du-lieu/upcom/TLI-cong-ty-co-phan-may-quoc-te-thang-loi.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "TLP",
-    "href": "/du-lieu/upcom/TLP-tong-cong-ty-thuong-mai-xuat-nhap-khau-thanh-le-ctcp.chn"
+    "href": "/du-lieu/upcom/TLP-tong-cong-ty-thuong-mai-xuat-nhap-khau-thanh-le-ctcp.chn",
+    "businessSectorIds": [
+      "24",
+      "48"
+    ]
   },
   {
     "name": "TLT",
-    "href": "/du-lieu/upcom/TLT-cong-ty-co-phan-viglacera-thang-long.chn"
+    "href": "/du-lieu/upcom/TLT-cong-ty-co-phan-viglacera-thang-long.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "TMW",
-    "href": "/du-lieu/upcom/TMW-cong-ty-co-phan-tong-hop-go-tan-mai.chn"
+    "href": "/du-lieu/upcom/TMW-cong-ty-co-phan-tong-hop-go-tan-mai.chn",
+    "businessSectorIds": [
+      "5",
+      "13"
+    ]
   },
   {
     "name": "TNB",
-    "href": "/du-lieu/upcom/TNB-cong-ty-co-phan-thep-nha-be-vnsteel.chn"
+    "href": "/du-lieu/upcom/TNB-cong-ty-co-phan-thep-nha-be-vnsteel.chn",
+    "businessSectorIds": [
+      "1",
+      "1"
+    ]
   },
   {
     "name": "TNP",
-    "href": "/du-lieu/upcom/TNP-cong-ty-co-phan-cang-thi-nai.chn"
+    "href": "/du-lieu/upcom/TNP-cong-ty-co-phan-cang-thi-nai.chn",
+    "businessSectorIds": [
+      "22",
+      "70"
+    ]
   },
   {
     "name": "TNS",
-    "href": "/du-lieu/upcom/TNS-cong-ty-co-phan-thep-tam-la-thong-nhat.chn"
+    "href": "/du-lieu/upcom/TNS-cong-ty-co-phan-thep-tam-la-thong-nhat.chn",
+    "businessSectorIds": [
+      "22",
+      "131"
+    ]
   },
   {
     "name": "TNV",
-    "href": "/du-lieu/upcom/TNV-cong-ty-co-phan-thong-nhat-ha-noi.chn"
+    "href": "/du-lieu/upcom/TNV-cong-ty-co-phan-thong-nhat-ha-noi.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "TNW",
-    "href": "/du-lieu/upcom/TNW-cong-ty-co-phan-nuoc-sach-thai-nguyen.chn"
+    "href": "/du-lieu/upcom/TNW-cong-ty-co-phan-nuoc-sach-thai-nguyen.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "TOP",
-    "href": "/du-lieu/upcom/TOP-cong-ty-co-phan-phan-phoi-top-one.chn"
+    "href": "/du-lieu/upcom/TOP-cong-ty-co-phan-phan-phoi-top-one.chn",
+    "businessSectorIds": [
+      "14",
+      "40"
+    ]
   },
   {
     "name": "TOS",
-    "href": "/du-lieu/upcom/TOS-cong-ty-co-phan-dich-vu-bien-tan-cang.chn"
+    "href": "/du-lieu/upcom/TOS-cong-ty-co-phan-dich-vu-bien-tan-cang.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "TOW",
-    "href": "/du-lieu/upcom/TOW-cong-ty-co-phan-cap-nuoc-tra-noc-o-mon.chn"
+    "href": "/du-lieu/upcom/TOW-cong-ty-co-phan-cap-nuoc-tra-noc-o-mon.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "TPS",
-    "href": "/du-lieu/upcom/TPS-cong-ty-co-phan-ben-bai-van-tai-sai-gon.chn"
+    "href": "/du-lieu/upcom/TPS-cong-ty-co-phan-ben-bai-van-tai-sai-gon.chn",
+    "businessSectorIds": [
+      "22",
+      "135"
+    ]
   },
   {
     "name": "TR1",
-    "href": "/du-lieu/upcom/TR1-ctcp-van-tai-1-traco.chn"
+    "href": "/du-lieu/upcom/TR1-ctcp-van-tai-1-traco.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "TRS",
-    "href": "/du-lieu/upcom/TRS-cong-ty-co-phan-van-tai-va-dich-vu-hang-hai.chn"
+    "href": "/du-lieu/upcom/TRS-cong-ty-co-phan-van-tai-va-dich-vu-hang-hai.chn",
+    "businessSectorIds": [
+      "22",
+      "73"
+    ]
   },
   {
     "name": "TRT",
-    "href": "/du-lieu/upcom/TRT-cong-ty-co-phan-redstarcera.chn"
+    "href": "/du-lieu/upcom/TRT-cong-ty-co-phan-redstarcera.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "TS3",
-    "href": "/du-lieu/upcom/TS3-cong-ty-co-phan-truong-son-532.chn"
+    "href": "/du-lieu/upcom/TS3-cong-ty-co-phan-truong-son-532.chn",
+    "businessSectorIds": [
+      "11",
+      "102"
+    ]
   },
   {
     "name": "TSA",
-    "href": "/du-lieu/upcom/TSA-cong-ty-co-phan-dau-tu-va-xay-lap-truong-son.chn"
+    "href": "/du-lieu/upcom/TSA-cong-ty-co-phan-dau-tu-va-xay-lap-truong-son.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "TSD",
-    "href": "/du-lieu/upcom/TSD-cong-ty-co-phan-du-lich-truong-son-coecco.chn"
+    "href": "/du-lieu/upcom/TSD-cong-ty-co-phan-du-lich-truong-son-coecco.chn",
+    "businessSectorIds": [
+      "14",
+      "58"
+    ]
   },
   {
     "name": "TSJ",
-    "href": "/du-lieu/upcom/TSJ-cong-ty-co-phan-du-lich-dich-vu-ha-noi.chn"
+    "href": "/du-lieu/upcom/TSJ-cong-ty-co-phan-du-lich-dich-vu-ha-noi.chn",
+    "businessSectorIds": [
+      "14",
+      "58"
+    ]
   },
   {
     "name": "TST",
-    "href": "/du-lieu/upcom/TST-cong-ty-co-phan-dich-vu-ky-thuat-vien-thong.chn"
+    "href": "/du-lieu/upcom/TST-cong-ty-co-phan-dich-vu-ky-thuat-vien-thong.chn",
+    "businessSectorIds": [
+      "46",
+      "47"
+    ]
   },
   {
     "name": "TT6",
-    "href": "/du-lieu/upcom/TT6-cong-ty-co-phan-tap-doan-tien-thinh.chn"
+    "href": "/du-lieu/upcom/TT6-cong-ty-co-phan-tap-doan-tien-thinh.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "TTD",
-    "href": "/du-lieu/upcom/TTD-cong-ty-co-phan-benh-vien-tim-tam-duc.chn"
+    "href": "/du-lieu/upcom/TTD-cong-ty-co-phan-benh-vien-tim-tam-duc.chn",
+    "businessSectorIds": [
+      "60",
+      "108"
+    ]
   },
   {
     "name": "TTG",
-    "href": "/du-lieu/upcom/TTG-cong-ty-co-phan-may-thanh-tri.chn"
+    "href": "/du-lieu/upcom/TTG-cong-ty-co-phan-may-thanh-tri.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "TTN",
-    "href": "/du-lieu/upcom/TTN-cong-ty-co-phan-cong-nghe-va-truyen-thong-viet-nam.chn"
+    "href": "/du-lieu/upcom/TTN-cong-ty-co-phan-cong-nghe-va-truyen-thong-viet-nam.chn",
+    "businessSectorIds": [
+      "46",
+      "47"
+    ]
   },
   {
     "name": "TUG",
-    "href": "/du-lieu/upcom/TUG-cong-ty-co-phan-lai-dat-va-van-tai-cang-hai-phong.chn"
+    "href": "/du-lieu/upcom/TUG-cong-ty-co-phan-lai-dat-va-van-tai-cang-hai-phong.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "TV1",
-    "href": "/du-lieu/upcom/TV1-cong-ty-co-phan-tu-van-xay-dung-dien-1.chn"
+    "href": "/du-lieu/upcom/TV1-cong-ty-co-phan-tu-van-xay-dung-dien-1.chn",
+    "businessSectorIds": [
+      "11",
+      "79"
+    ]
   },
   {
     "name": "TV6",
-    "href": "/du-lieu/upcom/TV6-ctcp-thuong-mai-dau-tu-xay-lap-dien-thinh-vuong.chn"
+    "href": "/du-lieu/upcom/TV6-ctcp-thuong-mai-dau-tu-xay-lap-dien-thinh-vuong.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "TVA",
-    "href": "/du-lieu/upcom/TVA-cong-ty-co-phan-su-viglacera-thanh-tri.chn"
+    "href": "/du-lieu/upcom/TVA-cong-ty-co-phan-su-viglacera-thanh-tri.chn",
+    "businessSectorIds": [
+      "5",
+      "13"
+    ]
   },
   {
     "name": "TVM",
-    "href": "/du-lieu/upcom/TVM-ctcp-tu-van-dau-tu-mo-va-cong-nghiep-vinacomin.chn"
+    "href": "/du-lieu/upcom/TVM-ctcp-tu-van-dau-tu-mo-va-cong-nghiep-vinacomin.chn",
+    "businessSectorIds": [
+      "14",
+      "158"
+    ]
   },
   {
     "name": "TVN",
-    "href": "/du-lieu/upcom/TVN-tong-cong-ty-thep-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/TVN-tong-cong-ty-thep-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "1",
+      "68"
+    ]
   },
   {
     "name": "TW3",
-    "href": "/du-lieu/upcom/TW3-ctcp-duoc-trung-uong-3.chn"
+    "href": "/du-lieu/upcom/TW3-ctcp-duoc-trung-uong-3.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   },
   {
     "name": "UCT",
-    "href": "/du-lieu/upcom/UCT-cong-ty-co-phan-do-thi-can-tho.chn"
+    "href": "/du-lieu/upcom/UCT-cong-ty-co-phan-do-thi-can-tho.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "UDC",
-    "href": "/du-lieu/upcom/UDC-cong-ty-co-phan-xay-dung-va-phat-trien-do-thi-tinh-ba-riavung-tau.chn"
+    "href": "/du-lieu/upcom/UDC-cong-ty-co-phan-xay-dung-va-phat-trien-do-thi-tinh-ba-riavung-tau.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "UDJ",
-    "href": "/du-lieu/upcom/UDJ-cong-ty-co-phan-phat-trien-do-thi.chn"
+    "href": "/du-lieu/upcom/UDJ-cong-ty-co-phan-phat-trien-do-thi.chn",
+    "businessSectorIds": [
+      "11",
+      "11"
+    ]
   },
   {
     "name": "UEM",
-    "href": "/du-lieu/upcom/UEM-ctcp-co-dien-uong-bivinacomin.chn"
+    "href": "/du-lieu/upcom/UEM-ctcp-co-dien-uong-bivinacomin.chn",
+    "businessSectorIds": [
+      "22",
+      "70"
+    ]
   },
   {
     "name": "UPH",
-    "href": "/du-lieu/upcom/UPH-ctcp-duoc-pham-tw25.chn"
+    "href": "/du-lieu/upcom/UPH-ctcp-duoc-pham-tw25.chn",
+    "businessSectorIds": [
+      "60",
+      "111"
+    ]
   },
   {
     "name": "USD",
-    "href": "/du-lieu/upcom/USD-cong-ty-co-phan-cong-trinh-do-thi-soc-trang.chn"
+    "href": "/du-lieu/upcom/USD-cong-ty-co-phan-cong-trinh-do-thi-soc-trang.chn",
+    "businessSectorIds": [
+      "14",
+      "140"
+    ]
   },
   {
     "name": "UXC",
-    "href": "/du-lieu/upcom/UXC-ctcp-che-bien-thuy-san-ut-xi.chn"
+    "href": "/du-lieu/upcom/UXC-ctcp-che-bien-thuy-san-ut-xi.chn",
+    "businessSectorIds": [
+      "3",
+      "49"
+    ]
   },
   {
     "name": "V11",
-    "href": "/du-lieu/upcom/V11-cong-ty-co-phan-xay-dung-so-11.chn"
+    "href": "/du-lieu/upcom/V11-cong-ty-co-phan-xay-dung-so-11.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "VAB",
-    "href": "/du-lieu/upcom/VAB-ngan-hang-thuong-mai-co-phan-viet-a.chn"
+    "href": "/du-lieu/upcom/VAB-ngan-hang-thuong-mai-co-phan-viet-a.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "VAV",
-    "href": "/du-lieu/upcom/VAV-cong-ty-co-phan-viwaco.chn"
+    "href": "/du-lieu/upcom/VAV-cong-ty-co-phan-viwaco.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "VBB",
-    "href": "/du-lieu/upcom/VBB-ngan-hang-thuong-mai-co-phan-viet-nam-thuong-tin.chn"
+    "href": "/du-lieu/upcom/VBB-ngan-hang-thuong-mai-co-phan-viet-nam-thuong-tin.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "VC5",
-    "href": "/du-lieu/upcom/VC5-cong-ty-co-phan-xay-dung-so-5.chn"
+    "href": "/du-lieu/upcom/VC5-cong-ty-co-phan-xay-dung-so-5.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "VCP",
-    "href": "/du-lieu/upcom/VCP-cong-ty-co-phan-xay-dung-va-nang-luong-vcp.chn"
+    "href": "/du-lieu/upcom/VCP-cong-ty-co-phan-xay-dung-va-nang-luong-vcp.chn",
+    "businessSectorIds": [
+      "24",
+      "86"
+    ]
   },
   {
     "name": "VCR",
-    "href": "/du-lieu/upcom/VCR-cong-ty-co-phan-dau-tu-va-phat-trien-du-lich-vinaconex.chn"
+    "href": "/du-lieu/upcom/VCR-cong-ty-co-phan-dau-tu-va-phat-trien-du-lich-vinaconex.chn",
+    "businessSectorIds": [
+      "11",
+      "93"
+    ]
   },
   {
     "name": "VCW",
-    "href": "/du-lieu/upcom/VCW-cong-ty-co-phan-dau-tu-nuoc-sach-song-da.chn"
+    "href": "/du-lieu/upcom/VCW-cong-ty-co-phan-dau-tu-nuoc-sach-song-da.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "VCX",
-    "href": "/du-lieu/upcom/VCX-cong-ty-co-phan-xi-mang-yen-binh.chn"
+    "href": "/du-lieu/upcom/VCX-cong-ty-co-phan-xi-mang-yen-binh.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "VDG",
-    "href": "/du-lieu/upcom/VDG-cong-ty-co-phan-van-dat-group.chn"
+    "href": "/du-lieu/upcom/VDG-cong-ty-co-phan-van-dat-group.chn",
+    "businessSectorIds": [
+      "10"
+    ]
   },
   {
     "name": "VDN",
-    "href": "/du-lieu/upcom/VDN-cong-ty-co-phan-vinatex-da-nang.chn"
+    "href": "/du-lieu/upcom/VDN-cong-ty-co-phan-vinatex-da-nang.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "VDT",
-    "href": "/du-lieu/upcom/VDT-cong-ty-co-phan-luoi-thep-binh-tay.chn"
+    "href": "/du-lieu/upcom/VDT-cong-ty-co-phan-luoi-thep-binh-tay.chn",
+    "businessSectorIds": [
+      "1",
+      "159"
+    ]
   },
   {
     "name": "VE9",
-    "href": "/du-lieu/upcom/VE9-cong-ty-co-phan-dau-tu-va-xay-dung-vneco-9.chn"
+    "href": "/du-lieu/upcom/VE9-cong-ty-co-phan-dau-tu-va-xay-dung-vneco-9.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "VEA",
-    "href": "/du-lieu/upcom/VEA-tong-cong-ty-may-dong-luc-va-may-nong-nghiep-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/VEA-tong-cong-ty-may-dong-luc-va-may-nong-nghiep-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "3",
+      "92"
+    ]
   },
   {
     "name": "VEC",
-    "href": "/du-lieu/upcom/VEC-tong-cong-ty-co-phan-dien-tu-va-tin-hoc-viet-nam.chn"
+    "href": "/du-lieu/upcom/VEC-tong-cong-ty-co-phan-dien-tu-va-tin-hoc-viet-nam.chn",
+    "businessSectorIds": [
+      "46",
+      "47"
+    ]
   },
   {
     "name": "VEF",
-    "href": "/du-lieu/upcom/VEF-cong-ty-co-phan-trung-tam-hoi-cho-trien-lam-viet-nam.chn"
+    "href": "/du-lieu/upcom/VEF-cong-ty-co-phan-trung-tam-hoi-cho-trien-lam-viet-nam.chn",
+    "businessSectorIds": [
+      "14",
+      "35"
+    ]
   },
   {
     "name": "VES",
-    "href": "/du-lieu/upcom/VES-cong-ty-co-phan-dau-tu-va-xay-dung-dien-me-ca-vneco.chn"
+    "href": "/du-lieu/upcom/VES-cong-ty-co-phan-dau-tu-va-xay-dung-dien-me-ca-vneco.chn",
+    "businessSectorIds": [
+      "11",
+      "64"
+    ]
   },
   {
     "name": "VET",
-    "href": "/du-lieu/upcom/VET-cong-ty-co-phan-thuoc-thu-y-trung-uong-navetco.chn"
+    "href": "/du-lieu/upcom/VET-cong-ty-co-phan-thuoc-thu-y-trung-uong-navetco.chn",
+    "businessSectorIds": [
+      "3",
+      "8"
+    ]
   },
   {
     "name": "VFC",
-    "href": "/du-lieu/upcom/VFC-cong-ty-co-phan-vinafco.chn"
+    "href": "/du-lieu/upcom/VFC-cong-ty-co-phan-vinafco.chn",
+    "businessSectorIds": [
+      "22",
+      "73"
+    ]
   },
   {
     "name": "VFR",
-    "href": "/du-lieu/upcom/VFR-cong-ty-co-phan-van-tai-va-thue-tau.chn"
+    "href": "/du-lieu/upcom/VFR-cong-ty-co-phan-van-tai-va-thue-tau.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "VGG",
-    "href": "/du-lieu/upcom/VGG-tong-cong-ty-co-phan-may-viet-tien.chn"
+    "href": "/du-lieu/upcom/VGG-tong-cong-ty-co-phan-may-viet-tien.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "VGI",
-    "href": "/du-lieu/upcom/VGI-tong-cong-ty-co-phan-dau-tu-quoc-te-viettel.chn"
+    "href": "/du-lieu/upcom/VGI-tong-cong-ty-co-phan-dau-tu-quoc-te-viettel.chn",
+    "businessSectorIds": [
+      "55",
+      "160"
+    ]
   },
   {
     "name": "VGR",
-    "href": "/du-lieu/upcom/VGR-cong-ty-co-phan-cang-xanh-vip.chn"
+    "href": "/du-lieu/upcom/VGR-cong-ty-co-phan-cang-xanh-vip.chn",
+    "businessSectorIds": [
+      "22",
+      "103"
+    ]
   },
   {
     "name": "VGT",
-    "href": "/du-lieu/upcom/VGT-tap-doan-det-may-viet-nam.chn"
+    "href": "/du-lieu/upcom/VGT-tap-doan-det-may-viet-nam.chn",
+    "businessSectorIds": [
+      "5",
+      "6"
+    ]
   },
   {
     "name": "VGV",
-    "href": "/du-lieu/upcom/VGV-tong-cong-ty-tu-van-xay-dung-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/VGV-tong-cong-ty-tu-van-xay-dung-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "11",
+      "79"
+    ]
   },
   {
     "name": "VHD",
-    "href": "/du-lieu/upcom/VHD-cong-ty-co-phan-dau-tu-phat-trien-nha-va-do-thi-vinahud.chn"
+    "href": "/du-lieu/upcom/VHD-cong-ty-co-phan-dau-tu-phat-trien-nha-va-do-thi-vinahud.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "VHG",
-    "href": "/du-lieu/upcom/VHG-cong-ty-co-phan-dau-tu-phat-trien-viet-trung-nam.chn"
+    "href": "/du-lieu/upcom/VHG-cong-ty-co-phan-dau-tu-phat-trien-viet-trung-nam.chn",
+    "businessSectorIds": [
+      "3",
+      "65"
+    ]
   },
   {
     "name": "VHH",
-    "href": "/du-lieu/upcom/VHH-cong-ty-co-phan-dau-tu-kinh-doanh-nha-thanh-dat.chn"
+    "href": "/du-lieu/upcom/VHH-cong-ty-co-phan-dau-tu-kinh-doanh-nha-thanh-dat.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "VIE",
-    "href": "/du-lieu/upcom/VIE-cong-ty-co-phan-cong-nghe-vien-thong-viteco.chn"
+    "href": "/du-lieu/upcom/VIE-cong-ty-co-phan-cong-nghe-vien-thong-viteco.chn",
+    "businessSectorIds": [
+      "46",
+      "71"
+    ]
   },
   {
     "name": "VIM",
-    "href": "/du-lieu/upcom/VIM-cong-ty-co-phan-khoang-san-viglacera.chn"
+    "href": "/du-lieu/upcom/VIM-cong-ty-co-phan-khoang-san-viglacera.chn",
+    "businessSectorIds": [
+      "1",
+      "115"
+    ]
   },
   {
     "name": "VIN",
-    "href": "/du-lieu/upcom/VIN-ctcp-giao-nhan-kho-van-ngoai-thuong-viet-nam.chn"
+    "href": "/du-lieu/upcom/VIN-ctcp-giao-nhan-kho-van-ngoai-thuong-viet-nam.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "VIR",
-    "href": "/du-lieu/upcom/VIR-cong-ty-co-phan-du-lich-quoc-te-vung-tau.chn"
+    "href": "/du-lieu/upcom/VIR-cong-ty-co-phan-du-lich-quoc-te-vung-tau.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "VIW",
-    "href": "/du-lieu/upcom/VIW-tong-cong-ty-dau-tu-nuoc-va-moi-truong-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/VIW-tong-cong-ty-dau-tu-nuoc-va-moi-truong-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "VKC",
-    "href": "/du-lieu/upcom/VKC-cong-ty-co-phan-vkc-holdings.chn"
+    "href": "/du-lieu/upcom/VKC-cong-ty-co-phan-vkc-holdings.chn",
+    "businessSectorIds": [
+      "22",
+      "70"
+    ]
   },
   {
     "name": "VLB",
-    "href": "/du-lieu/upcom/VLB-ctcp-xay-dung-va-san-xuat-vat-lieu-xay-dung-bien-hoa.chn"
+    "href": "/du-lieu/upcom/VLB-ctcp-xay-dung-va-san-xuat-vat-lieu-xay-dung-bien-hoa.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "VLC",
-    "href": "/du-lieu/upcom/VLC-tong-cong-ty-chan-nuoi-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/VLC-tong-cong-ty-chan-nuoi-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "3",
+      "152"
+    ]
   },
   {
     "name": "VLF",
-    "href": "/du-lieu/upcom/VLF-cong-ty-co-phan-luong-thuc-thuc-pham-vinh-long.chn"
+    "href": "/du-lieu/upcom/VLF-cong-ty-co-phan-luong-thuc-thuc-pham-vinh-long.chn",
+    "businessSectorIds": [
+      "3",
+      "18"
+    ]
   },
   {
     "name": "VLG",
-    "href": "/du-lieu/upcom/VLG-ctcp-vinalines-logistics-viet-nam.chn"
+    "href": "/du-lieu/upcom/VLG-ctcp-vinalines-logistics-viet-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "VLW",
-    "href": "/du-lieu/upcom/VLW-cong-ty-co-phan-cap-nuoc-vinh-long.chn"
+    "href": "/du-lieu/upcom/VLW-cong-ty-co-phan-cap-nuoc-vinh-long.chn",
+    "businessSectorIds": [
+      "14",
+      "42"
+    ]
   },
   {
     "name": "VMG",
-    "href": "/du-lieu/upcom/VMG-cong-ty-co-phan-thuong-mai-va-dich-vu-dau-khi-vung-tau.chn"
+    "href": "/du-lieu/upcom/VMG-cong-ty-co-phan-thuong-mai-va-dich-vu-dau-khi-vung-tau.chn",
+    "businessSectorIds": [
+      "24",
+      "25"
+    ]
   },
   {
     "name": "VMT",
-    "href": "/du-lieu/upcom/VMT-cong-ty-co-phan-giao-nhan-van-tai-mien-trung.chn"
+    "href": "/du-lieu/upcom/VMT-cong-ty-co-phan-giao-nhan-van-tai-mien-trung.chn",
+    "businessSectorIds": [
+      "22",
+      "73"
+    ]
   },
   {
     "name": "VNA",
-    "href": "/du-lieu/upcom/VNA-cong-ty-co-phan-van-tai-bien-vinaship.chn"
+    "href": "/du-lieu/upcom/VNA-cong-ty-co-phan-van-tai-bien-vinaship.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "VNB",
-    "href": "/du-lieu/upcom/VNB-ctcp-sach-viet-nam.chn"
+    "href": "/du-lieu/upcom/VNB-ctcp-sach-viet-nam.chn",
+    "businessSectorIds": [
+      "5",
+      "151"
+    ]
   },
   {
     "name": "VNH",
-    "href": "/du-lieu/upcom/VNH-cong-ty-co-phan-dau-tu-viet-viet-nhat.chn"
+    "href": "/du-lieu/upcom/VNH-cong-ty-co-phan-dau-tu-viet-viet-nhat.chn",
+    "businessSectorIds": [
+      "3",
+      "9"
+    ]
   },
   {
     "name": "VNP",
-    "href": "/du-lieu/upcom/VNP-cong-ty-co-phan-nhua-viet-nam.chn"
+    "href": "/du-lieu/upcom/VNP-cong-ty-co-phan-nhua-viet-nam.chn",
+    "businessSectorIds": [
+      "5",
+      "161"
+    ]
   },
   {
     "name": "VNY",
-    "href": "/du-lieu/upcom/VNY-cong-ty-co-phan-thuoc-thu-y-trung-uong-i.chn"
+    "href": "/du-lieu/upcom/VNY-cong-ty-co-phan-thuoc-thu-y-trung-uong-i.chn",
+    "businessSectorIds": [
+      "3",
+      "92"
+    ]
   },
   {
     "name": "VNZ",
-    "href": "/du-lieu/upcom/VNZ-cong-ty-co-phan-vng.chn"
+    "href": "/du-lieu/upcom/VNZ-cong-ty-co-phan-vng.chn",
+    "businessSectorIds": [
+      "46",
+      "46"
+    ]
   },
   {
     "name": "VOC",
-    "href": "/du-lieu/upcom/VOC-tong-cong-ty-cong-nghiep-dau-thuc-vat-viet-nam-ctcp.chn"
+    "href": "/du-lieu/upcom/VOC-tong-cong-ty-cong-nghiep-dau-thuc-vat-viet-nam-ctcp.chn",
+    "businessSectorIds": [
+      "5",
+      "132"
+    ]
   },
   {
     "name": "VPA",
-    "href": "/du-lieu/upcom/VPA-ctcp-van-tai-hoa-dau-vp.chn"
+    "href": "/du-lieu/upcom/VPA-ctcp-van-tai-hoa-dau-vp.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "VPR",
-    "href": "/du-lieu/upcom/VPR-cong-ty-co-phan-vinaprint.chn"
+    "href": "/du-lieu/upcom/VPR-cong-ty-co-phan-vinaprint.chn",
+    "businessSectorIds": [
+      "14",
+      "96"
+    ]
   },
   {
     "name": "VQC",
-    "href": "/du-lieu/upcom/VQC-cong-ty-co-phan-giam-dinh-vinacomin.chn"
+    "href": "/du-lieu/upcom/VQC-cong-ty-co-phan-giam-dinh-vinacomin.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "VRG",
-    "href": "/du-lieu/upcom/VRG-ctcp-phat-trien-do-thi-va-khu-cong-nghiep-cao-su-viet-nam.chn"
+    "href": "/du-lieu/upcom/VRG-ctcp-phat-trien-do-thi-va-khu-cong-nghiep-cao-su-viet-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "22"
+    ]
   },
   {
     "name": "VSE",
-    "href": "/du-lieu/upcom/VSE-cong-ty-co-phan-dich-vu-duong-cao-toc-viet-nam.chn"
+    "href": "/du-lieu/upcom/VSE-cong-ty-co-phan-dich-vu-duong-cao-toc-viet-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "84"
+    ]
   },
   {
     "name": "VSF",
-    "href": "/du-lieu/upcom/VSF-tong-cong-ty-luong-thuc-mien-nam-cong-ty-co-phan.chn"
+    "href": "/du-lieu/upcom/VSF-tong-cong-ty-luong-thuc-mien-nam-cong-ty-co-phan.chn",
+    "businessSectorIds": [
+      "3",
+      "18"
+    ]
   },
   {
     "name": "VSG",
-    "href": "/du-lieu/upcom/VSG-cong-ty-co-phan-container-phia-nam.chn"
+    "href": "/du-lieu/upcom/VSG-cong-ty-co-phan-container-phia-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "VSN",
-    "href": "/du-lieu/upcom/VSN-cong-ty-co-phan-viet-nam-ky-nghe-suc-san.chn"
+    "href": "/du-lieu/upcom/VSN-cong-ty-co-phan-viet-nam-ky-nghe-suc-san.chn",
+    "businessSectorIds": [
+      "5",
+      "110"
+    ]
   },
   {
     "name": "VST",
-    "href": "/du-lieu/upcom/VST-cong-ty-co-phan-van-tai-va-thue-tau-bien-viet-nam.chn"
+    "href": "/du-lieu/upcom/VST-cong-ty-co-phan-van-tai-va-thue-tau-bien-viet-nam.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "VTA",
-    "href": "/du-lieu/upcom/VTA-cong-ty-co-phan-vitaly.chn"
+    "href": "/du-lieu/upcom/VTA-cong-ty-co-phan-vitaly.chn",
+    "businessSectorIds": [
+      "11",
+      "109"
+    ]
   },
   {
     "name": "VTD",
-    "href": "/du-lieu/upcom/VTD-cong-ty-co-phan-vietourist-holdings.chn"
+    "href": "/du-lieu/upcom/VTD-cong-ty-co-phan-vietourist-holdings.chn",
+    "businessSectorIds": [
+      "14",
+      "105"
+    ]
   },
   {
     "name": "VTE",
-    "href": "/du-lieu/upcom/VTE-cong-ty-co-phan-vien-thong-dien-tu-vinacap.chn"
+    "href": "/du-lieu/upcom/VTE-cong-ty-co-phan-vien-thong-dien-tu-vinacap.chn",
+    "businessSectorIds": [
+      "22",
+      "98"
+    ]
   },
   {
     "name": "VTG",
-    "href": "/du-lieu/upcom/VTG-cong-ty-co-phan-du-lich-tinh-ba-ria-vung-tau.chn"
+    "href": "/du-lieu/upcom/VTG-cong-ty-co-phan-du-lich-tinh-ba-ria-vung-tau.chn",
+    "businessSectorIds": [
+      "14",
+      "14"
+    ]
   },
   {
     "name": "VTK",
-    "href": "/du-lieu/upcom/VTK-cong-ty-co-phan-tu-van-thiet-ke-viettel.chn"
+    "href": "/du-lieu/upcom/VTK-cong-ty-co-phan-tu-van-thiet-ke-viettel.chn",
+    "businessSectorIds": [
+      "55",
+      "56"
+    ]
   },
   {
     "name": "VTL",
-    "href": "/du-lieu/upcom/VTL-cong-ty-co-phan-vang-thang-long.chn"
+    "href": "/du-lieu/upcom/VTL-cong-ty-co-phan-vang-thang-long.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "VTR",
-    "href": "/du-lieu/upcom/VTR-ctcp-du-lich-va-tiep-thi-giao-thong-van-tai-viet-nam-vietravel.chn"
+    "href": "/du-lieu/upcom/VTR-ctcp-du-lich-va-tiep-thi-giao-thong-van-tai-viet-nam-vietravel.chn",
+    "businessSectorIds": [
+      "14",
+      "105"
+    ]
   },
   {
     "name": "VTS",
-    "href": "/du-lieu/upcom/VTS-cong-ty-co-phan-viglacera-tu-son.chn"
+    "href": "/du-lieu/upcom/VTS-cong-ty-co-phan-viglacera-tu-son.chn",
+    "businessSectorIds": [
+      "11",
+      "104"
+    ]
   },
   {
     "name": "VTX",
-    "href": "/du-lieu/upcom/VTX-cong-ty-co-phan-van-tai-da-phuong-thuc-vietranstimex.chn"
+    "href": "/du-lieu/upcom/VTX-cong-ty-co-phan-van-tai-da-phuong-thuc-vietranstimex.chn",
+    "businessSectorIds": [
+      "22",
+      "141"
+    ]
   },
   {
     "name": "VUA",
-    "href": "/du-lieu/upcom/VUA-cong-ty-co-phan-chung-khoan-stanley-brothers.chn"
+    "href": "/du-lieu/upcom/VUA-cong-ty-co-phan-chung-khoan-stanley-brothers.chn",
+    "businessSectorIds": [
+      "19",
+      "20"
+    ]
   },
   {
     "name": "VVN",
-    "href": "/du-lieu/upcom/VVN-tong-cong-ty-co-phan-xay-dung-cong-nghiep-viet-nam.chn"
+    "href": "/du-lieu/upcom/VVN-tong-cong-ty-co-phan-xay-dung-cong-nghiep-viet-nam.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "VVS",
-    "href": "/du-lieu/upcom/VVS-cong-ty-co-phan-dau-tu-phat-trien-may-viet-nam.chn"
+    "href": "/du-lieu/upcom/VVS-cong-ty-co-phan-dau-tu-phat-trien-may-viet-nam.chn",
+    "businessSectorIds": [
+      "14",
+      "78"
+    ]
   },
   {
     "name": "VW3",
-    "href": "/du-lieu/upcom/VW3-cong-ty-co-phan-viwaseen3.chn"
+    "href": "/du-lieu/upcom/VW3-cong-ty-co-phan-viwaseen3.chn",
+    "businessSectorIds": [
+      "22",
+      "70"
+    ]
   },
   {
     "name": "WSB",
-    "href": "/du-lieu/upcom/WSB-cong-ty-co-phan-bia-sai-gon-mien-tay.chn"
+    "href": "/du-lieu/upcom/WSB-cong-ty-co-phan-bia-sai-gon-mien-tay.chn",
+    "businessSectorIds": [
+      "5",
+      "33"
+    ]
   },
   {
     "name": "WTC",
-    "href": "/du-lieu/upcom/WTC-ctcp-van-tai-thuy-vinacomin.chn"
+    "href": "/du-lieu/upcom/WTC-ctcp-van-tai-thuy-vinacomin.chn",
+    "businessSectorIds": [
+      "22",
+      "83"
+    ]
   },
   {
     "name": "XDH",
-    "href": "/du-lieu/upcom/XDH-cong-ty-co-phan-dau-tu-xay-dung-dan-dung-ha-noi.chn"
+    "href": "/du-lieu/upcom/XDH-cong-ty-co-phan-dau-tu-xay-dung-dan-dung-ha-noi.chn",
+    "businessSectorIds": [
+      "11",
+      "17"
+    ]
   },
   {
     "name": "XLV",
-    "href": "/du-lieu/upcom/XLV-cong-ty-co-phan-xay-lap-va-dich-vu-song-da.chn"
+    "href": "/du-lieu/upcom/XLV-cong-ty-co-phan-xay-lap-va-dich-vu-song-da.chn",
+    "businessSectorIds": [
+      "11",
+      "29"
+    ]
   },
   {
     "name": "XMC",
-    "href": "/du-lieu/upcom/XMC-cong-ty-co-phan-dau-tu-va-xay-dung-xuan-mai.chn"
+    "href": "/du-lieu/upcom/XMC-cong-ty-co-phan-dau-tu-va-xay-dung-xuan-mai.chn",
+    "businessSectorIds": [
+      "11",
+      "12"
+    ]
   },
   {
     "name": "XMP",
-    "href": "/du-lieu/upcom/XMP-ctcp-thuy-dien-xuan-minh.chn"
+    "href": "/du-lieu/upcom/XMP-ctcp-thuy-dien-xuan-minh.chn",
+    "businessSectorIds": [
+      "24",
+      "43"
+    ]
   },
   {
     "name": "XPH",
-    "href": "/du-lieu/upcom/XPH-cong-ty-co-phan-xa-phong-ha-noi.chn"
+    "href": "/du-lieu/upcom/XPH-cong-ty-co-phan-xa-phong-ha-noi.chn",
+    "businessSectorIds": [
+      "5",
+      "5"
+    ]
   },
   {
     "name": "YBC",
-    "href": "/du-lieu/upcom/YBC-cong-ty-co-phan-xi-mang-va-khoang-san-yen-bai.chn"
+    "href": "/du-lieu/upcom/YBC-cong-ty-co-phan-xi-mang-va-khoang-san-yen-bai.chn",
+    "businessSectorIds": [
+      "11",
+      "82"
+    ]
   },
   {
     "name": "YTC",
-    "href": "/du-lieu/upcom/YTC-cong-ty-co-phan-xuat-nhap-khau-y-te-thanh-pho-ho-chi-minh.chn"
+    "href": "/du-lieu/upcom/YTC-cong-ty-co-phan-xuat-nhap-khau-y-te-thanh-pho-ho-chi-minh.chn",
+    "businessSectorIds": [
+      "60",
+      "61"
+    ]
   }
 ]

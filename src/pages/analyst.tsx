@@ -47,3 +47,44 @@ export default function Analyst(): JSX.Element {
     </TableContainer>
   );
 }
+
+// import businessSectorData from "../data/businessSector.json";
+// import { getCompanyStockInfo } from "../utils/scraper";
+
+// async function getData(companyData: any) {
+//   console.log(
+//     StockExchangeName.HORSE,
+//     await getCompanyStockInfo(companyData[StockExchangeName.HNX]),
+//   );
+// }
+
+// TODO: move to admin
+// [StockExchangeName.HORSE, StockExchangeName.HNX, StockExchangeName.UPCOM].forEach((key) => {
+//   console.log(key)
+//   const r = companyData[key].map((c) => {
+//     const bs = c.businessSector.split(" / ");
+//     const bdIds = bs.map((b) => Object.entries(businessSectorData).find(([id, bd]) => bd === b)?.[0]);
+
+//     return {
+//       name: c.name,
+//       href: c.href,
+//       businessSectorIds: bdIds,
+//     }
+//   })
+//   console.log(r)
+// });
+
+// const sectors = [StockExchangeName.HORSE, StockExchangeName.HNX, StockExchangeName.UPCOM].map((key) => companyData[key]
+//   .map((c) => c.businessSector.split(" / "))
+//   .flat())
+//   .flat()
+//   .filter((value, index, self) => self.indexOf(value) === index);
+// const sectorObject = sectors.reduce((obj, sector, index) => {
+//   obj[index+1] = sector;
+//   return obj;
+// }, {} as Record<number, string>);
+// console.log(sectorObject);
+
+// useEffect(() => {
+//   getData(companyData);
+// }, [companyData]);
