@@ -1,16 +1,10 @@
-import {
-  Paper,
-  Table,
-  TableCell,
-  TableContainer,
-  TableHead,
-  TableRow,
-} from "@mui/material";
 import React, { JSX, useEffect } from "react";
 import { useRecoilState } from "recoil";
 import { sePriceFunctuations } from "../state/data";
-import { SEPriceFunctuations } from "../types/data";
+import { SEPriceFunctuations, TimePeriodType } from "../types/data";
 import { getAllSEPriceFunctuations } from "../utils/scraper";
+import PriceFunctuations from "../components/PriceFunctions";
+import { Box } from "@mui/material";
 
 export default function Analyst(): JSX.Element {
   const [priceFunctuations, setPriceFunctuations] =
@@ -24,41 +18,31 @@ export default function Analyst(): JSX.Element {
   }
 
   useEffect(() => {
-    // fetchData();
+    fetchData();
   }, []);
 
   console.log(isLoading, priceFunctuations);
 
   return (
-    <TableContainer component={Paper} sx={{ mt: 5 }}>
-      <Table sx={{ minWidth: 650 }} aria-label="simple table">
-        <TableHead>
-          <TableRow>
-            <TableCell>Dessert (100g serving)</TableCell>
-            <TableCell align="right">Calories</TableCell>
-            <TableCell align="right">Fat&nbsp;(g)</TableCell>
-            <TableCell align="right">Carbs&nbsp;(g)</TableCell>
-            <TableCell align="right">Protein&nbsp;(g)</TableCell>
-          </TableRow>
-        </TableHead>
-        {/* <TableBody>
-          {companyData[StockExchangeName.HORSE].map((row) => (
-            <TableRow
-              key={row.name}
-              sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
-            >
-              <TableCell component="th" scope="row">
-                {row.name}
-              </TableCell>
-              <TableCell align="right">{row.name}</TableCell>
-              <TableCell align="right">{row.name}</TableCell>
-              <TableCell align="right">{row.name}</TableCell>
-              <TableCell align="right">{row.href}</TableCell>
-            </TableRow>
-          ))}
-        </TableBody> */}
-      </Table>
-    </TableContainer>
+    <Box
+      sx={{
+        marginTop: "4rem",
+        overflowY: "scroll",
+        display: "flex",
+        flexDirection: "row",
+        flexWrap: "nowrap",
+        gap: "1rem",
+        width: "200vw",
+      }}
+    >
+      {Object.entries(priceFunctuations).map(([period, data]) => (
+        <PriceFunctuations
+          key={period}
+          priceFunctuations={data || []}
+          period={period as TimePeriodType}
+        />
+      ))}
+    </Box>
   );
 }
 

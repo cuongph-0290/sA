@@ -10,7 +10,7 @@ export default function App() {
   return (
     <Router>
       <Box sx={{ flexGrow: 1 }}>
-        <AppBar position="static">
+        <AppBar position="fixed">
           <Toolbar sx={{ display: "flex", justifyContent: "left" }}>
             <IconButton
               size="large"
