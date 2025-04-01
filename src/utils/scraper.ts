@@ -1,12 +1,14 @@
 import axios from "axios";
 import { CompanyStockInfo, PriceFunctuation } from "../types/data";
-import { DATA_HOST } from "./constant";
-
-const PF_ROW_REGEX = /<tr class="rowItem">([\s\S]+?)<\/tr>/g;
-const PF_CELL_REGEX = /<td.*?>(.*?)<\/td>/gs;
-const PF_DATA_REGEX = />(.*?)</gs;
-const PF_CLEANUP_REGEX = /[%\)\s\/>\r\n]/g;
-const PF_JOIN_CHAR = "_";
+import {
+  DATA_HOST,
+  PF_CELL_REGEX,
+  PF_CLEANUP_REGEX,
+  PF_DATA_REGEX,
+  PF_JOIN_CHAR,
+  PF_ROW_REGEX,
+  PRICE_FUNCTUATION_URLS,
+} from "./constant";
 
 // TODO: move to admin
 export async function getBusinessSector(c: CompanyStockInfo): Promise<string> {
@@ -77,4 +79,17 @@ export async function getPriceFunctuation(
       volumeCompared: data[6].split(PF_JOIN_CHAR)[1],
     };
   });
+}
+export async function getAllSEPriceFunctuations(
+  updateFunc: Function,
+): Promise<void> {
+  let sePriceFunctuationsData = {};
+
+  await Promise.all(
+    Object.keys(PRICE_FUNCTUATION_URLS).map(async (key) => {
+      const pF = await getPriceFunctuation(PRICE_FUNCTUATION_URLS[key]);
+      sePriceFunctuationsData = { ...sePriceFunctuationsData, [key]: pF };
+      updateFunc(sePriceFunctuationsData);
+    }),
+  );
 }

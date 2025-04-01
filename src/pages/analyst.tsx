@@ -1,19 +1,33 @@
 import {
   Paper,
   Table,
-  TableBody,
   TableCell,
   TableContainer,
   TableHead,
   TableRow,
 } from "@mui/material";
-import React, { JSX } from "react";
-import { useRecoilValue } from "recoil";
-import { companies } from "../state/data";
-import { StockExchangeName } from "../types/data";
+import React, { JSX, useEffect } from "react";
+import { useRecoilState } from "recoil";
+import { sePriceFunctuations } from "../state/data";
+import { SEPriceFunctuations } from "../types/data";
+import { getAllSEPriceFunctuations } from "../utils/scraper";
 
 export default function Analyst(): JSX.Element {
-  const companyData = useRecoilValue(companies);
+  const [priceFunctuations, setPriceFunctuations] =
+    useRecoilState<SEPriceFunctuations>(sePriceFunctuations);
+  const [isLoading, setIsLoading] = React.useState<boolean>(false);
+
+  async function fetchData() {
+    setIsLoading(true);
+    await getAllSEPriceFunctuations(setPriceFunctuations);
+    setIsLoading(false);
+  }
+
+  useEffect(() => {
+    fetchData();
+  });
+
+  console.log(isLoading, priceFunctuations);
 
   return (
     <TableContainer component={Paper} sx={{ mt: 5 }}>
@@ -27,7 +41,7 @@ export default function Analyst(): JSX.Element {
             <TableCell align="right">Protein&nbsp;(g)</TableCell>
           </TableRow>
         </TableHead>
-        <TableBody>
+        {/* <TableBody>
           {companyData[StockExchangeName.HORSE].map((row) => (
             <TableRow
               key={row.name}
@@ -42,7 +56,7 @@ export default function Analyst(): JSX.Element {
               <TableCell align="right">{row.href}</TableCell>
             </TableRow>
           ))}
-        </TableBody>
+        </TableBody> */}
       </Table>
     </TableContainer>
   );
