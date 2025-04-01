@@ -24,8 +24,8 @@ export default function Analyst(): JSX.Element {
   }
 
   useEffect(() => {
-    fetchData();
-  });
+    // fetchData();
+  }, []);
 
   console.log(isLoading, priceFunctuations);
 

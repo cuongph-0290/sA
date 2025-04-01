@@ -17,6 +17,7 @@ export type CompanyStockInfo = {
   name: string;
   href: string;
   businessSector?: string;
+  stockExchange?: string;
   businessSectorIds: Array<string>;
 };
 
