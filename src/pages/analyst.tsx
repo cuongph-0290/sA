@@ -5,6 +5,7 @@ import { SEPriceFunctuations, TimePeriodType } from "../types/data";
 import { getAllSEPriceFunctuations } from "../utils/scraper";
 import PriceFunctuations from "../components/PriceFunctions";
 import { Box } from "@mui/material";
+import { PRICE_FUNCTUATION_URLS } from "../utils/constant";
 
 export default function Analyst(): JSX.Element {
   const [priceFunctuations, setPriceFunctuations] =
@@ -35,11 +36,11 @@ export default function Analyst(): JSX.Element {
         width: "200vw",
       }}
     >
-      {Object.entries(priceFunctuations).map(([period, data]) => (
+      {Object.keys(PRICE_FUNCTUATION_URLS).map((key) => (
         <PriceFunctuations
-          key={period}
-          priceFunctuations={data || []}
-          period={period as TimePeriodType}
+          key={key}
+          priceFunctuations={priceFunctuations[key] || []}
+          period={key as TimePeriodType}
         />
       ))}
     </Box>

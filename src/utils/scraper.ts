@@ -1,6 +1,11 @@
 import axios from "axios";
-import { CompanyStockInfo, PriceFunctuation } from "../types/data";
 import {
+  CompanyStockInfo,
+  PriceFunctuation,
+  SEPriceFunctuations,
+} from "../types/data";
+import {
+  CACHE_KEY,
   DATA_HOST,
   PF_CELL_REGEX,
   PF_CLEANUP_REGEX,
@@ -81,15 +86,66 @@ export async function getPriceFunctuation(
   });
 }
 export async function getAllSEPriceFunctuations(
-  updateFunc: Function,
+  updateFunc: (sePriceFunctuations: SEPriceFunctuations) => void,
 ): Promise<void> {
-  let sePriceFunctuationsData = {};
+  let sePriceFunctuations = {};
+  let needUpdate = false;
 
   await Promise.all(
-    Object.keys(PRICE_FUNCTUATION_URLS).map(async (key) => {
-      const pF = await getPriceFunctuation(PRICE_FUNCTUATION_URLS[key]);
-      sePriceFunctuationsData = { ...sePriceFunctuationsData, [key]: pF };
-      updateFunc(sePriceFunctuationsData);
+    Object.entries(PRICE_FUNCTUATION_URLS).map(async ([key, url]) => {
+      let priceFunctuations = getPriceFunctuationFromCache(key);
+
+      if (!priceFunctuations.length) {
+        try {
+          priceFunctuations = await getPriceFunctuation(url);
+          needUpdate = true;
+        } catch (e) {
+          console.error(e);
+        }
+      }
+
+      sePriceFunctuations = {
+        ...sePriceFunctuations,
+        [key]: priceFunctuations,
+      };
+      updateFunc(sePriceFunctuations as SEPriceFunctuations);
     }),
   );
+
+  if (needUpdate)
+    localStorage.setItem(
+      CACHE_KEY,
+      JSON.stringify({
+        priceFunctuations: sePriceFunctuations,
+        updatedTime: new Date(),
+      }),
+    );
+}
+
+function getPriceFunctuationFromCache(key: string): Array<PriceFunctuation> {
+  try {
+    const stored = JSON.parse(localStorage.getItem(CACHE_KEY)) || {};
+    const { updatedTime, priceFunctuations } = stored;
+
+    if (!updatedTime || !priceFunctuations) {
+      return [];
+    }
+
+    const updatedDate = new Date(updatedTime);
+    const currentDate = new Date();
+
+    if (
+      updatedDate.getFullYear() !== currentDate.getFullYear() ||
+      updatedDate.getMonth() !== currentDate.getMonth() ||
+      updatedDate.getDate() !== currentDate.getDate() ||
+      (updatedDate.getHours() < 15 && currentDate.getHours() >= 15)
+    ) {
+      return [];
+    }
+
+    return priceFunctuations[key] || [];
+  } catch (e) {
+    console.log(e);
+    return [];
+  }
 }

@@ -38,20 +38,20 @@ const PriceFunctuations: React.FC<{
             </TableRow>
           </TableHead>
           <TableBody>
-            {priceFunctuations.map((row) => (
+            {priceFunctuations.map((row, index) => (
               <TableRow
-                key={row.name}
+                key={`${period}${row.name}${index}`}
                 sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
               >
                 <TableCell component="th" scope="row">
                   {row.name}
                 </TableCell>
                 <TableCell align="right">{row.marketCap}</TableCell>
-                <TableCell align="right">{row.compared}</TableCell>
+                <TableCell align="right">{row.compared}%</TableCell>
                 <TableCell align="right">{row.price}</TableCell>
                 <TableCell align="right">{row.volume}</TableCell>
-                <TableCell align="right">{row.priceChange}</TableCell>
-                <TableCell align="right">{row.volumeCompared}</TableCell>
+                <TableCell align="right">{row.priceChange}%</TableCell>
+                <TableCell align="right">{row.volumeCompared}%</TableCell>
               </TableRow>
             ))}
           </TableBody>

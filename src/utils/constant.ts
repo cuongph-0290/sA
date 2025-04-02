@@ -1,5 +1,7 @@
 import { TimePeriodType } from "../types/data";
 
+export const CACHE_KEY = "sA";
+
 // URL
 export const DATA_HOST = `https://cafef.vn`;
 export const PRICE_FUNCTUATION_URLS = {
