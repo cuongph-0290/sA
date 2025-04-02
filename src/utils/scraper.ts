@@ -14,6 +14,8 @@ import {
   PF_ROW_REGEX,
   PRICE_FUNCTUATION_URLS,
 } from "./constant";
+import allData from "../data/all.json";
+import businessSectorData from "../data/businessSector.json";
 
 // TODO: move to admin
 export async function getBusinessSector(c: CompanyStockInfo): Promise<string> {
@@ -148,4 +150,19 @@ function getPriceFunctuationFromCache(key: string): Array<PriceFunctuation> {
     console.log(e);
     return [];
   }
+}
+
+export function addInfo(
+  priceFunctuations: Array<PriceFunctuation>,
+): Array<PriceFunctuation> {
+  return priceFunctuations.map((p) => {
+    return {
+      ...p,
+      businessSector: (allData[p.name]?.businessSectorIds || [])
+        .map((id) => businessSectorData[id])
+        .join(" / "),
+      businessSectorIds: allData[p.name]?.businessSectorIds,
+      stockExchange: allData[p.name]?.stockExchange,
+    };
+  });
 }

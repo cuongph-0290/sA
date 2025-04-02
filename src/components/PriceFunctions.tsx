@@ -9,7 +9,11 @@ import {
   TableRow,
   Typography,
 } from "@mui/material";
-import { PriceFunctuation, TimePeriodType } from "../types/data";
+import {
+  PriceFunctuation,
+  StockExchangeName,
+  TimePeriodType,
+} from "../types/data";
 import React from "react";
 
 const PriceFunctuations: React.FC<{
@@ -43,8 +47,39 @@ const PriceFunctuations: React.FC<{
                 key={`${period}${row.name}${index}`}
                 sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
               >
-                <TableCell component="th" scope="row">
+                <TableCell
+                  component="th"
+                  scope="row"
+                  sx={{
+                    fontWeight:
+                      row["stockExchange"] === StockExchangeName.HORSE
+                        ? "bold"
+                        : "normal",
+                    fontStyle:
+                      row["stockExchange"] === StockExchangeName.UPCOM
+                        ? "italic"
+                        : "normal",
+                    textDecoration:
+                      row["stockExchange"] === StockExchangeName.UPCOM
+                        ? "underline"
+                        : "none",
+                  }}
+                >
                   {row.name}
+                  <Typography
+                    variant="body2"
+                    component="div"
+                    sx={{
+                      width: "400px",
+                      position: "absolute",
+                      fontWeight: "normal",
+                      fontStyle: "normal",
+                      textDecoration: "none",
+                      fontSize: "0.65rem",
+                    }}
+                  >
+                    {row["businessSector"]}
+                  </Typography>
                 </TableCell>
                 <TableCell align="right">{row.marketCap}</TableCell>
                 <TableCell align="right">{row.compared}%</TableCell>

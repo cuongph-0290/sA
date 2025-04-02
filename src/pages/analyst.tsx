@@ -2,7 +2,7 @@ import React, { JSX, useEffect } from "react";
 import { useRecoilState } from "recoil";
 import { sePriceFunctuations } from "../state/data";
 import { SEPriceFunctuations, TimePeriodType } from "../types/data";
-import { getAllSEPriceFunctuations } from "../utils/scraper";
+import { addInfo, getAllSEPriceFunctuations } from "../utils/scraper";
 import PriceFunctuations from "../components/PriceFunctions";
 import { Box } from "@mui/material";
 import { PRICE_FUNCTUATION_URLS } from "../utils/constant";
@@ -39,7 +39,7 @@ export default function Analyst(): JSX.Element {
       {Object.keys(PRICE_FUNCTUATION_URLS).map((key) => (
         <PriceFunctuations
           key={key}
-          priceFunctuations={priceFunctuations[key] || []}
+          priceFunctuations={addInfo(priceFunctuations[key] || [])}
           period={key as TimePeriodType}
         />
       ))}
