@@ -2,9 +2,11 @@ import { Box, Typography } from "@mui/material";
 import React from "react";
 import businessSectorData from "../data/businessSector.json";
 
-const BusinessSectorAnalystics: React.FC<{ bSA: Array<string> }> = ({
-  bSA,
-}) => {
+const BusinessSectorAnalystics: React.FC<{
+  bSA: Array<string>;
+  bsFilter: Array<string>;
+  setBFilter: Function;
+}> = ({ bSA, bsFilter, setBFilter }) => {
   return (
     <Box
       sx={{
@@ -14,13 +16,22 @@ const BusinessSectorAnalystics: React.FC<{ bSA: Array<string> }> = ({
       }}
     >
       {bSA.slice(0, 10).map((bs) => (
-        <BusinessSectorDetail key={bs} bs={bs} />
+        <BusinessSectorDetail
+          bsFilter={bsFilter}
+          setBFilter={setBFilter}
+          key={bs}
+          bs={bs}
+        />
       ))}
     </Box>
   );
 };
 
-const BusinessSectorDetail: React.FC<{ bs: string }> = ({ bs }) => {
+const BusinessSectorDetail: React.FC<{
+  bs: string;
+  bsFilter: Array<string>;
+  setBFilter: Function;
+}> = ({ bs, bsFilter, setBFilter }) => {
   const [id, count] = bs.split(":");
 
   return (
@@ -30,13 +41,22 @@ const BusinessSectorDetail: React.FC<{ bs: string }> = ({ bs }) => {
         height: "15px",
         justifyContent: "center",
         border: "1px solid #ccc",
-        backgroundColor: "#eee",
+        backgroundColor: bsFilter.includes(id) ? "#ddf" : "#eee",
         borderRadius: "15px",
         padding: "5px 10px",
         margin: "0px 5px",
       }}
     >
-      <Typography sx={{ fontSize: "0.65rem" }}>
+      <Typography
+        sx={{ fontSize: "0.65rem", cursor: "pointer" }}
+        onClick={() =>
+          setBFilter(
+            bsFilter.includes(id)
+              ? bsFilter.filter((f) => f !== id)
+              : [...bsFilter, id],
+          )
+        }
+      >
         {businessSectorData[id]} {count}
       </Typography>
     </Box>
