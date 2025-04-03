@@ -166,3 +166,25 @@ export function addInfo(
     };
   });
 }
+
+export function buildBSAnalystics(
+  priceFunctuations: Array<PriceFunctuation>,
+): Array<string> {
+  const result: Record<string, number> = {};
+
+  priceFunctuations.slice(0, 100).forEach((p) => {
+    (p["businessSectorIds"] || []).forEach((id) => {
+      const compared = parseFloat(p.compared);
+
+      if (isNaN(compared) || compared < 1) return;
+
+      result[id] = (result[id] || 0) + 1;
+    });
+  });
+
+  const sortedResult = Object.entries(result).sort(
+    ([, countA], [, countB]) => countB - countA,
+  );
+
+  return sortedResult.map(([id, count]) => `${id}:${count}`);
+}

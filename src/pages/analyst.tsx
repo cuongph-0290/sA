@@ -36,7 +36,7 @@ export default function Analyst(): JSX.Element {
         width: "200vw",
       }}
     >
-      {Object.keys(PRICE_FUNCTUATION_URLS).map((key) => (
+      {Object.keys(PRICE_FUNCTUATION_URLS).map((key, index) => (
         <PriceFunctuations
           key={key}
           priceFunctuations={addInfo(priceFunctuations[key] || [])}

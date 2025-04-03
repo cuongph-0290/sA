@@ -15,11 +15,15 @@ import {
   TimePeriodType,
 } from "../types/data";
 import React from "react";
+import { buildBSAnalystics } from "../utils/scraper";
+import BusinessSectorAnalystics from "./BusinessSectorAnalystics";
 
 const PriceFunctuations: React.FC<{
   priceFunctuations: PriceFunctuation[];
   period: TimePeriodType;
 }> = ({ priceFunctuations, period }) => {
+  const fontSize = "0.85rem";
+
   return (
     <Box sx={{ mt: 2, width: "33vw" }}>
       <Box sx={{ mb: 2 }}>
@@ -27,18 +31,19 @@ const PriceFunctuations: React.FC<{
           {period}
         </Typography>
       </Box>
+      <BusinessSectorAnalystics bSA={buildBSAnalystics(priceFunctuations)} />
 
       <TableContainer component={Paper}>
         <Table sx={{ tableLayout: "fixed" }} aria-label="simple table">
           <TableHead>
             <TableRow>
-              <TableCell>Name</TableCell>
-              <TableCell align="right">market cap</TableCell>
-              <TableCell align="right">compared</TableCell>
-              <TableCell align="right">price</TableCell>
-              <TableCell align="right">volume</TableCell>
-              <TableCell align="right">price change</TableCell>
-              <TableCell align="right">volume compared</TableCell>
+              <TableCell sx={{ fontSize }}>{`Name`}</TableCell>
+              <TableCell align="right" sx={{ fontSize }}>{`market cap`}</TableCell>
+              <TableCell align="right" sx={{ fontSize }}>{`compared`}</TableCell>
+              <TableCell align="right" sx={{ fontSize }}>{`price`}</TableCell>
+              <TableCell align="right" sx={{ fontSize }}>{`volume`}</TableCell>
+              <TableCell align="right" sx={{ fontSize }}>{`price change`}</TableCell>
+              <TableCell align="right" sx={{ fontSize }}>{`volume compared`}</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
