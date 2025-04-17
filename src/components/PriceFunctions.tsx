@@ -17,6 +17,7 @@ import {
 import React from "react";
 import { buildBSAnalystics } from "../utils/scraper";
 import BusinessSectorAnalystics from "./BusinessSectorAnalystics";
+import { DATA_HOST } from "../utils/constant";
 
 const PriceFunctuations: React.FC<{
   priceFunctuations: PriceFunctuation[];
@@ -79,9 +80,19 @@ const PriceFunctuations: React.FC<{
                   sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
                 >
                   <TableCell
+                    title={row["href"]}
+                    onClick={() =>
+                      window.open(
+                        `${DATA_HOST}${row["href"]}`,
+                        "_blank",
+                        "noopener,noreferrer",
+                      )
+                    }
                     component="th"
                     scope="row"
                     sx={{
+                      cursor: "pointer",
+                      "&:hover": { cursor: "pointer" },
                       fontWeight:
                         row["stockExchange"] === StockExchangeName.HORSE
                           ? "bold"

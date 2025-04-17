@@ -163,6 +163,7 @@ export function addInfo(
         .join(" / "),
       businessSectorIds: allData[p.name]?.businessSectorIds,
       stockExchange: allData[p.name]?.stockExchange,
+      href: allData[p.name]?.href,
     };
   });
 }
