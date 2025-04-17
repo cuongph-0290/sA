@@ -34,3 +34,8 @@ export type PriceFunctuation = {
 export type SEPriceFunctuations = {
   [key in TimePeriodType]: PriceFunctuation[];
 };
+
+export type GroupStocks = {
+  name: string;
+  stocks: Array<string>;
+};

@@ -1,8 +1,10 @@
 import React, { useEffect } from "react";
 import { useRecoilState } from "recoil";
 import { controlPanel } from "../state/control_panel";
-
-export default function WithControlPanel(C, CP = null) {
+export default function WithControlPanel(
+  C: React.FC,
+  CP: React.FC | null = null,
+) {
   const F: React.FC = (props) => {
     const [_, setControlPanelState] = useRecoilState(controlPanel);
 

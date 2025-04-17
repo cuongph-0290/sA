@@ -1,6 +1,7 @@
 import { TimePeriodType } from "../types/data";
 
 export const CACHE_KEY = "sA";
+export const DEFAULT_GROUP_STOCK = "all";
 
 // URL
 export const DATA_HOST = `https://cafef.vn`;
