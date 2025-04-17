@@ -1,10 +1,5 @@
 import axios from "axios";
 import {
-  CompanyStockInfo,
-  PriceFunctuation,
-  SEPriceFunctuations,
-} from "../types/data";
-import {
   CACHE_KEY,
   DATA_HOST,
   PF_CELL_REGEX,
@@ -14,8 +9,15 @@ import {
   PF_ROW_REGEX,
   PRICE_FUNCTUATION_URLS,
 } from "./constant";
+import { saveLocalStorageItem } from "./store";
 import allData from "../data/all.json";
 import businessSectorData from "../data/businessSector.json";
+
+import {
+  CompanyStockInfo,
+  PriceFunctuation,
+  SEPriceFunctuations,
+} from "../types/data";
 
 // TODO: move to admin
 export async function getBusinessSector(c: CompanyStockInfo): Promise<string> {
@@ -114,14 +116,10 @@ export async function getAllSEPriceFunctuations(
     }),
   );
 
-  if (needUpdate)
-    localStorage.setItem(
-      CACHE_KEY,
-      JSON.stringify({
-        priceFunctuations: sePriceFunctuations,
-        updatedTime: new Date(),
-      }),
-    );
+  if (needUpdate) {
+    saveLocalStorageItem("priceFunctuations", sePriceFunctuations);
+    saveLocalStorageItem("updatedTime", new Date());
+  }
 }
 
 function getPriceFunctuationFromCache(key: string): Array<PriceFunctuation> {

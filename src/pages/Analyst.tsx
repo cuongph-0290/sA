@@ -16,6 +16,7 @@ import { useRecoilState } from "recoil";
 import AnalystControlPanel from "../components/AnalystControlPanel";
 import PriceFunctuations from "../components/PriceFunctions";
 import WithControlPanel from "../hoc/WithControlPanel";
+import { Snackbar } from "@mui/material";
 
 const Analyst: React.FC = () => {
   const [priceFunctuations, setPriceFunctuations] =
@@ -65,6 +66,8 @@ const Analyst: React.FC = () => {
           period={key as TimePeriodType}
         />
       ))}
+
+      <Snackbar open={isLoading} message="Loading..." />
     </Box>
   );
 };
