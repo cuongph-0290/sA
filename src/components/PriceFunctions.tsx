@@ -138,4 +138,4 @@ const PriceFunctuations: React.FC<{
   );
 };
 
-export default PriceFunctuations;
+export default React.memo(PriceFunctuations);

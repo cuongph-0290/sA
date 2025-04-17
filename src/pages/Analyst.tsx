@@ -1,18 +1,32 @@
+import Box from "@mui/material/Box";
 import React, { useEffect } from "react";
-import { useRecoilState } from "recoil";
-import { sePriceFunctuations } from "../state/data";
-import { SEPriceFunctuations, TimePeriodType } from "../types/data";
-import { addInfo, getAllSEPriceFunctuations } from "../utils/scraper";
-import PriceFunctuations from "../components/PriceFunctions";
-import { Box } from "@mui/material";
+import {
+  GroupStocks,
+  SEPriceFunctuations,
+  TimePeriodType,
+} from "../types/data";
+import {
+  listGroupStocks,
+  selectedGroupStockName,
+} from "../state/control_panel";
 import { PRICE_FUNCTUATION_URLS } from "../utils/constant";
+import { addInfo, getAllSEPriceFunctuations } from "../utils/scraper";
+import { sePriceFunctuations } from "../state/data";
+import { useRecoilState } from "recoil";
 import AnalystControlPanel from "../components/AnalystControlPanel";
+import PriceFunctuations from "../components/PriceFunctions";
 import WithControlPanel from "../hoc/WithControlPanel";
 
 const Analyst: React.FC = () => {
   const [priceFunctuations, setPriceFunctuations] =
     useRecoilState<SEPriceFunctuations>(sePriceFunctuations);
   const [isLoading, setIsLoading] = React.useState<boolean>(false);
+  const [selectedGStockName] = useRecoilState<string>(selectedGroupStockName);
+  const [lGroupStocks, _] = useRecoilState<GroupStocks[]>(listGroupStocks);
+
+  const selectedGroupStock = lGroupStocks.find(
+    (g) => g.name === selectedGStockName,
+  ) || { stocks: [] };
 
   async function fetchData() {
     setIsLoading(true);
@@ -25,8 +39,6 @@ const Analyst: React.FC = () => {
   }, []);
 
   console.log(isLoading, priceFunctuations);
-
-  return null;
 
   return (
     <Box
@@ -43,7 +55,13 @@ const Analyst: React.FC = () => {
       {Object.keys(PRICE_FUNCTUATION_URLS).map((key, index) => (
         <PriceFunctuations
           key={key}
-          priceFunctuations={addInfo(priceFunctuations[key] || [])}
+          priceFunctuations={addInfo(
+            (priceFunctuations[key] || []).filter(
+              (p) =>
+                !selectedGroupStock.stocks.length ||
+                selectedGroupStock.stocks.includes(p.name),
+            ) || [],
+          )}
           period={key as TimePeriodType}
         />
       ))}
