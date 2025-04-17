@@ -6,11 +6,14 @@ import { addInfo, getAllSEPriceFunctuations } from "../utils/scraper";
 import PriceFunctuations from "../components/PriceFunctions";
 import { Box } from "@mui/material";
 import { PRICE_FUNCTUATION_URLS } from "../utils/constant";
+import { controlPanel } from "../state/control_panel";
+import AnalystControlPanel from "../components/AnalystControlPanel";
 
 export default function Analyst(): JSX.Element {
   const [priceFunctuations, setPriceFunctuations] =
     useRecoilState<SEPriceFunctuations>(sePriceFunctuations);
   const [isLoading, setIsLoading] = React.useState<boolean>(false);
+  const [_, setControlPanelState] = useRecoilState(controlPanel);
 
   async function fetchData() {
     setIsLoading(true);
@@ -19,10 +22,13 @@ export default function Analyst(): JSX.Element {
   }
 
   useEffect(() => {
+    setControlPanelState(<AnalystControlPanel />);
     fetchData();
   }, []);
 
   console.log(isLoading, priceFunctuations);
+
+  return null;
 
   return (
     <Box
