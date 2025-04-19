@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+/src
+/scripts
 
 # tmp
 /tmp
