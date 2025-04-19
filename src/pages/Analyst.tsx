@@ -36,6 +36,7 @@ const Analyst: React.FC = () => {
   }
 
   useEffect(() => {
+    if (isLoading) return;
     fetchData();
   }, []);
 
@@ -53,7 +54,7 @@ const Analyst: React.FC = () => {
         width: "200vw",
       }}
     >
-      {Object.keys(PRICE_FUNCTUATION_URLS).map((key, index) => (
+      {Object.keys(PRICE_FUNCTUATION_URLS).map((key) => (
         <PriceFunctuations
           key={key}
           priceFunctuations={addInfo(

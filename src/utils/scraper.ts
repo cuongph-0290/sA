@@ -95,6 +95,17 @@ export async function getAllSEPriceFunctuations(
   let sePriceFunctuations = {};
   let needUpdate = false;
 
+  function updateDtata(k: string, pFs: Array<PriceFunctuation>) {
+    if (sePriceFunctuations[k]?.length) return;
+
+    sePriceFunctuations = {
+      ...sePriceFunctuations,
+      [k]: pFs,
+    };
+
+    updateFunc(sePriceFunctuations as SEPriceFunctuations);
+  }
+
   await Promise.all(
     Object.entries(PRICE_FUNCTUATION_URLS).map(async ([key, url]) => {
       let priceFunctuations = getPriceFunctuationFromCache(key);
@@ -108,11 +119,13 @@ export async function getAllSEPriceFunctuations(
         }
       }
 
-      sePriceFunctuations = {
-        ...sePriceFunctuations,
-        [key]: priceFunctuations,
-      };
-      updateFunc(sePriceFunctuations as SEPriceFunctuations);
+      updateDtata(key, priceFunctuations);
+
+      // sePriceFunctuations = {
+      //   ...sePriceFunctuations,
+      //   [key]: priceFunctuations,
+      // };
+      // updateFunc(sePriceFunctuations as SEPriceFunctuations);
     }),
   );
 
