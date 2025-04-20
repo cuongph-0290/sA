@@ -196,6 +196,7 @@ const AnalystControlPanel: React.FC = () => {
             renderInput={(params) => (
               <TextField {...params} label="Add stock" variant="outlined" />
             )}
+            disabled={!lGroupStocks[selectedIndex]?.name}
           />
         </FormControl>
         {renderStocks()}

@@ -1,11 +1,12 @@
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
-import Home from "./pages/Home";
-import Analyst from "./pages/Analyst";
 import React from "react";
 import { AppBar, Box, IconButton, Toolbar, Typography } from "@mui/material";
-import MenuIcon from "@mui/icons-material/Menu";
 import Button from "@mui/material/Button";
 import ControlPanel from "./components/ControlPanel";
+import Home from "./pages/Home";
+import Analyst from "./pages/Analyst";
+import Compare from "./pages/Compare";
+import MenuIcon from "@mui/icons-material/Menu";
 
 export default function App() {
   return (
@@ -28,6 +29,9 @@ export default function App() {
             <Button component={Link} to="/analyst/" variant="text">
               <Typography sx={{ color: "white" }}>Analyst</Typography>
             </Button>
+            <Button component={Link} to="/compare/" variant="text">
+              <Typography sx={{ color: "white" }}>Compare</Typography>
+            </Button>
             <Box
               sx={{ display: "flex", justifyContent: "flex-end", flexGrow: 1 }}
             >
@@ -38,6 +42,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/analyst/" element={<Analyst />} />
+          <Route path="/compare/" element={<Compare />} />
         </Routes>
       </Box>
     </Router>
