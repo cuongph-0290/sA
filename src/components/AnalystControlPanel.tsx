@@ -24,6 +24,7 @@ import {
 } from "../state/control_panel";
 import { GroupStocks } from "../types/data";
 import allData from "../data/all.json";
+import { autoCreateInstanceGroupStock } from "../utils/groupStock";
 
 const AnalystControlPanel: React.FC = () => {
   const [showModal, setShowModal] = React.useState(false);
@@ -35,10 +36,18 @@ const AnalystControlPanel: React.FC = () => {
     selectedGroupStockName,
   );
 
-  const handleAddGroupName = (newGroupName: string) => {
-    if (!newGroupName || lGroupStocks.find((g) => g.name === newGroupName)) {
+  const handleAddGroupName = async (newGroupName: string) => {
+    if (!newGroupName) return;
+    const newGroupStocks = await autoCreateInstanceGroupStock(newGroupName);
+    console.log("newGroupStocks", newGroupStocks);
+    if (newGroupStocks) {
+      return setlGroupStocks([...lGroupStocks, newGroupStocks]);
+    }
+
+    if (lGroupStocks.find((g) => g.name === newGroupName)) {
       return;
     }
+
     setlGroupStocks([
       ...lGroupStocks,
       {
@@ -95,9 +104,7 @@ const AnalystControlPanel: React.FC = () => {
           <IconButton
             aria-label="delete"
             onClick={() => {
-              setlGroupStocks(
-                lGroupStocks.filter((_, i) => i !== selectedIndex),
-              );
+              setlGroupStocks(lGroupStocks.filter((_, i) => i !== index));
             }}
             sx={{
               opacity: 0,
