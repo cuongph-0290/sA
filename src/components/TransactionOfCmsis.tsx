@@ -1,11 +1,13 @@
-import { Box, Typography } from "@mui/material";
 import React from "react";
+import { Box, Typography } from "@mui/material";
 import { DATA_HOST } from "../utils/constant";
 import { convertStringToTime, timeFromNow } from "../utils/helper";
-const TransactionOfCmsis: React.FC<{ stock: string; configID: number }> = ({
-  stock,
-  configID,
-}) => {
+
+const TransactionOfCmsis: React.FC<{
+  stock: string;
+  configID: number;
+  cssFn?: Function;
+}> = ({ stock, configID, cssFn = () => {} }) => {
   const [data, setData] = React.useState<any>([]);
   const [loading, setLoading] = React.useState<boolean>(true);
 
@@ -52,11 +54,7 @@ const TransactionOfCmsis: React.FC<{ stock: string; configID: number }> = ({
             )
           }
           sx={{
-            color: item.text?.includes("bán")
-              ? "rgb(220, 0, 0, 0.7)"
-              : item.text?.includes("mua")
-                ? "rgba(0,128,0,0.8)"
-                : "grey",
+            color: "grey",
             overflow: "hidden",
             textOverflow: "ellipsis",
             whiteSpace: "nowrap",
@@ -64,6 +62,7 @@ const TransactionOfCmsis: React.FC<{ stock: string; configID: number }> = ({
             padding: "5px 5px",
             borderBottom:
               index === data.length - 1 ? undefined : "1px solid #ddd",
+            ...cssFn(item, index),
           }}
         >
           <Typography sx={{ fontSize: "0.7rem" }}>

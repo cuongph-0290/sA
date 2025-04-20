@@ -1,4 +1,7 @@
-import { Box, TableCell, TableRow, Typography } from "@mui/material";
+import Box from "@mui/material/Box";
+import TableCell from "@mui/material/TableCell";
+import TableRow from "@mui/material/TableRow";
+import Typography from "@mui/material/Typography";
 import React from "react";
 import allData from "../data/all.json";
 import { DATA_HOST } from "../utils/constant";
@@ -46,10 +49,30 @@ const CompareDetail: React.FC<{ stock: string }> = ({ stock }) => {
         />
       </TableCell>
       <TableCell sx={{ textAlign: "left" }}>
-        <TransactionOfCmsis stock={stock} configID={5} />
+        <TransactionOfCmsis
+          stock={stock}
+          configID={5}
+          cssFn={(item) => ({
+            color: item.text?.includes("bán")
+              ? "rgb(220, 0, 0, 0.7)"
+              : item.text?.includes("mua")
+                ? "rgba(0,128,0,0.8)"
+                : "grey",
+          })}
+        />
       </TableCell>
       <TableCell sx={{ textAlign: "left" }}>
-        <TransactionOfCmsis stock={stock} configID={2} />
+        <TransactionOfCmsis
+          stock={stock}
+          configID={2}
+          cssFn={(item) => ({
+            color: item.text?.includes("tiền")
+              ? "rgba(0,128,0,0.8)"
+              : item.text?.includes("cổ phiếu")
+                ? "rgb(220, 0, 0, 0.7)"
+                : "grey",
+          })}
+        />
       </TableCell>
     </TableRow>
   );
