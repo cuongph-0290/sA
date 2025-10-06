@@ -227,6 +227,22 @@ const AnalystControlPanel: React.FC = () => {
       >
         <Button
           sx={{
+            mr: 2,
+            width: "200px",
+          }}
+          onClick={() => {
+            setSelectedIndex(0);
+            setlGroupStocks(
+              lGroupStocks.slice().sort((a, b) =>
+                a.name.localeCompare(b.name)
+              )
+            );
+          }}
+        >
+          Sort
+        </Button>
+        <Button
+          sx={{
             width: "200px",
           }}
           disabled={isEqual(
@@ -249,7 +265,7 @@ const AnalystControlPanel: React.FC = () => {
     <Box sx={{ display: "flex", color: "white" }}>
       <FormControl fullWidth>
         <Select
-          value={lGroupStocks.find((g) => g.id === selectedGroupStockIdState)?.name || ""}
+          value={selectedGroupStockIdState}
           sx={{
             ".MuiOutlinedInput-notchedOutline": {
               border: "none",

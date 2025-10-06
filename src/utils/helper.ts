@@ -98,6 +98,6 @@ export function generateGroupIdForGroupStock(groupStocks: GroupStocks[]): GroupS
       }
       return [...acc, { ...groupStock, id: newId }];
     }
-    return acc;
+    return [...acc, groupStock];
   }, [] as GroupStocks[]);
 }
