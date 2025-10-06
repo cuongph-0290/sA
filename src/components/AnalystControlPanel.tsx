@@ -25,6 +25,7 @@ import {
 import { GroupStocks } from "../types/data";
 import allData from "../data/all.json";
 import { autoCreateInstanceGroupStock } from "../utils/groupStock";
+import { generateId } from "../utils/helper";
 
 const AnalystControlPanel: React.FC = () => {
   const [showModal, setShowModal] = React.useState(false);
@@ -48,9 +49,18 @@ const AnalystControlPanel: React.FC = () => {
       return;
     }
 
+    const heretateId = () => {
+      let newId = generateId();
+      while (lGroupStocks.some((g) => g.id === newId)) {
+        newId = generateId();
+      }
+      return newId;
+    };
+
     setlGroupStocks([
       ...lGroupStocks,
       {
+        id: heretateId(),
         name: newGroupName,
         stocks: [],
       },

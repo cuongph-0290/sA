@@ -82,3 +82,7 @@ export function getDateRange(weeks: number) {
 
   return [startWeekDate, endWeekDate];
 }
+
+export function generateId(): string {
+  return Array(8).fill(0).map(() => String.fromCharCode(97 + Math.floor(Math.random() * 26))).join("");
+}

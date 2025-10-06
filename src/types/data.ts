@@ -36,6 +36,7 @@ export type SEPriceFunctuations = {
 };
 
 export type GroupStocks = {
+  id: string;
   name: string;
   stocks: Array<string>;
 };
