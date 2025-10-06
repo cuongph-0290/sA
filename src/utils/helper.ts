@@ -1,3 +1,5 @@
+import { GroupStocks } from "../types/data";
+
 export function convertStringToTime(timeString: string): Date {
   const numbers = timeString.match(/\d+/g);
   const [day, month, year, hour, minute] = numbers
@@ -85,4 +87,17 @@ export function getDateRange(weeks: number) {
 
 export function generateId(): string {
   return Array(8).fill(0).map(() => String.fromCharCode(97 + Math.floor(Math.random() * 26))).join("");
+}
+
+export function generateGroupIdForGroupStock(groupStocks: GroupStocks[]): GroupStocks[] {
+  return groupStocks.reduce((acc, groupStock) => {
+    if (!groupStock.id) {
+      let newId = generateId();
+      while (groupStocks.some((g) => g.id === newId)) {
+        newId = generateId();
+      }
+      return [...acc, { ...groupStock, id: newId }];
+    }
+    return acc;
+  }, [] as GroupStocks[]);
 }

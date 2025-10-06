@@ -7,26 +7,25 @@ import {
   Table,
   TableBody,
   TableContainer,
-  TableHead,
 } from "@mui/material";
 import { useRecoilState } from "recoil";
 import { GroupStocks } from "../types/data";
 import {
   listGroupStocks,
-  selectedGroupStockName,
+  selectedGroupStockId,
 } from "../state/control_panel";
 import CompareDetail from "../components/CompareDetail";
 
 const Compare: React.FC = () => {
-  const [selectedGStockName] = useRecoilState<string>(selectedGroupStockName);
+  const [selectedGStockId] = useRecoilState<string>(selectedGroupStockId);
   const [lGroupStocks, _] = useRecoilState<GroupStocks[]>(listGroupStocks);
   const [selectedGroupStock, setSelectedGroupStock] =
     React.useState<GroupStocks | null>(null);
 
   useEffect(() => {
-    const groupStock = lGroupStocks.find((g) => g.name === selectedGStockName);
+    const groupStock = lGroupStocks.find((g) => g.id === selectedGStockId);
     setSelectedGroupStock(groupStock || ({ stocks: [] } as GroupStocks));
-  }, [selectedGStockName, lGroupStocks]);
+  }, [selectedGStockId, lGroupStocks]);
 
   if (!selectedGroupStock?.stocks?.length) return null;
 

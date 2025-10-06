@@ -7,7 +7,7 @@ import {
 } from "../types/data";
 import {
   listGroupStocks,
-  selectedGroupStockName,
+  selectedGroupStockId,
 } from "../state/control_panel";
 import { PRICE_FUNCTUATION_URLS } from "../utils/constant";
 import { addInfo, getAllSEPriceFunctuations } from "../utils/scraper";
@@ -22,11 +22,11 @@ const Analyst: React.FC = () => {
   const [priceFunctuations, setPriceFunctuations] =
     useRecoilState<SEPriceFunctuations>(sePriceFunctuations);
   const [isLoading, setIsLoading] = React.useState<boolean>(false);
-  const [selectedGStockName] = useRecoilState<string>(selectedGroupStockName);
+  const [selectedGStockId] = useRecoilState<string>(selectedGroupStockId);
   const [lGroupStocks, _] = useRecoilState<GroupStocks[]>(listGroupStocks);
 
   const selectedGroupStock = lGroupStocks.find(
-    (g) => g.name === selectedGStockName,
+    (g) => g.id === selectedGStockId,
   ) || { stocks: [] };
 
   async function fetchData() {

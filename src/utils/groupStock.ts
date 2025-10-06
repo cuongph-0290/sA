@@ -1,6 +1,7 @@
 import { GroupStocks } from "../types/data";
 import {
   convertStringToTime,
+  generateId,
   getDateRange,
   similaritySentence,
 } from "./helper";
@@ -120,6 +121,7 @@ async function createInstanceGroupStock(
   console.log(startPageIndex, endPageIndex, rawStocks);
 
   return {
+    id: generateId(),
     name: `igs:${startDate.getFullYear().toString().padStart(4, "0")}${(startDate.getMonth() + 1).toString().padStart(2, "0")}${startDate.getDate().toString().padStart(2, "0")}`,
     stocks: formatedGroupStocks(rawStocks),
   };

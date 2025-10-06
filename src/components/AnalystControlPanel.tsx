@@ -20,7 +20,7 @@ import { getLocalStorageItem, saveLocalStorageItem } from "../utils/store";
 import { DEFAULT_GROUP_STOCK } from "../utils/constant";
 import {
   listGroupStocks,
-  selectedGroupStockName,
+  selectedGroupStockId,
 } from "../state/control_panel";
 import { GroupStocks } from "../types/data";
 import allData from "../data/all.json";
@@ -33,8 +33,8 @@ const AnalystControlPanel: React.FC = () => {
   const [lGroupStocks, setlGroupStocks] =
     useRecoilState<GroupStocks[]>(listGroupStocks);
   const [newGroupName, setNewGroupName] = React.useState("");
-  const [selectedGroupStockState, setSelectedGroupStockState] = useRecoilState(
-    selectedGroupStockName,
+  const [selectedGroupStockIdState, setSelectedGroupStockIdState] = useRecoilState(
+    selectedGroupStockId,
   );
 
   const handleAddGroupName = async (newGroupName: string) => {
@@ -249,7 +249,7 @@ const AnalystControlPanel: React.FC = () => {
     <Box sx={{ display: "flex", color: "white" }}>
       <FormControl fullWidth>
         <Select
-          value={selectedGroupStockState}
+          value={lGroupStocks.find((g) => g.id === selectedGroupStockIdState)?.name || ""}
           sx={{
             ".MuiOutlinedInput-notchedOutline": {
               border: "none",
@@ -261,13 +261,13 @@ const AnalystControlPanel: React.FC = () => {
               },
             },
           }}
-          onChange={(e) => setSelectedGroupStockState(e.target.value)}
+          onChange={(e) => setSelectedGroupStockIdState(e.target.value)}
         >
           <MenuItem key={DEFAULT_GROUP_STOCK} value={DEFAULT_GROUP_STOCK}>
             All
           </MenuItem>
           {lGroupStocks.map((item, index) => (
-            <MenuItem key={index} value={item.name}>
+            <MenuItem key={index} value={item.id}>
               {item.name}
             </MenuItem>
           ))}
